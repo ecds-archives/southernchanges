@@ -1,0 +1,10 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif}
+
+
+a         { text-decoration: none; }
+/* a:link         { color: #999900; }  */
+/* a:link         { color: #718152; }  */
+a:link    { color: #687c54; }
+a:active  { color: #444444; }
+a:visited { color: #b52512; }
+a:hover   { background-color: #ededed; }

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Search{% endblock %}
+{% block content %}
+<div class='content' id='search'>
+
+<table name="searchtable">
+<tr><td>
+
+<h2>Search</h2>
+
+<form action="{% url "search" %}" method="get">
+ <table class="searchform">
+   <tbody>
+   <tr><th>Keyword</th><td class="input"><input id="id_keyword" name="keyword" type="text" size="40"></td></tr>
+      <tr><th>Author</th><td class="input"><input id="id_author"name="author" type="text" size="40"><td class="input"></tr>
+      <tr><th>Title</th><td class="input"><input id="id_title"
+     name="title" type="text" size="40"></td></tr>
+      <tr><th>Article Date</th><td class="input"><input
+ id="id_article_date" name="article_date" type="text" size="40"></td></tr>
+ </tbody>
+    </table>
+    <input type="submit" value="Submit" />
+    <input type="reset" value="Reset"/>
+</form>
+    
+<td class="searchtips">
+<ul class ="searchtips"><b>Search tips:</b>
+<li>Search terms are matched against <i>whole words.</i></li>
+<li>Multiple words are allowed.</li>
+<li>Use "" to search a phrase. For example: "civil rights".</li>
+<li>Use AND to narrow a search. For example: "civil rights" AND women.</li>
+<li>Asterisks may be used when searching for multiple words from one root. <br/>
+For example, enter <b>resign*</b> to match <b>resign</b>, <b>resigned</b>, and
+<b>resignation</b>. </li>
+<li> Use several categories to narrow your search. For example, use author, keyword and 
+title to match a particular article.</li>
+<li>When searching on a state, try the abbreviated form as well. For example, use GA and Georgia
+to see search results for both.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<p class="searchtips">If you are interested in doing a more complex search, please
+contact the <script language="javascript">
+<!--
+var username = "beckctr";
+var hostname = "emory.edu";
+var linktext = "Beck Center Staff";
+document.write("<a href=" + "mail" + "to:" + username +
+"@" + hostname + ">" + linktext + "</a>")
+//-->
+</script><noscript> beckctr<img src="web/images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
+
+
+
+{% endblock %}

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates
+END
+issue_display.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/issue_display.html
+END
+article.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/article.html
+END
+article_display.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/article_display.html
+END
+issue_links.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/issue_links.html
+END
+article_table.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/article_table.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/base.html
+END
+volumes.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/volumes.html
+END
+issues.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/schanges/!svn/ver/543/schanges-django/src/schanges/templates/issues.html
+END

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+
+{% block title %}Issue Contents{% endblock %}
+{% block content %}
+<div class="content">
+<h2>Articles</h2>
+
+{% for id in id_list %}
+  <p>{{id.id}}</p>
+{% endfor %}
+  
+<h3>Issue: {{ issue.title }} </h3>
+<table class="contents">
+  <tbody>
+    <tr>
+      <th style="text-align:left">Author</th>
+      <th style="text-align:left">Title</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Pages</th>
+    <tr>
+  {% for article in issue.divs %}
+<tr>
+       <td width="15%" valign="top">{{ article.author }}</td>
+      <td valign="top"><a href="{% url "article_display" issue.id article.id %}">{{ article.head }}</a></td>
+       <td width="10%" valign="top">{{ article.type }}</td>
+       <td width="25%" valign="top">{{ article.pages }}</td>
+     </tr>
+  {% endfor %}
+     </tbody>
+     </table>
+
+<p><table width="75%">
+  <tbody>
+    {% if prev_issue %}
+    <tr>
+      <th style="text-align:left">Previous issue: </th><td><a href="{% url "issue_toc" prev_issue.id %}">{{prev_issue.head}}</a></td><tr>
+    {% endif %}
+    {% if next_issue %}
+	<th style="text-align:left">Next issue: </th><td><a href="{% url "issue_toc" next_issue.id %}">{{next_issue.head}}</a></td><tr>
+    {% endif %}
+    </tbody>
+     </table></p>
+ 
+</div>
+{% endblock content %}
+

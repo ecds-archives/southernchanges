@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block head-extras %}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/contents.css">
+{% endblock %}
+
+{% block title %}Browse - Southern Changes Digital Archive{% endblock %}
+
+{% block content %}
+{% include "browse-head.html" %}
+<div class="content">
+<table class="browse">
+<tr>
+  <td>
+<h2>Issues</h2>
+<div class="categories">
+{% for group in groups %}
+<a onClick="$('#{{group.0}}').toggle()"><h3 id="category-label" class ="toggle">{{group.0}}</h3></a>
+  <ul id="{{group.0}}" class="category" style="display:none">
+    {% with "1:" as items %}
+    {% for issue in group|slice:items %}
+  <li>
+<a href="{% url "issue_toc" issue.id %}">{{issue.head}}</a>  
+</li>
+{% endfor %}
+{% endwith %}
+</ul>
+{% endfor %}
+</div>
+<td>
+<td>  
+<div class="categories">
+<a onClick="$('#topics').toggle()"><h2 id="category-label" class ="toggle">Topics</h2></a>
+  <ul id="topics" class="category" style="display:none">
+  {% for topic in topics %}
+  <li>
+<a href="{% url "topic_toc" topic.id %}">{{topic}}</a>  
+</li>
+{% endfor %}
+</ul>
+</div>
+</td></tr></table>
+</div>
+{% endblock %}
+
+</html>

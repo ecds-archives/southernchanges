@@ -1,0 +1,263 @@
+body {background-image: url(media/images/young.jpg);}
+/* styles for the header and footer */
+div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
+/*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
+/*div.header { border: 3px solid #02023a; text-align:center;} */
+
+/* styles for main part of page */
+a:link {color: blue; text-decoration: none; }
+a:visited {color: purple; text-decoration:none;}
+
+div.header h1 { font-family: "Arial", "MS Arial", sans-serif;
+           font-size: 36pt;
+           margin: -1px;
+           line-height:120%;}
+
+div.header h2 { font-family: "Arial", "MS Arial", sans-serif;
+           font-size: 13pt;
+           margin: -4px;
+           line-height:120%;}
+ 
+div.headerseachbox {text-align: center;
+                   display: block;
+                   width: 50%; }
+p.searchbox {font-family: Arial, sans-serif;
+            font-size:90%;
+            text-align: center;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #684E4C;
+            padding: 10px; }
+
+/*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
+
+p.searchbox b {padding-right: 5px;}
+p.searchbox input#go{margin-left: 5px;}
+
+div.headimage {position:static;
+              display: block;
+              text-align:center;
+              margin-top: 2em;
+              margin-bottom: 1em; }
+div.headimage h2 { font-family: "Arial", "MS Arial", sans-serif;
+           font-size: 28pt;
+           color:#684E4C;
+           /*font-style: italic; */
+           text-align: center;}
+div.headimage img {display: inline;
+    padding: 5px;
+    margin: 0 auto;}
+
+/*img.headimage {display: block;
+              margin-left: auto;
+              margin-right: auto;}*/
+
+div.nav {font-family: "Arial Bold", Arial, "MS Arial", sans-serif;
+        font-size: 24pt;  
+        text-decoration: none;
+        text-align: center;}
+
+p.navlinks {text-align: center;        
+           margin-left: auto;
+           margin-right: auto;
+           display: inline;}
+
+span#ov {padding: 0 1em;}
+span#br {padding: 0 1em;}
+span#se {padding: 0 1em;}
+
+div.teenimage {position: static;
+              margin-top: 3em;
+              margin-bottom: 3em;}
+
+img.teenimage {display: block;
+            text-align: center;
+              margin-left: auto;
+              margin-right: auto;}
+
+p.credit {text-align: right;
+         font-size:8pt;
+         font-family: "MS Arial", Arial, sans-serif;
+         margin-right: 36%;
+         margin-top: -0.125em;}
+
+img.covers {position: static;
+           display: inline; }
+
+div.teensub {position: static;
+            margin-bottom: 3em; }
+
+img.teensub {display: block;
+            text-align: center;
+              margin-left: auto;
+              margin-right: auto;}
+           
+
+div.subnav {font-family: "Arial Bold",  "MS Arial", "Gill Sans", sans-serif;
+           font-size: 18pt;
+           text-decoration: none;
+           text-align: center;}
+
+p.navlinks {margin-left: auto;
+           margin-right:auto;
+           display: inline;
+           /*text-shadow: 0.12em 0.12em 0.1em black*/}
+
+span#ho {padding: 0 1em;}
+span#ov {padding: 0 1em;}
+span#br {padding: 0 1em;}
+span#se {padding: 0 1em;}
+
+
+div.content {font-family: "Arial", MS Arial, sans-serif;
+            font-size: 12pt;
+            text-decoration: none;
+            text-align: left;
+            margin-left: 2em;
+            margin-right: 2em;}
+
+div.contents {font-family: "Arial", MS Arial, sans-serif;
+            font-size: 12pt;
+            text-decoration: none;
+            text-align: left;
+            margin-left: 2em;
+            margin-right: 2em;}
+
+p.epigraph {text-align: center;
+           font-style: italic;}
+
+span#bibl {font-style: normal;}
+
+div.credit {margin-left: 2em;}
+
+div.acklink { font-family: "Arial", "MS Arial", sans-serif;
+           font-size: 13pt;
+           margin-left: 0em;}
+
+div.externalnav {text-align: center;
+                font-family: "Arial Bold",  "MS Arial", sans-serif;
+                font-size: 14pt;
+                text-decoration: none;
+                /*text-shadow: 0.1em 0.1em 0.1em black*/}
+
+p#beck {margin-left: auto;
+       margin-bottom: 1em;
+       margin-right: auto}
+
+/*p#src {float: right; margin-right: 25%; margin-bottom: 1em;}*/
+
+span#bc, span#src {padding: 0 2em;}
+span.editorial { color: #545454; font-size: 10px; font-weight: normal; /* same as body text, even inside a head */ }
+span.edcorr {color: #545454;}
+span.add {color:green;}
+span.del {color:red}
+span.note {color: #545454; font-size: 11px; font-weight: normal;}
+
+
+span.speaker {font-weight: bold;}
+
+span.speech {display: inline;}
+
+span.sidebar {display: block;
+             border: thin solid black;
+             padding-left: 2%;
+             padding-right: 2%;
+             background-color: #fff8b2;
+             margin-top: 1%;}
+
+div.foot {display:block;
+         font-family: "Arial Bold",  "MS Arial", "Gill Sans", sans-serif;
+         font-size: 12pt;
+         text-decoration: none;
+         text-align: center;}
+
+p#footnav {margin-left: 2em;
+          margin-right: 2em; }
+
+span#con span#euc span#ul span#eu {padding: 0 1em}
+
+hr.foot {width: 613px;}
+
+/*Styles for search matching, tables*/
+
+td.count { width:15%;
+         text-align: center; }
+
+td.link {width:25px;
+        font-size:85%;
+        text-align:center;}
+
+
+
+table.kwicsearchresults { width:90%; }
+
+table.searchresults { width:90%;  
+                    border-collapse: collapse; }
+
+table.searchresults td { border-bottom: 1px solid #cccccc; }
+
+p.kwic { margin: 5px 0.5in 5px 0.5in;
+       border-bottom: 1px solid #cccccc;}
+
+table.kwic { margin: 5px 0.5in 5px 0.5in;
+           border-bottom: 1px solid #cccccc;}
+
+table.kwic td.pn { width: 65px;
+           vertical-align: middle;}
+
+/* link results - display as horizontal list, inline, with lines between */
+li.resultlink, li.firstresultlink {
+     display:inline;
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: 2px solid #666;
+  }
+/* (no left border on first item) */
+li.firstresultlink { border-left: none; }
+div.resultlink { float: right; padding-right: 0.5in;}
+
+/*span.match { font-weight: bold; }*/
+span.match { font-weight:bold; background-color:#684E4C; color:#FFFFFF; }
+
+/*span.right for text right aligned*/
+span.right {text-align:right;}
+
+/*span.superscript for elevated text*/
+span.superscript {vertical-align: super; font-size: smaller;}
+
+/* next/prev/etc. navigation */
+div.searchnav {
+  background:#684E4C;
+  margin-bottom:10px;
+  height:20px;
+  text-align:center;
+}
+/* for first/next/last links spacing to be consistent,
+   all links should always be present with no link text if there is no url */
+div.searchnav a, table.searchnav a {
+  color:#ffffff;
+  line-height:20px;
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+}
+div.searchnav a:hover, table.searchnav a:hover {
+  color: #FF9933;
+}
+
+table.searchnav {
+  background:#684E4C;
+  margin-bottom:10px;
+  height:20px;
+  text-align:center;
+  width:100%;
+  clear:both;
+}
+table.searchnav td {
+  width:25%;
+}
+
+form#jumpnav { float:right; }
+
+th { text-align:left; }

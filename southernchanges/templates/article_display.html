@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+
+
+{% block title %}Article{% endblock %}
+{% block content %}
+<div class="content">
+<h2>Article</h2>
+  <p>Go to Article List for <a href="{% url "issue_toc" article.issue_id %}">{{article.issue_title}}</a></p>
+
+  
+{% if article %}
+  {{ body|safe }}
+{% else %}
+  <p>No article</p>
+{% endif %}
+
+ <p>Go to Article List for <a href="{% url "issue_toc" article.issue_id %}">{{article.issue_title}}</a></p>
+
+<table width="75%">
+  <tbody>
+    {% if article.prevdiv_id %}
+    <tr>
+      <th style="text-align:left">Previous: </th><td><a href="{% url "article_display" article.issue_id article.prevdiv_id %}">{{article.prevdiv_title}}</a></td><td>{{article.prevdiv_type}}</td><td><p>{{article.prevdiv_pages}}</p></td><tr>
+    {% endif %}
+    {% if article.nextdiv_id %}
+    <tr>
+      <th style="text-align:left">Next: </th><td><a href="{% url "article_display" article.issue_id article.nextdiv_id %}">{{article.nextdiv_title}}</a></td><td>{{article.nextdiv_type}}</td><td><p>{{article.nextdiv_pages}}</p></td><tr>
+    {% endif %}
+    </tbody>
+     </table>
+  
+</div>
+
+<!--<pre>{{letter.body.serializeDocument}}</pre>-->
+
+{% endblock %}
