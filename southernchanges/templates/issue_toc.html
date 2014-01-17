@@ -41,7 +41,9 @@
     {% endif %}
     </tbody>
      </table></p>
- 
+
+<p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p>
+     
 </div>
 {% endblock content %}
 

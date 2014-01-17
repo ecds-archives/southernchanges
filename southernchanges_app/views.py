@@ -178,4 +178,14 @@ def article_display(request, doc_id, div_id):
   except DoesNotExist:
         raise Http404
 
+def issue_xml(request, doc_id):
+  "Display xml of a single issue."
+  try:
+    doc = Issue.objects.get(id__exact=doc_id)
+  except:
+    raise Http404
+  tei_xml = doc.serializeDocument(pretty=True)
+  return HttpResponse(tei_xml, mimetype='application/xml')
+
+
 
