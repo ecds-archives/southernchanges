@@ -10,6 +10,7 @@ from eulxml.xmlmap.core import XmlObject
 from eulxml.xmlmap.fields import StringField, NodeField, StringListField, NodeListField, IntegerField
 from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap, TeiInterpGroup, TeiInterp
 
+
 class Fields(_TeiBase):
     ROOT_NAMESPACES = {
         'tei' : TEI_NAMESPACE,
@@ -25,6 +26,7 @@ class Fields(_TeiBase):
 class TeiDoc(Tei):
     divs = xmlmap.NodeListField('//tei:div2', Fields)
 
+
 class Issue(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
@@ -33,6 +35,32 @@ class Issue(XmlModel, Tei):
     date = StringField('//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
     head = StringField('//tei:div1/tei:head')
     year = StringField('//tei:div1/tei:p/tei:date')
+
+    site_url = 'http://beck.library.emory.edu/greatwar'
+    source = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc')
+    issued_date = StringField('tei:teiHeader/tei:publicationStmt/tei:date')
+    created_date = StringField('tei:teiHeader/tei:sourceDesc/tei:bibl/tei:date/@when')
+    identifier_ark = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type="ark"]')
+    title = StringField('tei:teiHeader/tei:titleStmt/tei:title')
+    creator = StringField('tei:teiHeader/tei:sourceDesc/tei:bibl/tei:publisher')
+    publisher = StringField('tei:teiHeader/tei:publicationStmt/tei:publisher')
+    rights = StringField('tei:teiHeader/tei:publicationStmt/tei:p')
+    series = StringField('tei:teiHeader/teiseriesStmt/tei:title')
+    project_desc = StringField('tei:teiHeader/tei:encodingDesc/tei:projectDesc')
+
+
+    @property
+    def dc_fields(self):
+        dc = DublinCore()
+        dc.title = self.title
+        dc.creator = self.creator
+        dc.contributor = self.contributor
+        dc.publisher = self.publisher
+        dc.date = self.created_date
+        dc.rights = self.rights
+        dc.source = self.source
+        dc.description = self.project_desc
+        dc.identifier = self.identifier_ark
 
 class Article(XmlModel, TeiDiv):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
