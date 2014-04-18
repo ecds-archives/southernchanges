@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 
-
+{% block meta %}
+{# Dublin Core metadata for this article #}
+{% with article as dc_fields %}{% include 'article_dc_meta.html' %}{% endwith %}
+{% endblock %}
 
 {% block title %}Article{% endblock %}
 {% block content %}

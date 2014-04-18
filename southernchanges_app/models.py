@@ -3,6 +3,7 @@ import datetime
 
 from django.utils.safestring import mark_safe
 from django.db import models
+
 from eulexistdb.manager import Manager
 from eulexistdb.models import XmlModel
 from eulxml.xmlmap.core import XmlObject 
@@ -32,20 +33,21 @@ class Issue(XmlModel, Tei):
     objects = Manager('/tei:TEI')
     id = StringField('@xml:id')
     divs = NodeListField('//tei:div2', Fields)
+    pids = NodeListField('//tei:idno', Fields)
     date = StringField('//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
     head = StringField('//tei:div1/tei:head')
     year = StringField('//tei:div1/tei:p/tei:date')
 
-    site_url = 'http://beck.library.emory.edu/greatwar'
-    source = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc')
-    issued_date = StringField('tei:teiHeader/tei:publicationStmt/tei:date')
-    created_date = StringField('tei:teiHeader/tei:sourceDesc/tei:bibl/tei:date/@when')
+    site_url = 'http://beck.library.emory.edu/southernchanges'
+    source = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl')
+    issued_date = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date')
+    created_date = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
+    author = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:publisher')
     identifier_ark = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type="ark"]')
-    title = StringField('tei:teiHeader/tei:titleStmt/tei:title')
-    creator = StringField('tei:teiHeader/tei:sourceDesc/tei:bibl/tei:publisher')
-    publisher = StringField('tei:teiHeader/tei:publicationStmt/tei:publisher')
-    rights = StringField('tei:teiHeader/tei:publicationStmt/tei:p')
-    series = StringField('tei:teiHeader/teiseriesStmt/tei:title')
+    title = StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title')
+    publisher = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:publisher')
+    rights = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:p')
+    series = StringField('tei:teiHeader/tei:fileDesc/tei:seriesStmt/tei:title')
     project_desc = StringField('tei:teiHeader/tei:encodingDesc/tei:projectDesc')
 
 
@@ -53,39 +55,36 @@ class Issue(XmlModel, Tei):
     def dc_fields(self):
         dc = DublinCore()
         dc.title = self.title
-        dc.creator = self.creator
-        dc.contributor = self.contributor
-        dc.publisher = self.publisher
-        dc.date = self.created_date
-        dc.rights = self.rights
-        dc.source = self.source
-        dc.description = self.project_desc
+        dc.creator = self.author
         dc.identifier = self.identifier_ark
+        dc.publisher = self.header.publisher
+        dcterms.issued = self.issued_date
+        dcterms.created = self.created_date
+        dc.rights = self.header.rights
+        dcterms.isPartOf = self.series
+        dc.source = self.source
+        dcterms.description = self.divs
+        dcterms.hasPart = self.pids
 
 class Article(XmlModel, TeiDiv):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager("//tei:div2")
     article = NodeField("//tei:div2", "self")
-    id = StringField('@xml:id')
+    id = NodeField('@xml:id', 'self')
+    # pid = NodeField('ancestor::tei:TEI//tei:idno[@n=%s]' % id, Issue)
     date = StringField('tei:docDate/@when')
     head = StringField('tei:head')
     author = StringField("tei:byline//tei:sic")
     type = StringField("@type")
     pages = StringField("tei:docDate")
+
     issue = NodeField('ancestor::tei:TEI', Issue)
     issue_id = NodeField('ancestor::tei:TEI/@xml:id', Issue)
     issue_title = NodeField('ancestor::tei:TEI//tei:div1/tei:head', Issue)
-    nextdiv = NodeField("following::tei:div2[1]", "self")
-    prevdiv = NodeField("preceding::tei:div2[1]", "self")
-    nextdiv_id = NodeField("following::tei:div2[1]/@xml:id","self")
-    prevdiv_id = NodeField("preceding::tei:div2[1]/@xml:id", "self")
-    nextdiv_title = NodeField("following::tei:div2[1]/tei:head","self")
-    prevdiv_title = NodeField("preceding::tei:div2[1]/tei:head", "self")
-    nextdiv_pages = NodeField("following::tei:div2[1]/tei:docDate","self")
-    prevdiv_pages = NodeField("preceding::tei:div2[1]/tei:docDate","self")
-    nextdiv_type = NodeField("following::tei:div2[1]/@type","self")
-    prevdiv_type= NodeField("preceding::tei:div2[1]/@type","self")
-    
+
+    nextdiv = NodeField("following::tei:div2[1]", Fields)
+    prevdiv = NodeField("preceding::tei:div2[1]", Fields)
+     
 
     
     ana = StringField("@ana", "self") 

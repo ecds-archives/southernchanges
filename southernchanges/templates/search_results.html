@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load get_item %}
 
 {% block title %}Search{% endblock %}
 {% block content %}
@@ -24,50 +25,44 @@
 {% if server_error %}{{ server_error }}{% endif %}
 
 {% if searchform.is_valid %}
+    
 <table class="searchnav">
-<tr>
-    <td colspan="3">&nbsp;</td>
-  </tr>
   <tr>
-    <td width="160">
-    &nbsp;
-    {% if articles_paginated.has_previous %}
-        <a href="?page={{ articles_paginated.previous_page_number  }}&keyword={{ keyword }}&title={{title}}&author={{author}}&article_date={{date}}">[ &nbsp;&lt;&lt; Previous&nbsp; ]</a>
+      <td width="25%">
+    {% if articles_paginated.number >= 3 %}
+        <a href="?page=1&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">&lt;&lt;First</a>
     {% endif %}
     </td>
-   
-     <td align="center">
-      [&nbsp;
-      {% for current_page in articles_paginated.paginator.page_range %}
-        {% if articles_paginated.number == current_page %}
-          &nbsp;{{ current_page }}&nbsp;
-        {% else %}
-          <a href="?page={{ current_page }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">&nbsp;{{ current_page }}&nbsp;</a>
-        {% endif %}
-      {% endfor %}
-      &nbsp;]
-     </td>
- 
-      <td width="110" align="right">
-      {% if articles_paginated.has_next %}
-          <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">[ &nbsp;Next &gt;&gt;&nbsp; ]</a>
-      {% endif %}
-      &nbsp;
-      </td>
+    <td width="25%">
+    {% if articles_paginated.has_previous %}
+        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">&lt;Previous</a>
+    {% endif %}
+    </td>
+    {% if articles_paginated.has_next %}
+    <td width="25%">
+        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">Next&gt;</a>
+    </td>
+    <td width="25%">
+        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">Last&gt;&gt;</a>
+    </td>
+    {% endif %}
   </tr>
 </table>
-    
+
 <form align="right" id="jumpnav" action="{% url "search" %}">
 <select name="page" onchange="submit();">
   {% for page in articles_paginated.paginator.page_range %}
-  <option value="{{page}}" selected="selected">{{ articles_paginated.start_index }} - {{articles_paginated.end_index }}</option>
+  {% if page == articles_paginated.number %}
+  <option value="{{page}}" selected="selected">{{ range_lookup|get_item:page }}</option>
+  {% else %}
+    <option value="{{page}}">{{ range_lookup|get_item:page }}</option>
+  {% endif %}
     {% endfor %}
 </select>
 <input name="keyword" type="hidden" value="{{keyword}}">
 <input name="author" type="hidden" value="{{author}}">
 <input name="title" type="hidden" value="{{title}}">
 <input name="date" type="hidden" value="{{article_date}}">
-<input name="max" type="hidden" value="20">
 </form>
 
 

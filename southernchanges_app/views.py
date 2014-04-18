@@ -63,8 +63,13 @@ def searchform(request):
         except (EmptyPage, InvalidPage):
             searchform_page = searchform_paginator.page(paginator.num_pages)
 
+        range_dict = {}
+        for page in searchform_page.paginator.page_range:
+          range_dict[page] = str(searchform_paginator.page(page).start_index()) + ' - ' + str(searchform_paginator.page(page).end_index())
+
         context['articles'] = articles
         context['articles_paginated'] = searchform_page
+        context['range_lookup'] = range_dict
         context['keyword'] = form.cleaned_data['keyword']
         context['author'] = form.cleaned_data['author']
         context['title'] = form.cleaned_data['title']
@@ -171,7 +176,7 @@ def article_display(request, doc_id, div_id):
     url_params = ''
     filter = {}
   try:
-    return_fields = ['issue_id', 'issue_title', 'nextdiv_id', 'nextdiv_title', 'prevdiv_id', 'prevdiv_title', 'nextdiv_pages', 'prevdiv_pages', 'nextdiv_type', 'prevdiv_type']
+    return_fields = ['issue__title', 'issue__publisher', 'issue__issued_date', 'issue__created_date', 'issue__rights', 'issue__series', 'issue__source', 'pid', 'issue_id', 'issue_title', 'nextdiv_id', 'nextdiv_title', 'prevdiv_id', 'prevdiv_title', 'nextdiv_pages', 'prevdiv_pages', 'nextdiv_type', 'prevdiv_type']
     article = Article.objects.also(*return_fields).filter(issue__id=doc_id).filter(**filter).get(id=div_id)
     body = article.xsl_transform(filename=os.path.join(settings.BASE_DIR, '..', 'southernchanges_app', 'xslt', 'issue.xslt'))
     return render_to_response('article_display.html', {'article': article, 'body' : body.serialize()}, context_instance=RequestContext(request))

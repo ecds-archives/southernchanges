@@ -10,11 +10,10 @@
 {% block content %}
 {% include "browse-head.html" %}
 <div class="content">
-<table class="browse">
-<tr>
-  <td>
+
+ 
 <h2>Issues</h2>
-<div class="categories">
+<div class="issues">
 {% for group in groups %}
 <a onClick="$('#{{group.0}}').toggle()"><h3 id="category-label" class ="toggle">{{group.0}}</h3></a>
   <ul id="{{group.0}}" class="category" style="display:none">
@@ -30,7 +29,7 @@
 </div>
 <td>
 <td>  
-<div class="categories">
+<div class="topics">
 <a onClick="$('#topics').toggle()"><h2 id="category-label" class ="toggle">Topics</h2></a>
   <ul id="topics" class="category" style="display:none">
   {% for topic in topics %}
@@ -40,7 +39,6 @@
 {% endfor %}
 </ul>
 </div>
-</td></tr></table>
 </div>
 {% endblock %}
 

@@ -2,7 +2,7 @@
 
 {% block meta %}
 {# Dublin Core metadata for this issue #}
-{% with issue as dc_fields %}{% include 'dc_meta.html' %}{% endwith %}
+{% with issue as dc_fields %}{% include 'issue_dc_meta.html' %}{% endwith %}
 {% endblock %}
 
 {% block title %}Issue Contents{% endblock %}
@@ -10,11 +10,7 @@
 <div class="content">
 <h2>Articles</h2>
 
-{% for id in id_list %}
-  <p>{{id.id}}</p>
-{% endfor %}
-  
-<h3>Issue: {{ issue.title }} </h3>
+<h3>Issue: {{ issue.head|slice:"18:"}} </h3>
 <table class="contents">
   <tbody>
     <tr>
@@ -38,15 +34,15 @@
   <tbody>
     {% if prev_issue %}
     <tr>
-      <th style="text-align:left">Previous issue: </th><td><a href="{% url "issue_toc" prev_issue.id %}">{{prev_issue.head}}</a></td><tr>
+      <th style="text-align:left">Previous issue: </th><td><a href="{% url "issue_toc" prev_issue.id %}">{{prev_issue.head|slice:"18:"}}</a></td><tr>
     {% endif %}
     {% if next_issue %}
-	<th style="text-align:left">Next issue: </th><td><a href="{% url "issue_toc" next_issue.id %}">{{next_issue.head}}</a></td><tr>
+	<th style="text-align:left">Next issue: </th><td><a href="{% url "issue_toc" next_issue.id %}">{{next_issue.head|slice:"18:"}}</a></td><tr>
     {% endif %}
     </tbody>
      </table></p>
 
-<p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p>
+<!-- <p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p> -->
      
 </div>
 {% endblock content %}
