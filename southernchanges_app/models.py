@@ -1,6 +1,7 @@
 import re
 import datetime
 
+from django.core.urlresolvers import reverse
 from django.utils.safestring import mark_safe
 from django.db import models
 
@@ -10,7 +11,7 @@ from eulxml.xmlmap.core import XmlObject
 #from eulxml.xmlmap.dc import DublinCore
 from eulxml.xmlmap.fields import StringField, NodeField, StringListField, NodeListField, IntegerField
 from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap, TeiInterpGroup, TeiInterp
-
+from southernchanges.utils import absolutize_url
 
 class Fields(_TeiBase):
     ROOT_NAMESPACES = {
@@ -84,10 +85,31 @@ class Article(XmlModel, TeiDiv):
 
     nextdiv = NodeField("following::tei:div2[1]", Fields)
     prevdiv = NodeField("preceding::tei:div2[1]", Fields)
-     
-
     
     ana = StringField("@ana", "self") 
+
+    # Modified from Readux
+    # def fulltext_absolute_url(self):
+    #     '''Generate an absolute url to the text view for this volume
+    #     for use with external services such as voyant-tools.org'''
+    #     return absolutize_url(reverse('send_file', kwargs={'basename': self.id}))
+    
+    # def voyant_url(self):
+    #     '''Generate a url for sending the content of the current volume to Voyant
+    #     for text analysis.'''
+
+    #     url_params = {
+    #         # 'corpus': self.pid,
+    #         # 'archive': self.fulltext_absolute_url()
+    #         'url': self.fulltext_absolute_url()
+    #     }
+    #         # if language is known to be english, set a default stopword list
+    #     # NOTE: we could add this for other languages at some point
+    #     if self.language and "eng" in self.language:
+    #         url_params['stopList'] = 'stop.en.taporware.txt'
+
+    #     return "http://voyant-tools.org/?%s" % urlencode(url_params)
+
    
 class Topics(XmlModel):
     objects = Manager("//interp")

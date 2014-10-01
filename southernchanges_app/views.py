@@ -2,6 +2,9 @@ import os
 import re
 from urllib import urlencode
 import logging
+import tempfile, zipfile
+from django.core.servers.basehttp import FileWrapper
+import mimetypes
 
 from django.conf import settings
 from django.shortcuts import render, render_to_response
@@ -192,5 +195,19 @@ def issue_xml(request, doc_id):
   tei_xml = doc.serializeDocument(pretty=True)
   return HttpResponse(tei_xml, mimetype='application/xml')
 
+def send_file(request, basename):
+    if basename[2] == '_':
+        extension = '.zip'
+    else:
+        extension = '.txt'
+    filepath = 'static/txt/' + re.sub(r'_1204', '', basename ) + extension
+    filename  = os.path.join(settings.BASE_DIR, filepath )
+    download_name = basename + extension
+    wrapper      = FileWrapper(open(filename))
+    content_type = mimetypes.guess_type(filename)[0]
+    response     = HttpResponse(wrapper,content_type=content_type)
+    response['Content-Length']      = os.path.getsize(filename)    
+    response['Content-Disposition'] = "attachment; filename=%s"%download_name
+    return response
 
 

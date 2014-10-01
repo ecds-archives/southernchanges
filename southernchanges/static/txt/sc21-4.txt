@@ -1,0 +1,564 @@
+
+    
+      
+        
+        Southern Changes.  Volume 21, Number 4,
+	       1999
+        
+          Census 2000: One Census, Two Counts--The
+Politics Behind the Confusion
+          By Hagens, WinnettWinnett Hagens
+          Vol. 21, No. 4, 1999 pp. 3-5
+          
+          Arguing the case for a statistical adjustment of the 1990 Census before the Supreme Court in the fall of 1995, U.S. Solicitor General Drew Days began his presentation with the observation that "the true total population of the United States is unknown and unknowable." Although the 1990 Census described itself as "better designed and executed than any previous Census," it also was the first Census ever to be less accurate than its predecessor. That year, the Census Bureau determined it had missed about 8.4 million people and double-counted 4.4 million others. As for 2000, according to Bureau Director Dr. Kenneth Pruitt, "the apportionment counts are not likely to be an improvement on the 1990 accuracy levels." Indeed, the undercount will be even higher.
+          
+            Causes of Growing Census Undercounts
+          
+          The Census is administered through mailed questionnaires. Every decade for the last thirty years, more and more people seem unable or unwilling to cooperate with the process. In 1970, the non-response rate was 15 percent; in 1980 it was 25 percent; in 1990, 37 percent; and, in 2000, estimates suggest that the rate will be between 39 and 40 percent.
+          Many powerful reasons exist for this weakening of public
+cooperation. The realities that make some people "difficult-to-count" are growing. People in the U.S. are busy. In many families, both spouses are now working, making it more difficult than ever to find anyone at home. Transient lifestyles are on the rise. More people are living in culturally and linguistically distinct communities. The population of groups that often avoid government officials is on the rise. Massive increases in the volume of direct mail solicitations over the last two decades has inured Americans to mail-based appeals. Civic engagement generally-voting, partisan involvement, jury duty-is in decline while public cynicism about government gathers momentum. These converging realities have frustrated and confounded the extraordinary effort of the Bureau of the Census to achieve increasingly accurate censuses.
+          
+            The Differential Undercount
+          
+          The Census undercount disproportionately injures non-affluent minorities. While 1.6 percent of the total population in 1990 was missed, the undercount for blacks was about 4.4 percent; for Latinos, nearly 5 percent; for Native Americans about 12.2 percent. Only 0.7 percent of non-Hispanic whites were missed. Children and people renting shelter are also over-represented in the undercount.
+          Historically, the non-affluent immigrant and minority groups most vulnerable to the undercount have often been supporters of the Democratic Party. This reality fuels the intense political and legal battles over enumeration. Census methods that include "difficult-to-count"  people will inevitably apportion to them-and any party winning their loyalty-increased political power. Democratically-affiliated politicians, arguing that science will produce a more accurate and cost effective census (and with it fair representation and equitable federal funding for minorities), passionately endorse sampling techniques and adjusted census numbers that minimize undercounting. Republicans bitterly oppose these remedies, insisting that sampling is an unlawful scheme to inflate Democratic political strength with phony "computer-generated people." Since $185 billion in federal funds will be apportioned in the next decade on the basis of the Census' findings, differing enumeration methods will have huge effects upon the amount of federal dollars some states receive. In the end, this is a battle for partisan control of governing bodies from Congress to local school boards.
+          
+             Congressional Malapportionment by Court Order
+          
+          Determined to avoid a repeat of the methodological controversy that
+doomed the timely release of adjusted census figures for the 1990
+census, the Bureau commis-sioned a series of studies by the National Academy of Science on ways to achieve the most accurate census possible in 2000. Academy experts concluded that it was "fruitless to continue trying to count every last person with traditional Census methods of physical enumeration." Rather, they agreed, the key to more accurate numbers and greater cost effectiveness would be a post-census survey that carefully sampled undercounted and over-counted populations in order to produce a precise description of census coverage inaccuracies. Once the inaccuracies and their distribution were known, adjustment methods could be applied, producing more accurate numbers. Sampling generates cost savings by reducing the face-to-face follow-ups at  households failing to return Census questionnaires.
+          Thanks to these experts, until January 1999, we had a more
+accurate, scientifically-engineered and cost-effective census within
+reach. But, as Bureau Director Pruitt explains, the NAS design with
+its commitment to accuracy through statistical correction "quickly
+became mired in political disputes, was litigated by a coalition of
+conservatives and Republican plaintiffs, and was set aside by the
+Supreme Court." By a single vote, the conservative faction of the
+Court prevailed (in Department of Commerce et. al. v. United States House of Representatives et. al.), mandating the use of uncorrected-inaccurate-population counts for the purpose of reallocating congressional seats among the states in 2001. Congressional apportionment will be deliberately calculated with census data unadjusted for accuracy by scientifically valid sampling techniques. Without the adjustment, "difficult-to-count," non-affluent immigrant and minority groups missed by the head count will be excluded from the Census figures. This is no small matter as it directly manufactures an avoidable under-representation of non-affluent immigrant and minority groups in Congress. Past Census estimates show that these groups are among the fastest growing segments of our population. Unless Congress steps in to change the law, this deliberate under-representation will last at least until the next Census in 2010. It is congressional malapportionment by court order. As long as this decision stands, the opportunity for fair congressional reapportionment is lost.
+          The decision, especially the way it was carefully limited to
+congressional reapportionment, serves perfectly the conservative
+Republican interests which inspired and backed the lawsuit. Because
+federal law (the Census Act) unequivocally required that sampling be
+used for purposes other than apportionment if  'feasible,' the Court
+came to an entirely opposite conclusion when it comes to the use of
+sampling for intrastate redistricting or the distribution of federal
+funds. With all nine Justices concurring in one way or another, the Court expressly and emphatically voiced its opinion that for purposes other than the reapportionment of congress, the use of statistical sampling methods was not only lawful but required. As Sandra Day O'Connor  put it, the Census Act of 1976 changed the law from one that "permitted the use of sampling for the purposes other than apportionment into one that required that sampling be used for such purposes if 'feasible.'" Political redistricting (drawing boundaries for representational districts of governing bodies within states) and apportionment of federal spending can be based on scientific techniques that minimize the differential undercount. Because of this decision there will be two Census counts published  in 2001.
+          From the point of view of the conservative Republican coalition which engineered this outcome, this is an ingenious strategy. The use of an unadjusted "head count" will over-represent residentially stable, conservative, suburban voters in Congressional reapportionment. Yet, Republican governors and legislatures, especially in states like Texas and Florida, can demand the use of adjusted numbers which minimize the undercount for the purpose of  allocating federal funds. The question of which set of numbers to use for intrastate redistricting is being left up to each state to resolve. Legislatures in four states controlled by Republicans-Alaska, Arizona, Colorado, and Kansas-have already passed laws prohibiting the use of sampled population data in their state redistricting process. Other legislatures are likely to follow suit (see  sidebar on page 4).
+          Both Arizona and Alaska are subject to the preclearance requirements of Section 5 of the Voting Rights Act of 1965. Before either state can legally implement their prohibition of sampling-based census numbers they must prove to the Department of Justice (DOJ) that these new laws are not intended to and will not have the effect of diluting minority voting strength. Both states have made their submissions to the DOJ but at printing time (January 2000) we are still awaiting word from the Civil Rights Division. Ed Still, Project Director of the Voting Rights Project at the Lawyers' Committee for Civil Rights Under Law anticipates that the DOJ will interpose objections. "The only outstanding question is how severe the DOJ objections will be," says Still.
+          
+            One Census, Two Counts: More Work for Lawyers
+          
+          Following the Court's decision in February of 1999, the Census Bureau unveiled a revised Census 2000 plan that complied with the Court's order. In place of modern scientific methods, the Bureau proposed a huge follow-up outreach to non-responding households. This face-to-face effort will add $1.7 billion to the cost of the Census. The results will be used for congressional apportionment.
+          Following the enumeration, the Census Bureau will also conduct a quality control survey, called Accuracy in Coverage Evaluation (ACE) of 300,000 households. The ACE results will be compared to findings of the initial head count in order to build an adjustment formula to account for people missed or double-counted. These corrected numbers will be used for non-apportionment purposes like redistricting and the distribution of federal funds.
+          There will be, then, two separate counts disseminated by the Bureau following the 2000 Census. For the first time in history the Census will yield contradictory sets of numbers describing the U.S. population. Neither will be highly accurate. Both will ignite heated controversies and provide opportunities for political mischief at all levels of government-from local school boards to congressional districts-over which set of numbers, adjusted or unadjusted, must be used for intrastate redistricting. A new field of litigation-census law-will come into its own.
+          
+            Winnett Hagens is director of Fair Representation Programs at the
+Southern Regional Council.
+          
+        
+        
+          And They Will Come: School of the Americas Protest Gains Momentum
+          By Greenlee, GaleGale Greenlee
+          Vol. 21, No. 4, Winter 1999 pp. 1, 6-7
+          
+          In the beginning, only a faithful few gathered
+outside the gates of the Fort Benning military base to protest
+violence and human rights abuses perpetrated by graduates of the
+U.S. Army's School of the Americas (SOA). That's a far cry from the
+thousands of demonstrators who descended on the small town of
+Columbus, Georgia, last November to call for the closing of the school
+known by many as "Escuela de Asesinos" or "School of Assassins." Last
+year, an estimated 12,000 demonstrators turned out for the vigil-up
+from 7,000 in 1998-and 4,408 crossed the line onto the military base,
+simultaneously risking arrest and almost doubling the number that
+marched onto the property in solemn protest the previous year.
+          
+          The much-talked about annual vigil started in 1990, following the 1989 massacre of six Jesuit priests, their housekeeper and her daughter in El Salvador; a United Nations Truth Commission found that nineteen of the twenty-six soldiers involved in the "execution style" murders graduated from the school. In ten years, the protest has developed into a full-blown grassroots movement attracting members of faith communities, labor leaders, and student activists, and gaining national media attention, as well as allies in Hollywood and on Capitol Hill. This has left SOA to denounce allegations of 
+unscrupulous teachings of counterinsurgency, commando,  and torture tactics.
+          Originally designated the Latin American Training Center-Division, the SOA was founded in 1946 at Fort Armador in Panama. According to SOA's web site, during the Kennedy administration, the school's named changed "to more accurately reflect its hemispheric orientation." Under provisions of the 1977 Panama Canal Treaty, the school moved to Fort Benning in 1984. Early on, SOA adopted a Cold War stance, asserting its role as protector of democracy throughout Latin America.
+          "The purpose of the School is to make sure students learn about democratic principles," says SOA Public Affairs Officer Nicolas Britto.
+          But, as Maryknoll priest and Vietnam veteran Father Roy Bourgeois insists, "You do not teach democracy through the barrel of a gun." Bourgeois, who lived in Bolivia for five years, founded and co-directs SOA Watch (see its web site at: www.soaw.org), the nonprofit organization that sponsors the annual demonstration. Along with other SOA foes, he asserts that the school teaches counter-insurgency, military intelligence, anti-narcotics operations, and torture-at the expense of the poor and U.S. taxpayers.
+          "Saying we teach those things is ridiculous," states Britto, who maintains that no one has provided any evidence of wrongdoing.
+          "It's not a complicated issue. It's about men with guns. It's about bullies. It's about violence," says Bourgeois, who has spent a total of four years in prison for his protest activities. "This SOA gives the Army a black eye. It brings shame upon the armed forces; it's identified with bullies."
+          With an annual enrollment of approximately 1,000 students, SOA has trained more than 60,000 soldiers and military personnel from 22 Latin American countries and the United States. Among its most "distinguished" alumni are Argentina's Leopoldo Galtieri, Bolivia's Hugo Banzer Suarez, Roberto D'Aubission, "father" of El Salvador's notorious death squads, and Panama's General Manuel Noreiga, who is now in a U.S. prison on drug charges.
+          Yet despite this infamous "who's who" list, the Army repeatedly denies any wrongdoing, and as the school's commandant, Col. Glenn Weidner said in an interview on the "NewsHour with Jim Lehrer," the Army maintains that "less than one percent of those graduates have ever been linked to human rights abuses."
+          While that figure may seem almost insignificant, SOA must deal with the gruesome realities obscured by the numbers. In 1993, a U.N. panel implicated two SOA graduates, out of three Salvadoran officers who were involved in the 1980 assassination of Archbishop Oscar Romero. Later in 1980, four Americans church workers-including two nuns who were friends of Bourgeois--were raped and killed. Again, SOA graduates were involved, according to the panel. The U.N. Truth Commission on El Salvador also implicated SOA graduates in the 1981 El Mozote massacre, which left nearly 1,000 villagers dead, and only one survivor.
+          Further supporting SOA Watch's accusations, a U.S. Intelligence
+Oversight Board released a report in September 1996 referring to seven
+training manuals used at SOA, which outlined methods of execution,
+torture, and intimidation. According to Britto, "Someone brought in
+some books from outside the institution." Britto did acknowledge there were some portions of the manuals that were not in line with Army policies and procedures.
+          Still, SOA's opponents relish each small victory, in an effort to gather enough momentum to see the school closed. Last July, the House voted 230-197 to cut almost $2 million of the school's $4.5 million budget, mainly funds used to bring trainees to the school. The vote, which marked the first time the Army has lost in five votes since 1993, later suffered a blow in a conference committee. According to SOA Watch Co-Director Carol Richardson, there are "varying figures" about what it costs to run the school, and according to 1994 Pentagon lobbying materials, which supported the school, the figure is closer to $18 million. Despite the loss, SOA Watch remains hopeful. "We feel pretty positive," Richardson said, "because the fact remains that there were 230 people who voted to cut funding in the House. It was essentially some manipulation that cut the vote."
+          Currently, companion bills H.R. 732, introduced by Representative Moakley (D-Mass.) and S 873, introduced by Senator Durbin (D-Ill.) are still pending in Congress, and may come to a vote as early as the summer. In an attempt to gain further legislative support, SOA Watch  prepares for its April event, Fast 2000, a juice-only fast to close SOA, as well as major lobbying efforts. SOA Watch continues to join forces with other organizations, such as AFL-CIO, NAACP and SCLC, which have all passed resolutions calling for the school's closure, and churches such as the predominately-black Atlanta-based Iconium Baptist Church, whose pastor, the Reverend Tim McDonald, sees a definite parallel to issues of poverty and civil rights in the United States.
+          Meanwhile, despite statements by Army Secretary Caldera, which alluded to potential changes at the school-such as a new location, different name or student reconfiguration-SOA continues to declare its mission to "promote democratic values and respect for human rights." In fact, the school plans to host a "Human Rights Week" in February. For Bourgeois and SOA Watch supporters, any changes would be "cosmetic." "There's so much horror, bloodshed, torture and rape connected to this school. So it cannot be reformed, it can only be closed," he said. "We're going for the big enchilada; we want SOA closed down. We're not going away."
+          Like other anti-SOA activists, Kathryn Temple, of Asheville, North Carolina, one of sixty-five people arrested during last year's protest, sees the school "in the context of international domination-the U.S. supporting the needs and wants of lots of multinational organizations." Acknowledging that many of the 31 million Latinos living in the United States fled their homelands seeking refuge from militaristic regimes may cause many Americans to question the violence and oppression in Latin America. Ultimately, with the anti-SOA movement growing, the U.S. must examine not only its hostile immigration policies but its role in supporting repressive governments.
+          As Bourgeois explains, "This issue must be put in the context of U.S. foreign policy towards Latin America, which we want changed dramatically. Foreign policy should be built on helping to relieve the suffering of people. Rather than healing, it's causing suffering."
+          
+            Gale Greenlee is a writer and editor at the
+Carolina Peacemaker in Greensboro, North Carolina.
+She served as a training and technical assistance coordinator for the
+Corporation for National Service's LEARNS program at the Southern
+Regional Council until October 1999
+          
+        
+        
+          Recognizing Activist-Scholars: 1999 Lillian Smith Award Winners
+          
+            
+              StaffStaff
+            
+          
+          Vol. 21, No. 4, Winter 1999 pp. 8-13
+          
+          On November 6, 1999, the Lillian Smith Book Award
+for nonfiction was given to J. Morgan Kousser for Colorblind Injustice: Minority Voting Rights and the
+Undoing of the Second Reconstruction, 
+University of North Carolina Press; and Leroy Davis
+for A Clashing of the Soul: John Hope and the
+Dilemma of African American Leadership and Black Higher Education in
+the Early Twentieth Century, University of Georgia Press. Below are remarks from the winners and former SRC president Paul Gaston and Lillian Smith jury member Rose Gladney who introduced Kousser and Davis.
+          PAUL GASTON:
+          You know there are a lot of good citizens in the country and there
+are a lot of good scholars in the country. But there are very few
+scholars who are good citizens or citizens who are good scholars in
+the sense in which Morgan Kousser has been all through his career. In
+the sense that a scholar uses his or her knowledge, his or her
+expertise, as a citizen to make this a better society in which we
+live. Too many scholars avoid confronting the big issues of our
+day. Too many citizens avoid using their citizen skills to write as
+scholars. When you have that combination of the citizen-scholar-as
+exemplified by Morgan's mentor C. Vann Woodward--the result is a
+powerful book. That is what we are blessed with in Colorblind Injustice.
+          Let me tell you a little bit about the origins of this book. It stems essentially from the expert testimony that Morgan gave in a series of voting rights cases, from Texas to Tennessee, to Georgia, North Carolina, and his adopted state of California. It was about twenty years ago-in 1980-at a meeting of the Southern Historical Association that then-president of the Southern Regional Council,  Julius Chambers, had the idea of corralling scholars to give expert testimony in court cases. Out of that meeting there emerged a fraternity of brilliant dedicated people who used their scholarship to help us have a more just society.
+          Morgan's arguments, his testimony, didn't always persuade people. Sandra Day O'Connor is still not a fan of his, but this testimony formed the basis for Colorblind Injustice. It is a book that every member of the SRC should read. Now it is not bedside reading. Some critics have said that it's not easily accessible, that it is too difficult. Well, it's not difficult at all. But it tells the truth on the assumption that the truth lies in the details. We cannot understand contemporary disfranchisement, contemporary political problems, unless we understand the historical context.
+          Colorblind Injustice is a book that is at the heart of the concerns of the Southern Regional Council today and it will be enormously important as we look to redistricting after the 2000 Census. We are deeply endebted to Morgan for writing it and to our jury for awarding him with one of the 1999 Lillian Smith book awards.
+          Paul Gaston, life fellow and former president of the Southern Regional Council, is emeritus professor of History at the University of Virginia.
+          J. MORGAN KOUSSER:
+          To conceive the racial views that Lillian
+Smith did, at the time that she did, was advanced; to express them
+was radical; but to broadcast
+them throughout the nation was positively daring, even
+foolhardy. Probably only her genteel upbringing and demeanor, her
+gender (patronized and not taken altogether seriously then, but less
+threatening to men than it would be today), and her residence in the
+mountains of North Georgia, far from the center of segregationist
+hard-liners, saved her from a cross-burning that she might not only
+have seen, but that she might have felt much too warmly.
+          I cannot claim to have been  as brave or to have risked as much as
+Lillian Smith did when she published Strange
+Fruit and Killers of the Dream. But I
+have, in Colorblind Injustice challenged the
+conventional wisdom in the press and much of articulate opinion, which
+holds, first, that racial discrimination against minorities is largely
+dead in this enlightened era, merely important now to irrelevant
+people like historians; second, that the "conservative" judges
+appointed by Presidents Nixon, Reagan, and Bush, are unbiased,
+non-partisan, and anti-activist, unlike those of the notorious Warren
+Court; and third, that, as conservative icons such as Ward Connerly
+and Justice Clarence Thomas have asserted, the only thing needed to
+provide equal opportunity for all is for governments to adopt what
+they call "colorblind" policies, repealing affirmative action and all
+other protections of minorities against governmental and
+non-governmental discrimination. If such policies result in almost
+entirely white and Asian-American elite universities, governmental
+bodies, and corporation offices, then, they tell us, that merely
+reflects the fair, natural order of things.
+          
+          By attacking such popular dogmas, I have merely risked being ignored, failing to attain the celebrity of such racial
+neo-conservatives as Stephan and Abigail Thernstrom, Dinesh D'Souza,
+or Shelby Steele. Until today's award, I have been. The Thernstroms'
+derivative and poorly argued America in Black and
+White was launched with a two-page spread in Time Magazine. In contrast, Colorblind Injustice has yet to be reviewed, as far as I
+know, in a single newspaper or popular journal, and it may never
+be. When I was finishing the book, my friend Tom Pettigrew, a leading
+social psychologist and fellow native white southerner, who spent a
+good deal of the 1960s and 70s testifying as an expert witness in
+school integration cases, warned me not to hope for too much
+attention. "The times are not right," he wrote me. "Greed is in style,
+not justice." Fortunately, justice has never gone out of style at the
+Southern Regional Council.
+          But I am more interested in this book in injustice than I am in justice itself, in tracing the history and structure of inequities and the struggles against them than in prescribing a normative utopia, in discrimination than in equality. It is, after all, a book about American race relations, and there's a lot more inequality and struggle to study than there is justice. In the most general terms, I argue that institutions and institutional rules, not customs, ideas, attitudes, culture, or private behavior, have primarily shaped race relations and racial change in America. More specifically, I concentrate on black and Latino political participation and the processes by which their political power has been increased or diminished, emphasizing to a greater degree than other historians the importance of small, incremental changes and relatively obscure people.
+          But at the center of my story lies the most powerful actors for
+good and bad, the justices of the U.S. Supreme Court. No amount of
+courage and hard work can withstand an authoritative decision of that
+court in the American system, and no amount of skullduggery and
+discrimination can finally survive unless the Supreme Court blesses or
+agrees to ignore it. Lillian Smith recognized that, calling for
+southern whites to put the Brown decision into
+force quickly and fully, and she properly realized the power of the
+Court to begin a startling transformation of the southern
+discriminatory structure and culture. It did so, too, in voting
+rights, beginning with the white primary case, Smith (no kin) v. Allwright,
+which the Supreme Court published the same year that Lillian Smith
+published Strange Fruit. After the Civil Rights Movement and the anti-Goldwater landslide in 1964 made the Voting Rights Act (VRA) possible, the Supreme Court, working closely in line with stable congressional majorities, largely expanded the protections guaranteed by the VRA through the 1960s, 70s, and 80s.
+          Thus, in 1991-92, for the first time in American history, favorable judicial decisions interpreting the Voting Rights Act and the Constitution enabled African-American and Latino politicians and interest groups that represented minority voters to enjoy a fair chance to frame election arrangements. Supported by both the Republican and Democratic parties and at least tolerated by a white public opinion anxious to appear fair toward minorities, the resulting reapportionments produced the largest increase in minority representation in Congress and southern state legislatures since the early 1870s. That upsurge, however, was too much for the right-wing Supreme Court majority.
+          In the longest chapter in the book, I examine the Supreme Court's
+decisions on so-called "racial gerrymandering," especially the 1993
+decision in Shaw v. Reno and its principal
+successors, Miller v. Johnson and U.S. v. Hays in 1995, and Shaw
+v. Hunt and Bush v. Vera in 1996. I argue
+that they are radical departures from earlier decisions; that they are
+based on formalistic standards that ignore both common sense and
+readily available empirical evidence; that they are inconsistent with
+each other; that they impose a variety of racial double standards, a
+separate and unequal equal protection clause that makes it much easier
+for whites than for minorities to win cases about voting rights; that
+they ignore or misinterpret evidence from the particular instances of
+redistricting that they consider, evidence that undermines their
+conclusions on racial intent; and that, along with other contemporary
+Supreme Court rulings on redistricting, they also impose a partisan
+double standard that strongly favors the Republican party which
+appointed the five-person Shaw majority and
+which benefits most strongly from the ethnic antagonisms that Shaw exacerbates. These decisions are not
+"colorblind," as their defenders claim, but intensely
+color-conscious. They are designed to make blacks and Latinos the only
+interest groups that cannot be recognized in redistricting, thus,
+ironically, employing the Fourteenth Amendment to deny equality to
+those relatively powerless minorities that the Amendment was meant to
+protect. If the nation is to fulfill the egalitarian promises of the
+Fourteenth and Fifteenth Amendments, I conclude, Shaw and its progeny must be reversed.
+          In one of the few scholarly reviews of Colorblind
+Injustice so far, my position has been linked with those of Chief
+Justice Roger Brooke Taney in Dred Scott and Justice Henry Billings
+Brown in Plessy v. Ferguson, on the grounds
+that all color-conscious policies are fundamentally the same, and that
+by recognizing that race always has played a role in redistricting, I
+am contending that it always should. This is a bit like saying that in
+Strange Fruit, Lillian Smith was attempting to
+mandate that all sex be interracial, not just to argue for an end to
+discrimination against people who happened to fall in love with
+others, of whatever race and perhaps, in some recent interpretations
+of her work, of whatever gender. If I have to be associated with a
+Supreme Court justice, I prefer Harlan Fiske Stone, whose famous
+footnote four in U.S. v. Carolene Products (1938) recognized the special responsibility of the Supreme Court to insure fair political processes and to protect those "discrete and insular minorities" who were relatively powerless against discrimination by adverse majorities even if the political process was fair.
+          As an interdisciplinary book, spanning history, political science,
+and law, Colorblind Injustice doesn't quite fit
+anywhere and gets criticized everywhere. Two of the fundamental
+postulates of the common law were that the law made sense and that the
+judges didn't matter--that law is "found," not "made"--and the residue
+of these postulates still clogs the minds of law professors
+today. Thus, when I presented a paper based on part of the book at the
+University of Southern California Law School, faculty members treated
+with icy disdain my suggestion that the best explanation of the
+inconsistent, illogical, and unprincipled opinions of the Supreme
+Court in Shaw and its successors was that a radical majority of the justices was partisan and racially unfair. It was as if I had done or said something so embarrassing that the really genteel thing to do was to ignore it. This strikes me as an insular and unproductive response. The only way to build knowledge is to confront and refute findings that you believe are wrong or otherwise not in accord with the evidence.
+          But that is not a popular methodological stance in history today, either. Thus, in a review of my book by a historian, my efforts to regularize the search for racial and other motives by offering explicit guidelines, as well as to test hypotheses about intent in particular instances, are treated as quaintly naive. According to the reviewer, judges will never respond to anything but their "political values and ideology," and because historians only "mirror their own times," attempts to arrive at better explanations through systematic analyses of theories and evidence are futile. Racial reform through the courts is hopeless, and only a new and continuing civil rights movement will accomplish anything lasting.
+          I reject these counsels of political and intellectual despair, and
+I think Lillian Smith would have, too. Though she was not a systematic
+thinker or researcher, and though she relied heavily on psychology and
+emotion in her books and essays, she did also appeal to reason, and
+the very act of trying to persuade indicates that she thought
+persuasion possible, even in times much bleaker than today's. It is
+just as wrong to think that better arguments and evidence never
+prevail as that they always do, to believe that interest always clouds
+vision as that it never does. Superior logic and evidence sometimes
+convince even a hostile judge, and if they do not, they may at least
+make her law clerks sweat more. Historians find plenty to dispute
+about within every generation, and explicit statements and tests of
+hypotheses, while not trendy today in the discipline of history, have
+long been the standard practice in science and social science. And
+while a new grassroots movement would no doubt be desirable, it is
+hard to see how it would move life-tenured judges, many of whom serve
+for a generation or more, or how it would affect such legislative
+decisions as where, precisely, the boundaries of election districts
+are to be placed. To wait for a new incarnation of Martin Luther King
+Jr. is paralyzing and to demand it is irresponsible to the task of
+intellectuals, which is to use what means they have to increase
+knowledge and understanding, and ultimately, to make a better
+world. Lillian Smith was dedicated to this task, and I am proud to accept the award given in her name.
+          ROSE GLADNEY:
+          In introducing Professor Leroy Davis of Emory University, co-winner
+of the 1999 Lillian Smith Award, let me share with you something from
+and about  A Clashing of the Soul, Professor Davis's biography of John Hope.
+          First, to quote from John Hope Franklin's preface: "Despite that fact that Ridgley Torrence published a biography of John Hope some fifty years ago, Hope remained . . . the least known major figure in the annals of African-American history between Booker T. Washington and Martin Luther King, Jr. Perhaps that was because he is one of the least understood figures during that period."
+          A Clashing of the Soul shows how Hope fundamentally changed Atlanta and the course of higher education for black Americans, and how this product of an interracial union typified African-American race leaders after the Civil War. John Hope was relentless in his support of public education, of adequate housing, of health care, job opportunities, and recreational facilities for African Americans in Atlanta and the nation. As an advocate of full black equality, Hope also embraced civil rights organizations such as the W.E.B. DuBois-led Niagra Movement, the NAACP, and the southern-based Commission on Interracial Cooperation-predecessor to the Southern Regional Council. Renowned as an educator, Hope became the first black president of Morehouse College in 1906 and then, in 1929, was selected as president of Atlanta University, now Clark-Atlanta which, under his leadership, became the first college to provide exclusively graduate education for African-American students.
+          John Hope meant to the development of black college education in the United States what Booker T. Washington meant to the development of black vocational and industrial education. Until the 1920's, the general position in America was that African Americans had no need of a college education, given their proscribed role in the Jim Crow political economy. Northern philanthropic institutions such as the Slater and Rosenwald funds, and the Rockefeller-controlled General Education Board, advanced the goal of education for American blacks. They looked, according to Professor Davis, to John Hope as a person who would influence the curriculum in black colleges, help determine the kind of teachers who would be produced, and the kind of leadership to emerge.
+          Hope sets the stage for the wide acceptance of black college
+education in the United States. Equally important to A Clashing of the Soul, Professor Davis brings forward what Hope personified through his interactions inside the black community. Here was a multi-layered complex milieu where relationships and power played out along class, gender, and color lines. Davis asks us to look not only at the history of African-Americans' relations outside the racial group, but also, through Hope's life, at the black experience inside the black "community"-the intraracial dynamics.
+          The tension inherent in Davis' choice of the title, A Clashing of the Soul, comes out, I think, in a wonderful letter that John Hope wrote to W.E.B. DuBois. In 1924, Hope is weighing the cost of being the president of a black college in the South in era of racial segregation. "An institution of learning," he wrote, "is such a delicate organism. It is almost human. It is human. The slightest touch sometimes disturbs its healthy function. Courage, the necessity of enterprise and a certain amount of pugnacity along with a modicum of self-respect make me continue rather ceaselessly in the fight, but I am bound to tell you, my dear friend, that blowing one's brains out is a great sight easier than some of the things we have to do and stand."
+          It is a great insight that Professor Davis brings to this study of John Hope, that we see not only the costs of fighting for black education, but the great costs of fighting for where you are going to put your energies on a day-to-day basis. At the 1927 Negro Problems conference, another first black college president, Mordecai Johnson of Howard University described how difficult it was for African-American leaders, especially in the South, to remain an active part of the separate African-American world, while at the same time, working hard to make that world fade away.
+          For Johnson, observes Davis, black America operated as a separate nation within a nation, that included both domestic relations and foreign relations. Domestic relations consisted of policies designed to improve the lives of the black nation's citizens. Foreign relations had to do with policies designed to improve relations with whites. "It would be perfectly foolish if we spent ninety percent of our time in foreign relations." Johnson said, "While we battle for liberty and equality, we must develop these segregated institutions as if we expected them to last until the end of time." In words from which Professor Davis takes his title, Mordecai Johnson acknowledged that the two activities were inconsistent. "There will always be clashing in the soul, but both of them are absolutely necessary and must be carried on at the same time."
+          As the 1920's ended, John Hope, an African-American college
+president who was also a principled race leader, understood that the
+clashing in his own soul would continue. In awarding the Lillian Smith
+Award to this biography, we on the jury want to celebrate and
+recognize the importance of John Hope's work and his accomplishments
+in his life. We also want to recognize and applaud Professor Davis,
+for his reading of John Hope's life and for his interweaving of gender, race, and class relationships along and across racial lines.
+          Rose Gladney is Professor of American Studies at the University of Alabama at Tuscaloosa and editor of How Am I to Be Heard: Letter of Lillian Smith.
+          LEROY DAVIS
+          In many ways, A Clashing of the Soul owes much to the musings a of young man over thirty-five years ago, trying to come to grips with an inherited world he did not fully understand. It was a world of integration in the workplace, but blanketed with segregation every place else. His world in those days included high school, black domestics, and motorcycle jackets, shining shoes in white-owned barbershops, playing sports in public housing community centers, and secretly reading about Buffalo Bill in segregated libraries. However, it was also a world that included people like Lyman T. Johnson, Whitney Young, Jr;  organizations like the NAACP, the Urban League, and Colored branches of the YMCA; concepts like racial pride and solidarity; and a host of black male and female leaders, struggling daily to create a future free of racial inequality. That world came crashing back to my consciousness as I dug deeper into the life of John Hope.
+          What led me to write A Clashing of the Soul, however, is not what I would want to highlight in these brief remarks. More important are the lessons learned from Hope's life about the historical development of the South, and of Atlanta. These lessons provide a backdrop and perspective for contemporary issues and concerns that progressive organizations--such as the Southern Regional Council--and policy makers are grappling with today. Hope's life sheds light on both interracial and intraracial relationships in the South,upon Black leadership in education, religion, character training, class and gender identity, and community formation and transformation in time and space. I do not apologize for looking at history to gain an understanding and perspective on the present. Nor am I apologetic for believing that historical understanding has a role to play in engendering social action and social change. Perhaps I take this approach because I began as an activist and only later became a professional scholar. In my view, the two go hand-in-hand. Scholarship without a social vision is like a trained physician uninterested in treating patients. John Hope illuminates an Atlanta, and the South, in a state of constant change--although at times so subtle that it was barely detectable.
+          African Americans in the South had no choice after Plessy v. Ferguson in 1896 but to fight primarily for as close-to-equal facilities within the segregated system as possible. Not only did John Hope understand that, but while he remained in the South, W.E.B. DuBois understood that as well. Militant activity in the early part of the twentieth century involved African Americans asking city hall--once it became clear that the Carnegie Foundation was going to provide a public library for the white community--to put one in the black community as well. That was militant in that time and place.
+          It was also militant then and there to talk about equal
+recreational facilities, equal health facilities, and close-to-equal
+pay for black and white teachers in segregated  schools. People get
+historical amnesia as time moves on. But we need to be very careful
+about how we use terms like conservative and militant. This is very
+important for understanding black leadership as well.
+          John Hope, like DuBois, started with a belief in the principle of
+full equality. But what his clashing of the soul included-and this was
+important for other African-American leaders as well-was the
+recognition of the need to serve the community where it existed at
+that point in time.
+          While African Americans wished for a South free of racial prejudice
+and discrimination, the reality of the Court's 1896 decision only allowed them to fight for equal facilities within that segregated setting. DuBois understood that very well. It's there in the letters he wrote to people like Ira Reid, E. Franklin Frazier, and a number of others who finally decided they could no longer remain in the South. They found that it was too difficult for them to maintain the kind of clashing of the soul that Hope had to maintain all of his life. What DuBois told the prominent black sociologist E. Franklin Frazier was that to stay in the South, you had to endure humiliation. If you can't handle humiliation, then you need to leave.
+          DuBois' advice made me realize how difficult it was for John Hope
+to remain in the South. But Hope had a vision of establishing and legitimizing the importance of black college education. John Hope loved Morehouse College. He loved Atlanta University. He foresaw the whole Atlanta University Center as constituting a major black university in the South. So, he made a conscious decision that, in order for him to pull that off, he had to remain here in spite of what he would have preferred to do.
+          Throughout his life, John Hope was very involved in insuring that
+African Americans would have access to educational institutions and to
+organizations like the YMCA and YWCA-the "colored branches." The
+choice was not between segregation and integration. The choice was
+between segregated facilities or no facilities at all. It was very
+difficult for people like Hope to deal with these kinds of issues. A Clashing of the Soul does gives us more of a window to the interactions among African Americans themselves.
+          When I was writing the book I fielded a lot of questions about why
+African Americans, long after the Brown decision, still gravitate towards certain community institutions. Are African Americans willing to give up their fraternities? Are they willing to give up their sororities? Are they willing to give up their churches? No, they are not. An emphasis on black-white relations alone does not explain why. These institutions were often formed in reaction to a discriminatory environment. Over time, these institutions became extremely important to African Americans, as they continue to be today.
+          You would have a major fight on your hands, and I often say this to many of my students, if you dared think about eliminating the Howard Universities, the Morehouse Colleges, the Spelman Colleges, and so on. It is just not going to happen. Or if you talked about doing away with the Alphas, the Deltas, the AKAs. In order to understand the historical relationships that have developed among African Americans, we must investigate and understand the interactions that went on in spite of the clashing within the souls of black men and women. We must consider the impact and realities of past discrimination in structuring solutions to continuing societal problems.
+          I would like to thank the SRC for this award and for bringing us
+here today to reflect on the life of Lillian Smith and others who seek
+a society free of racial, gender, and homophobic discrimination.
+        
+        
+          Books: Redemption Songs
+          Reviewed by Tullos, AllenAllen Tullos
+          Vol.21, No. 4, Winter 1999 pp. 14-16
+          
+          Craig Werner, A Change is Gonna Come: Music, Race
+and the Soul of America (New York: Plume, 1999). Brian Ward, Just My Soul Responding: Rhythm and Blues, Black Consciousness, and Race Relations (Berkeley: University of California Press, 1998).
+          "Every time you change the news," Chicago's Willie Dixon said more than once, "you got to change the blues." In complementary books, Craig Werner and Brian Ward extend Dixon's insight, running down the call-and-response between American race relations and forms of African-American music. With clarity sharpened by passion, they consider whether, and how, shifts in musical styles affect and are affected by the movement for social justice.
+          "Rapper Chuck D's claim," writes Werner, "that 'rap music is black America's CNN'" applies equally well to the gospel music that powered the freedom movement, the soul music that carried the message of love through the sixties, the funk, reggae, and disco that testify to the confused crosscurrents of the seventies." Applying more analytical torque along the way (as well as a smaller font and six-hundred pages to Werner's four-hundred), Ward ultimately agrees that "the most popular black musical styles and artists of the past forty years have achieved their popularity precisely because they have dramatized and expressed, but also helped to shape and define, a succession of black consciousnesses."
+          The work of remembering that underpins A Change is Gonna Come and Just My Soul Responding urges us to move our feet and current
+consciousness out of our own reactionary moment. As does the fact that
+these books appear alongside the airing on Public Radio International
+and subsequent release on compact disc and audio tape of the Southern
+Regional Council's grassroots history of the Civil Rights
+Movement--Will the Circle Be Unbroken? --with its selective use of popular songs of the '50s and 60s. As the recent past and many of its actors recede into memory, nothing so widely evokes the shades and nuances of feeling, the playing-out of public tragedies and travesties, the instances of breakthrough and getting over, as music.
+          Taken together, Ward and Werner cover a lot of ground-muddy, bloody, and higher-from Robert Johnson to Tupac, the Staple Singers to Public Enemy, Blind Boys to Aretha, Hitsville to Soulsville, Philly International to Death Row. It's the dialectic, endlessly rocking. By sampling, revisiting, and revising such "ancestors" as Louis Jordan, Etta James, Ruth Brown, Dorothy Love Coates, and James Brown, contemporary artists hammer out a necessary give and take, suggests Werner, that pays respect, acknowledges limitations, and opens new paths. Thus, Cassandra Wilson sings legendary Delta bluesman Son House's "Death Letter" as a "eulogy for the brothers lost to violence" in the central cities of the 1980s and 90s. In African-Americans' ongoing "struggle for survival and power," comments Ward, "black popular music has continued to express the complexities and paradoxes, as well as the essences and certainties of the diverse black experience in America."
+          Throughout A Change is Gonna Come  (the title taken from Sam Cooke's haunting ballad of tenacity and persistence), Craig Werner a "white boy from the Rocky Mountains" deploys a lively style that shows he's been listening closely not only to singers and musicians from the 1950s through the 90s, but to the students in his classes on black music at the University of Wisconsin. Attuned to how gospel, blues, and jazz "impulses" (an idea derived from Ralph Ellison) reveal the black-white dialogue in America, Werner writes "to renew a process of racial healing that at times seems to have stopped dead."
+          The blues--Delta, Chicago, Texas, or British Invasion style-force
+an encounter with uncomfortable truths, with realism, with the "evil
+in your world and the evil in your head." Gospel, summarizes Werner,
+"gives us the courage to keep on pushing for a redemption that is at
+once spiritual and political." It "challenges us to bring our actions
+into line with our values," to commit to a collective purpose larger
+than ourselves, and to refuse "to confuse individual success,
+especially success measured by money, with redemption." As for jazz
+(the music, Louis Armstrong observed, that's never played the same way
+once), Werner reads it as questioning the cultural foundations while
+opening up the moment we are in to multiple possibilities. Each of
+these "impulses," along with their variants and offspring, presents
+ways of thinking and feeling about the dilemmas that "keep America
+from realizing its own democratic ide-als."
+          With his "Top 40" lists (fodder for spirited argument), pithy
+chapters, and coverage of funk, reggae, rap, and rock, A Change is Gonna Come is the more broadly ranging and popularly-conceived book. In addition to his jazz excursions, Werner acknowledges politically-conscious white artists such as Bruce Springsteen, P. J. Harvey, and Lou Reed who have reached out "mostly without success, to black audiences" with a non-syncopated sound grounded in rock and roll tradition. They too are dealing with "blues realities" that mainstream leaders encourage Americans to ignore.
+          Brian Ward's Just My Soul Responding, is the labor of a British scholar who set himself an enormous errand of research in the course of producing this Cambridge dissertation-turned-book. While Werner moves quickly and infectiously, following the impulses, Ward is at his best when challenging comfortable over-simplifications about the complex production and consumption of African American music. His book is "guided by the belief that the popular cultures of oppressed groups usually contain within them . . . a critique of the system by which those groups are oppressed."
+          Focused upon Rhythm and Blues (defined as post-World War II black
+popular music outside the sacred and jazz traditions) Ward works "to
+illuminate changes in mass black consciousness during the peak years
+of civil rights and black power activities." In complex, elusive, and
+often paradoxical ways, individual listeners and collective audiences
+of R and B frequently "defied the initial intentions of the artists
+involved and transcended the economic priorities and racial
+conventions of the industry." For instance, although Ward shows that
+there was a fairly strong black consumer market of teens and young
+adults by the mid-1950s, major record companies-as well as
+independents-never imagined "they could consistently sell anything
+resembling R and B to more than a tiny, fleeting, and economically inconsequential audience of whites."
+          Similarly, Ward questions the convenient forgetfulness of faulty
+witnesses who project back into the late 50s and early 1960s a black
+cultural nationalism that did not fully emerge until years
+later. Here, as elsewhere, Julian Bond proves himself a priceless
+narrator, recalling a Morehouse event where he and three student
+friends sang Elvis' "Teddy Bear." Bond says he had no thought at that
+time that it might not be all right to like white pop music. Just My Soul Responding  also offers keen
+correctives concerning white audiences for R and B, the power and the
+contradicitons of white-owned but black-oriented radio stations, and
+the emergence of black music industry capitalists who become
+celebrities in the post-Brown  era. Ward peers into the complexities of situations like that of the 1956 on-stage attack of the politically indifferent Nat "King" Cole at the hands of an Asa Carter-led group of white supremacists in Birmingham's Municipal Auditorium.
+          Illuminations also come in Ward's discussions of the ways that
+African-American male and female singers of different eras enacted
+gender relationships. How, for example, the romantic idealism of
+street-corner doo-wop groups of the 50s often provided relief from an
+older, more macho, R and B ethos. He doesn't evade the misogyny of the blues attitude, but places  it within a larger patriarchal history while weighing the extreme economic and social pressures bearing down upon African-American men and women in the march out of Jim Crow.
+          What were the roles of musical artists in the freedom struggle? When and at what costs to their commercial careers did singers visibly march and protest? Why was it, asks Ward, that "in certain respects Joan Baez was more important and conspicuously committed to the early Movement than James Brown, while Harry Belafonte did more to assist the struggle for black freedom in practical terms than all the soul icons of the 1960s combined"?
+          In approaching similar territory, Craig Werner points out that the
+increasing cross-over successes of Diana Ross and the Supremes led to
+Ross's safer approach to Holland-Dozier-Holland compositions. One
+result was that "millions of white teenagers loved the Supremes
+without feeling any need to change the way they dealt with the world."
+Ward presses further, foregrounding the "the basic disparity between
+white responses to black music, which could be extremely deep and
+passionate, and white understanding, sympathy and respect for the
+diverse realities of black culture and experience, which were rarely
+more than superficial. Black music was . . . enthusiastically admired
+when it fulfilled romanticized white expectations about black grace and ease with leisure, pleasure, sex and style. But this . . . required no real consideration of, or empathy with, the frequently unromantic circumstances from whence those qualities in black culture emerged." Ward takes this revelation and turns it upon such paternalistic social scenes as southern university all-white frat parties which featured black R&B bands.
+          While Just My Soul Responding ends in the 1970s, Werner extends A Change Is Gonna Come through the heartless Reagan-Bush years and the emergence of rap's realistic reportage, and the shameless 90s in which Bill Clinton (not George) "abandoned all but rhetorical support for any sort of progressive agenda." If we've yet to arrive in funkatopia, the last decade has heard strong, new, women's voices-rappers, rockers, jazz singers, and transformers of the gospel impulse. Missy Elliott, Mary J. Blige, and Lauryn Hill take up the conversations with the ancestors. "It was never more important," concludes Werner, "to keep the conversation going than at the moments when it seemed to be going nowhere."
+          As the Millennium turns, the long revolution, long haul, freedom highway-whatever you want to call it-awaits the next move. "You got to get behind the mule, every morning and plow," rasps Tom Waits, having learned a thing or two by way of Blind Willie Johnson, Rufus Thomas, Lightning Hopkins, John Coltrane, Elvis, Nina Simone, Mahalia, . . . .
+          
+            Allen Tullos is editor of Southern Changes.
+          
+        
+        
+          Queer Mississippians
+          Reviewed by Grimsley, JimJim Grimsley
+          Vol. 21, No. 4, Winter 1999 pp. 16-17
+          
+          John Howard, Men Like That: A Southern Queer History (Chicago: University of Chicago Press, 1999).
+          Growing up queer in the South, it took me a while to learn to spot
+others of my kind. The problem was never exactly that there wasn't
+serious sex going on between the boys I knew. It's nearly a truism
+that boys start to play with one another pretty early on, and by
+playing, I mean having sex with one another in various ways. Queer sex
+attracts some boys for life and for others its pleasures are later
+replaced by heterosexual ones. I've always been struck by the notion that rural areas were an unfriendly place for gay people. Struck by the fact that rural life actually fits many of the needs imposed by a gay identity quite well. The country is a good place to find privacy, to make a big comfortable closet. That's been true as long as queers lived in the country, all these tens of thousands of years; or, to state this in John Howard's terms, people have acted on queer desire in the country for as long as it's been there.
+          Men Like That  offers a fresh look at these
+same presumptions about queer life in the South, long held as truisms,
+and in so doing points clearly to the complexity of human life and
+human sexuality in all ages and times. The commonly held wisdom among
+nearly all queer theorists has been that people who wanted to live
+"that way," to borrow one of Mr. Howard's constructions, had to move
+to the city to find the necessary environment. Men Like That  constructs careful arguments to demonstrate that this was never the only option queers had.
+          His arguments are forceful, his writing clear. Though he is trapped in the terminology necessary to a scholarly work, his prose nevertheless unfurls a detailed argument that is remarkable in its debunking of the notions that there is only urban queer history to deal with, and that the South has always been the most hostile of all regions toward anyone who wanted to be queer. Howard demonstrates, convincingly, that before the Civil Rights Movement, queers had a vibrant place in the hierarchy of sexual behaviors available to people who lived in the South, in the case of his book, focused on the state of Mississippi in the years from 1945 to 1985.
+          While the whole of the book is thoughtful and readable, the most
+interesting chapters are the first three, in which Howard uses oral
+histories obtained from many queers who lived in Mississippi during
+those years. The histories, coming from Mississippians of all stripes
+and economic backgrounds, offer a convincing portrait of a South in
+which men dabbled in one another's trousers whenever it was
+convenient, much less concerned than we are with a sexual identity, much more concerned with where to drive to find the best cruising spots, be they bars, bathrooms, movie houses, or parks.
+          Sounds pretty much like the men I used to meet in the bars in New Orleans right after I got out of college, some of whom had taken their wedding rings off for the weekend in order to enjoy a moment of sport with the boys.
+          
+            Jim Grimsley is Senior Writer-in-Residence at Emory and author of
+four novels, including the recently published Comfort and Joy  (Algonquin Books, 1999).
+          
+        
+        
+          Armed Self-Reliance
+          Reviewed by Kelley, Robin D. G.Robin D. G. Kelley
+          Vol. 21, No. 4, Winter 1999 p. 17
+          
+          
+            Timothy B. Tyson, Radio Free Dixie: Robert F. Williams
+& the Roots of Black Power.  (Chapel Hill: University
+of North Carolina Press, 1999).
+          
+          Radio Free Dixie is one of the most important books on the black freedom movement written in the past decade.  Challenging much of the scholarship that dismisses Robert Williams (1925-1996) as a marginal figure, if not a dangerous "crank," Timothy Tyson takes a careful look at what Williams represented to a new generation of militants who emerged within the Civil Rights Movement.
+          A native of Monroe, North Carolina, Robert F. Williams not only
+embodied old and established Black traditions of armed self-defense,
+but--as a hero to the new wave of Black nationalists--his importance
+at the time rivaled that of Malcolm X.  Tyson offers a broad context
+for both of these traditions--militant armed self-defense (which
+turned out to be more extensive than historians have admitted), and
+black nationalism. Moreover, he makes the crucial point that
+"nationalism" is actually too small a category to contain Williams,
+who displayed a deep commitment to internationalism.  He was drawn to
+groups such as the Fair Play for Cuba Committee, and upon returning
+from an historic trip to Cuba in 1960 accompanied by other black
+activists,  intellectuals, and artists, Williams hoisted the Cuban
+flag in his backyard and ran a series of articles in his mimeographed
+publication, The Crusader, about the transformation of working
+peoples' lives in Cuba as a result of the revolution.  His support of
+the Chinese revolution was evident in the pages of The Crusader  as well, emphasizing the importance of China as a beacon of strength for social justice movements the world over.
+          Although Tyson does not deal with Williams' life and work in exile either in Cuba (where he broadcast "Radio Free Dixie," a program of black politics and music heard widely in the US), or in China and Tanzania, he helps us understand his impact even when Williams is thousands of miles away.  His decision not to explore the period after 1962 makes sense since Tyson's primary goal is to write about the black freedom movement in the U.S. and not necessarily offer a full-blown biography of Williams.
+          Radio Free Dixie is less about a single person and more about a time. It captures the excitement of a local movement having national reverberations; it portrays the international dimensions of the black freedom movement by looking at the Monroe struggles in the context of African independence movements and the Cuban revolution; it reminds us of the famous Bandung meeting of non-aligned nations in 1955, which turned out to be a key turning point in the black liberation movement according to several leading black activist/intellectuals,  including Robert Williams.
+          Radio Free Dixie persuasively demonstrates what very few scholars have been willing to admit: armed self-defense worked in terms of reducing violence.  It is a provocative thesis (reinforced by a forthcoming book by Akinyele Umoja) that will be discussed and debated for years to come.
+          
+            Robin D.G. Kelley is Professor of History and Africana Studies at
+New York University. His latest book is Yo' Mama's Disfunktional: Fighting the Culture Wars in Urban America  (Beacon Press, 1997).
+          
+        
+        
+          Remembering C. Vann Woodward (1908-1999)
+          By Gaston, PaulPaul Gaston
+          Vol. 12, No. 4, Winter 1999 pp. 19-20
+          
+          C. Vann Woodward died on December 17, 1999, just a month after his ninety-first birthday. I heard the news from Sheldon Hackney, his friend and former student. "Vann died peacefully at his house in Hamden [Connecticut] late this afternoon," Sheldon's e-mail message said. "His daughter-in-law, Susan Woodward, had moved him out of the Whitney Center just yesterday.  Workmen were still completing the construction of a ramp that would provide wheel-chair access to the sun room, where his bed had been set up, amidst his books.  Lucy and I had stopped to see him just an hour after he had arrived home, where he desperately wanted to be, but he was mostly asleep and did not really recognize us.  Susan tells us that he asked to be gotten out of bed so he could sit in his desk chair that had been brought up from the study.  That is where he died."
+          I last saw Vann in a New Haven hospital in July, shortly after the heart operation from which he never recovered.  He was a strong man, physically as well as morally and intellectually.  As we talked about the operation ("they took the organ out and put it on a table," he said, shaking his head in wry disbelief) I thought back to the time two summers previous, when he arrived at the little Danish island of Aero for a meeting of Europeans and Americans who write and teach about the South.  After a grueling twenty-four hour non-stop air, rail, and ferry trip from New Haven through New York, London, and Copenhagen airports and then to our remote island, he walked up the cobblestone street to the hotel, bag in hand, commanding hard-breathing stragglers to keep up. I thought he must be immortal.
+          He foiled that belief, but he lives permanently in our consciousness, which is a pretty good form of immortality.
+          In the New Haven hospital room we talked about why we became historians, and especially historians of the South.  He chose history, he told me, because it would give him the opportunity to write, which is what he craved.  The South he grew up in was a stirring place to be. I recalled a passage he once wrote about how he was aware, in the early 1930s, of  "new voices in the land and new forces astir." Deepening poverty brought on by the Great Depression threw in broad relief the South's historic burdens of racism, inequality, and broken spirits, at the same time quickening the conscience of its youth.  Too shy and temperamentally unsuited for the world of politics and agitation, he chose to be a writer, soon to become one of the new voices in the land.  Admiring the brilliance of the novelists and poets, he did not become one of them but turned his burgeoning literary talent to making the past speak to the present.
+          By the time he arrived in Chapel Hill for doctoral studies, he had
+a book already under way.  With a few added chapters it became his
+dissertation and, in 1938, one of the seminal works in American
+history: Tom Watson, Agrarian Rebel . That book set him off on a life-long career of writing about the ways in which class and racial loyalties and fears shaped the destinies of Southern whites and blacks. Watson, the hero of Populism, turned out to be a symbol of hope in the first part of the book, as he penetrated the shibboleths that had divided the downtrodden and, in the last half, an example of the tragedy of Southern history as disillusionment turned him into a fierce demagogue. Woodward the writer, one of the new voices in the land, was well on the way to becoming one of the "new forces astir" as well.
+          After war duties as a Naval officer (and a book on a naval battle),
+he returned to academia, teaching first at Johns Hopkins University
+and then at Yale.  More importantly, he returned to the themes of the
+Watson book.  In Reunion and Reaction  (1951) he
+showed how the materialistic ambitions of Southern and Northern
+conservatives merged to end Reconstruction, abandon the defense of the
+freedmen's rights, and lay the basis for the rise of Southern
+conservatives at the expense of the Southern masses, white and black
+alike. In Origins of the New South, 1877-1913  (1951), his masterpiece, he traced the rise of a new ruling class, the heavy toll it exacted from the Southern people, and the emergence and crushing defeat of a popular and humane protest movement. His Alabama friend Virginia Durr wrote to say it was a great book, telling truths long hidden or denied. In reply, he said, "my sympathies were obviously not with the people who ran things, and about whom I wrote most, but with the people who were run, who were managed and maneuvered and pushed around." His sympathies never altered.
+          As our hospital-room conversation moved on, I told him that, in ways he might not have known, he and I were comrades in the South's civil rights struggles of the 1950s and 60s.  At my post at the University of Virginia, where mostly self-satisfied young men believed that segregation and the privileged social order they came from were ordained by higher powers and would certainly never be spoken badly of by General Lee, the teaching of Southern and Virginian history was an exhilarating challenge.  I can't imagine how it could have been met without Vann, and I told him so. His books on the promise and betrayal of Populism, the retreat from Reconstruction, and the triumph of the oppressive New South created a new way of looking at the whole of the southern experience; as they did, they fortified and guided my own passion.
+          After Origins came The Strange Career of Jim Crow (1955), which Martin King called the
+"historical Bible of the civil rights movement."  It washed away the
+defense that segregation was an immutable folkway that could not be
+changed by mere law and soon became recognized as the most influential
+work ever written about American race relations.  It was followed by
+The Burden of Southern History  (1960), a collection of essays that provided for southern history the kind of reach and resonance Faulkner's novels gave to southern fiction.
+          With these five books I felt I had an invincible army behind me. And, as time passed, that army captured many of my students. The campus movements they organized to end segregation, combat racism, and build a different kind of New South out of the region's virtues and promises were anchored in the Woodwardian reconstruction of southern history, now energized by the moral example of the black freedom movement. I wanted to tell him all of these things, and more, but he needed rest before the next visitor of the day should arrive. "Keep in touch," were the last words he spoke to me.
+          Vann was a hero and example to my students as he was to thousands
+of other young and old people of good will; and my debt to him as an
+activist-teacher was incurred by many other young southern scholars in
+those days. He was also a hero to us for the kind of committed life he
+led.  When Thurgood Marshall called on him to help prepare arguments
+in the Brown  case, he responded; when historians were asked to join the last phase of the march from Selma to Montgomery, he marched; when expert testimony was needed to persuade Congress to renew the Voting Rights Act, he testified.
+          One might have thought that his scholarly integrity and moral courage would have been called into question because of such "activism," or "presentism"; in fact they almost never were.  Partly this was because of his craftsmanship--no one wrote better, had a more thorough command of the sources, or a keener sense of irony and the complexity of history. No one who cared about the course of events in the past was more scrupulous in writing history addressed to the present. Later, of course, he would be showered with all the honors his profession could bestow and he would read with modesty and a good measure of amusement the regular declarations of his status as the nation's pre-eminent historian. Partly, too, I think, his authority derived from the kindness and consideration he showed for others. He wrote often that criticism was the lifeblood of good scholarship, but he never made it personal or conveyed it with malice. The mean-spiritedness, careerism, and petty rivalries that mar so much of our intellectual discourse found no home in his makeup. In this, as in so much else, he was a rare model.
+          He kept working right up to the time of last July's surgery.  He once told me that he wrote more in his retirement years than when he was teaching, promising me I would find the emeritus years even more satisfying than what had come before.  Sheldon reports that "he lived the end of his life as well as the rest of it. Up until last July, he was working every day, taking a walk every day, having an evening martini every day, and was surrounded by people who loved him. In this, also, he was a model for us." His parting words to me, "keep in touch," put me in mind of one of the old Movement songs:
+          There's someone by my side walkin'.
+          There's a voice inside me talkin'.
+          There's some questions need some answers.
+          Carry it on. Carry it on.
+          
+            Paul Gaston, Life Fellow and former President of the Southern Regional Council, is Emeritus Professor of History in the University of Virginia and a contributing editor to Southern Changes.
+          
+        
+        
+          John Nicholas Popham III 91910-1999)
+          By Egerton, JohnJohn Egerton
+          Vol. 21, No. 4, Winter 1999 pp. 21-22
+          
+          The newspapers in Chattanooga and New York took particular note of
+the death, on December 12, of John N. Popham.  In the days since, all
+who knew and loved and delighted in this extraordinary man must have
+wondered how he would have reacted to so much ink.
+          I see him sitting under a bright light, his reading glasses snug against his temples, copy pencil at the ready.  He is muttering under his breath-and, every few minutes, aloud, just for emphasis:
+          "Oh, my Gawd, will you look at this! Poor reporting, sloppy editing, too long, too long-and poor news judgment, too, a complete waste of space.  All this fuss over some newspaperman who died. What about the real story, out in the streets, the schools, the half-deserted little towns? What about the single mother who can't make ends meet, the little guy fighting for his life against the giants. . . ."
+          He tips back the narrow brim of his hat.  There is a flicker of mirth in his watery blue eyes, and a hint of suppressed humor in his richly accented Tidewater Virginia voice:
+          "As long as they were at it, though, they could have made a few more calls. For instance, there was that fellow down in Jackson back in the fifties who tipped off the governor that I was in jail, so he would spring me. And that head waiter in New Orleans who gave me great quotes from a dinner meeting of bigwigs in the back room of his restaurant. So many good people--but you've got to search them out, you've got to meet them on their own turf, you've got to be patient and listen. Nobody gets the time to do that kind of reporting today. . . ."
+          Johnny Popham belonged to a time all but unknown now to anyone under forty. It was the pre-television, golden age of newspapers, when fierce competition drove the medium, and almost every publisher, left and right, considered the press to be more of a high calling and a sacred public trust than a for-profit enterprise. As a reporter and an editor, Popham held similar views-including the notion that newspapers are essential to the attainment of freedom and justice in a democratic society.
+          It is fittingly ironic that this garrulous and engaging man, never at a loss for words, should be silenced by death, only to have countless others whose lives he touched come rushing forth to fill the void with words of praise and humor and appreciation, as if by doing so, they might somehow coax him back for one more grand story.
+          The newspapers told well the essential details of his life: Popham
+the descendant of European pilgrims to America, the Virginia gentleman
+from the house  of Popham, the cub reporter in Brooklyn, the intrepid
+U.S. Marine in his father's image, the United Nations correspondent,
+the first New York Times  Southern
+correspondent, the beloved husband and father, the dutiful but not
+uncritical Catholic, the legendary managing editor of the Chattanooga Times.
+          That was the formal John N. Popham of The Times.  Far more complex was the man behind the name, variously and lovingly known as Johnny Popham, Honest John, Sir John, Saint Nicholas, or just plain Pop.
+          From 1947 to 1958, he crisscrossed the South in a succession of hard-ridden Buick sedans, driving over 50,000 miles a year to report breaking news and to write "think pieces" for his New York editors.  He covered the first postwar stirrings of the civil rights revolution, and at every stop he took note of the men and women, black and white, who seemed to grasp the significance of social change.
+          He quickly became the primary link between Southern and "outside"
+journalists, and between members of the press and a wide range of
+leaders in the fields of education, politics and religion.  He had a
+knack for making acquaintance across all the usual lines of division,
+and greeted his friends of all ages and both genders as "sweetheart" or "dawlin'."
+          From 1958 until his retirement in 1977, Popham ran the news side of the paper in Chattanooga, somehow finding time along the way to hone his oratorical skills and to lend personal support to such sectional alliances as the Southern Education Reporting Service, the Southern Regional Education Board, and the Southern Regional Council. Every SRC director since George Mitchell in the 1940s has had ample reason to appreciate him. Popham was inducted into the Council's select circle of Life Fellows in 1983.
+          Just a year before that, he had graduated from the John Marshall Law School in Atlanta, capping a five-year, thrice-weekly commute from Chattanooga in the restless wake of his "retirement."
+          Seeing things before others saw them was one of Pop's special gifts. Some years after his permanent return to the region of his birth, he remarked to a friend, "I've learned you have to leave the South to see it. If you stay here, you think it's this way everywhere."  It was a lesson he never forgot, and freely passed on to colleagues and protégés and perfect strangers alike in typically Pophamian postulations.
+          "It takes time and experience to gain perspective. A good journalist is supposed to fill in the empty spaces of history. The real stories are hidden away in the hearts of ordinary people. What are they really like? How do they look, talk, behave? Who do they know? Where do they turn for answers? Who are their voices of sanity? So you keep looking for those little nuggets of wisdom--and if you're patient enough, the stories will begin to bloom. You just can't see them or smell them until they bloom."
+          The demise of the free-standing Chattanooga Times was painful for Popham to observe. He continued to go in to
+the newspaper on a daily basis, holding forth at a table in the
+library and writing an occasional column, until January 1999, when the
+Arkansas-based media company that had previously acquired the Chattanooga Free Press bought the Times  from its parent company based in New York.  Out-of-town ownership and merger of the two bitter rivals into a single morning daily stunned and saddened Pop. He was still grieving the loss when he died.
+          At his request, his wife Frances, daughter Hilary, and son John N. Popham IV arranged a military funeral for him--flag-draped casket, marine color guard, rifle salute, taps, the full measure.  But inside the closed coffin, they had him dressed in more familiar attire: red sport coat with a pocket handkerchief, striped shirt with a white collar, bright yellow tie, charcoal pants, his old cordovans, and one of his hats--the felt one with the stingy brim.
+          Dressed and ready, as if still listening for the voices of sanity and wisdom in a cacophonous world of moneychangers, imagemakers, and special pleaders. His was one of the sane and the sage voices, one of the few. In Chattanooga and across the South, wherever Pop shined his light, it's a little darker now.
+          So long, Sweetheart.  Semper fi.
+          
+            John Egerton has been writing about the South for more than a
+generation. He wrote Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South.
+          
+        
+      
+    
+  

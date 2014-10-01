@@ -39,6 +39,12 @@
 {% endfor %}
 </ul>
 </div>
+
+<div class="downloads">
+<p><a href={% url "send_file" "sc_issues" %}>Issues Zip File</a></p>
+<p><a href={% url "send_file" "sc_articles" %}>Articles Zip File</a></p>
+</div>
+  
 </div>
 {% endblock %}
 

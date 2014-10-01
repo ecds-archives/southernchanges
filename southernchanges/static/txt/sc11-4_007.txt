@@ -1,0 +1,81 @@
+
+          Issues of Reliability and Validity
+          By Clayton, AlAl Clayton
+          Vol. 11, No. 4, 1989, p. 11
+          
+          Too often, standardized exams are not accurate even within the
+narrow range of things they are able to measure. The reasons for this
+problem can be found in the somewhat technical areas of test reliability and validity.
+          If we could administer a test to a person, then have that person
+completely forget what is on the test, and finally re-administer the
+test, would the two test scores be the same? If the answer is yes, the
+test is reliable. Since people do not forget the test they take,
+test-makers use a variety of statistical methods to determine
+reliability and report the results on a scale from zero (no
+reliability, the score was a random-chance accident) to one (perfect
+reliability.)
+          Reliability over 0.9 is considered quite good. Most major
+achievement tests (such and the California, Iowa, Stanford, and
+Metropolitan) reach this level.
+          Sub-sections of these same tests ( e.g., a subsection on
+calculating percents in an arithmetic test) provide the more detailed
+information that could be useful in teaching. Sub-test scores,
+however, are often far less reliable than the whole exam. Many
+achievement tests report such sub-scores, with the cautions against
+making decisions based on unreliable sub-test results buried deep
+inside complex manuals.
+          Tests for young children are particularly unreliable, with typical
+ratings only from 0.5 to 0.7 This is largely due to the rapid
+developmental changes children go through. Young children are also
+less able to subordinate their immediate thoughts and emotions to a
+task such as taking a test. The lack of reliability in the tests of
+young children contributes to the dangers of using such tests for
+placing them in special programs.
+          Decisions about students should never be made solely or primarily
+on the basis of test scores. Since reliability is never perfect, such
+decisions will be wrong a certain percentage of the time. The lower
+the reliability, the higher the "measurement error" and the more
+likely a mistake will be made. Despite this fact, and even though test
+manufacturers admit tests should not be used as sole determinants,
+they often are used for deciding placement, grade retention and
+graduation.
+          Validity encompasses a set of concepts
+designed to answer the question, "Are we measuring what we think we
+are measuring?" A test is only valid in relation to the use made of
+it. A test that does not measure what it claims to measure is not only
+invalid, it is dangerous.
+          A number of aspects of validity should be considered in assessing a
+test's utility, but test-makers rarely look at more than the most
+simple. Partly this is because doing a comprehensive validation study
+can be expensive and time-consuming. More fundamentally, examining the
+deeper issues of validity can call into question the entire test
+itself.
+          Construct validity examines how well a test
+actually measures the underlying theoretical construct it claims to
+measure. For example, does the test accurately measure "academic
+potential" or "competence" or "reading"? To answer these questions
+requires a theoretical grasp of the construct to be measured (e.g.,
+"reading") as well as knowledge of how the tests scores will be
+used.
+          Consider, for example, a "spelling" test in which a student is
+expected to find the correctly spelled word among four or five choices
+or decide if an underlined word is already spelled correctly or
+incorrectly. This is actually a test of spelling recognition. Test
+manufacturers treat the two, spelling and spelling recognition, as
+essentially the same tling, and the test will often be used as an
+indicator of the ability to spell.
+          Often, however, tests are a bad substitute for the real thing.  For
+example, "reading tests" do not measure reading, they measure some
+reading skills. Because reading is more than the sum of a set of
+separate skills, reading tests are based on a faulty understanding of
+reading and learning to read. Similarly, a test that is used to make
+statements about "school achievement" may really be a test of another
+construct such as "verbal ability."  Many tests are used as if they
+possessed wide-ranging validity when there is little evidence
+supporting such assumptions.
+          These are the tests that are used to determine the educational fate
+of children and the content of school programs.  Making educational
+decisions based on instruments that fail to measure what they claim to
+measure is a recipe for disaster for many children, most of ten those
+from low-income and minority-group backgrounds.
+        

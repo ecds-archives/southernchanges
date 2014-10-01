@@ -41,8 +41,12 @@
     {% endif %}
     </tbody>
      </table></p>
+<div class="downloads">
+<p><a href={% url "send_file" issue.id %}>Download Issue as Plain Text</a></p>
+</div>
+  
+<!--<p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p>-->
 
-<!-- <p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p> -->
      
 </div>
 {% endblock content %}

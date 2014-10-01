@@ -1,0 +1,394 @@
+
+          Uneasy Victories in the Supreme Court
+          By Mcdonald, LaughlinLaughlin Mcdonald
+          Vol. 8, No. 3, 1986, pp. 15-18
+          
+          During the 1985-1986 term, the Supreme Court decided eight major
+race discrimination cases. Four involved employment discrimination and
+affirmative action, three involved jury selection and the seventh
+voting rights. In all eight, the basic positions (if not the specific
+remedies) advocated by minorities prevailed, while the restrictive
+interpretations of civil rights law urged by the Reagan Department of
+Justice were decisively rejected.
+          In the first of the employment cases, Wygant
+v. Jackson Board of Education, the Court held that a school board
+could not lay off non-minority teachers with more seniority than
+minority teachers who were retained as part of an affirmative action
+plan. The Court reasoned that "layoffs impose the entire burden of
+achieving racial equality on particular individuals, often resulting
+in serious disruption of their lives. The burden is too intrusive."
+Although minority teachers were denied a measure of protection in
+Wygant, the decision as a whole was a victory for affirmative
+action.
+          First, the Court indicated that race-conscious affirmative action
+plans, including the use of hiring goals, are constitutional as part
+of the nation's commitment to eradicating racial
+discrimination. Second, the Court rejected the Department of Justice's
+suggestion that affirmative action must be limited to 
+
+specific,
+identifiable victims of past discrimination. Since it is often
+impossible to prove which particular minority would have been hired in
+the absence of discrimination, the adoption of government's position
+would have meant the end of meaningful affirmative action. Third, an
+employer can justify an affirmative action plan by showing a
+reasonable basis for concluding such a remedy is appropriate; an
+employer need not have, in fact, discriminated in the past.
+          In Sheetmetal Workers v. EEOC, the Court,
+building upon Wygant, held that an affirmative
+action plan to increase minority membership in a union could be
+required in cases of "persistent or egregious discrimination" or where
+necessary "to dissipate the lingering effects of pervasive
+discrimination." In the third employment discrimination case, Firefighters v. City of Cleveland, the Court upheld a
+voluntary affirmative action plan to hire minority firefighters even
+though it may have provided broader relief than a district judge could
+have ordered after a trial.
+          Finally, in Bazemore v. Friday, the Court
+ruled that the North Carolina Agricultural Extension Service had a
+duty to eradicate salary disparities between white and black workers,
+even though the disparities had their origin prior to the time federal
+anti-discrimination laws were made applicable to public employers.
+          The Court's employment discrimination cases are the most
+significant setback to date for the Reagan Administration's five
+and-a-half year crusade to eradicate hiring goals and restrict relief
+to the few identifiable victims of discrimination. In rejecting the
+Solicitor General's arguments, the Court frequently used strong
+language accusing the government of "misconceiving" controlling legal
+principles and "twisting" the meaning of applicable statutes. The
+rulings of the Court suggest that the Department of Justice under its
+present leadership has lost much of its institutional credibility, and
+that its arguments were viewed as part of a rightwing political
+campaign rather than as based upon the rule of law.
+          The Supreme Court also significantly strengthened the protection of
+minorities in jury selection during the last term. In Batson v. Kentucky, it held for the first time that a
+prosecutor's use of peremptory challenges to strike black jurors in a
+particular case violated the Fourteenth Amendment. The law prior to
+Batson had been established, ironically enough,
+in a case decided during the years that Earl Warren was Chief Justice,
+Swain v. Alabama. Swain held that a prosecutor's
+use of peremptory challenges was immune from judicial review, except
+were blacks were removed in "case after case, whatever the
+circumstances, whatever the crime and whoever the defendant or the
+victim may be."
+          The Swain standard, which was all but
+impossible to meet, had been increasingly criticized by legal
+commentators, while a number of lower courts had circumvented the
+decision by ruling that the use of challenges by a prosecutor to
+exclude blacks in individual cases violated the Sixth Amendent's
+guarantee of a fair and impartial trial or could be prohibited by a
+court in the exercise of its general supervisory powers. Despite the
+enlightened trend of dissatisfaction with Swain,
+the Solicitor General strenuously, and predictably, argued that a
+defendant could not establish a constitutional violation by showing
+"only" that blacks were systematically struck from the jury. The
+argument failed to persuade the Court.
+          In a second case, Turner v. Murray, the Court
+held that a capital defendant accused of an interracial crime had a
+constitutional right to have prospective jurors questioned about their
+possible racial bias. In the final jury selection case, Vasquez v. Hillery, the Court reaffirmed existing law
+that the exclusion of blacks from a grand jury was not harmless error,
+but required a new trial no matter how old the original conviction
+was.
+          In the last of the racial discrimination cases, Thornburg v. Gingles, the Court construed for the
+first time Section 2 of the Voting Rights Act. Congress amended
+Section 2 in 1982 to provide that voting practices are unlawful if
+they "result" in discrimination. Prior to 1982, an election law could
+only be invalidated if minority plaintiffs showed that it was adopted
+or was being maintained with a discriminatory purpose. The Court not
+only affirmed the constitutionality of Section 2, but significantly
+simplified the test for determining if an election plan using at-large
+voting was unlawful.
+          According to the Court, an apportionment plan violates Section 2 by
+causing impermissible vote dilution if the plan permits a bloc-voting
+white majority usually to defeat the candidates supported by a
+politically and geographically cohesive minority. Factors such as a
+lingering history of discrimination, racial campaign appeals, a
+depressed minority socioeconomic status, etc., which Congress had
+indicated in the legislative history were relevant to a vote dilution
+claim, were held by the Court to be supportive of, but not essential
+to, a Section 2 violation.
+          The new test adopted by the Court to measure vote dilution based on
+race is analogous to the one-person one-vote formulation that measures
+vote dilution based on population inequality. Both focus on racial
+patterns in election returns and in census data. Both avoid excesive
+investigation into historical and social factors and contain readily
+ascertainable standards for the lower courts to apply.
+          Thornburg also held that plaintiffs were not required to show that
+white voters were voting purposefully to exclude minorities from
+office to establish bloc voting, and that the election of a token or
+minimal number of blacks could not be used to defend an appointment
+plan which worked usually to dilute the minority vote. The latter
+ruling was a specific rejection of the Solictor General's argument in
+the case that Section 2 protected only token--not equal--minority
+political participation.
+          Despite the fact that the Court as a whole reiterated its
+commitment to racial equality this term, there was a significant
+degree of division among the individual justices. Seven of the eight
+discrimination cases were ideologically polarized, i.e., Brennan and
+Marshall (the left wing of the court) voted together and took a
+different position from that of Burger and Rehnquist (the right wing
+of the court) on one or more major issues. (See Table I)
+
+          
+            
+              Table I: IDEOLOGICAL POLARIZATION IN RACE DISCRIMINATION
+CASES
+              
+                JUSTICE   
+                BRENNAN/MARSHALL   
+                %
+                BURGER/REHNQUIST   
+                %  
+              
+              
+                Stevens    
+                7   
+                100   
+                0
+                0   
+              
+              
+                Blackmun   
+                7   
+                100   
+                0
+                0   
+              
+              
+                Powell     
+                3   
+                43   
+                4
+                57   
+              
+              
+                White      
+                3   
+                43   
+                4
+                57   
+              
+              
+                O'Connor   
+                3   
+                43   
+                4
+                57   
+              
+            
+          
+          The margin for victory for civil rights resulted from the
+consistent support of the Brennan/Marshall position by Stevens and
+Blackmun, and the inability of Burger and Rehnquist to hold the votes
+of White, Powell, and O'Connor more than about half the time.
+          The importance of the White/Powell/O'Connor bloc can be seen from
+the fact that these three justices were more frequently in the
+majority than any other members of the Court. As Table II shows,
+O'Connor voted with the majority 89 percent of the time, and Powell
+and White 75 percent of the time. Burger and Rehnquist voted most
+frequently in the minority. (See Table II)
+          
+            
+              Table II: JUSTICES MOST FREQUENTLY IN MAJORITY OR
+MINORITY*
+              
+                JUSTICE    
+                MAJORITY    
+                %
+                MINORITY    
+                %
+              
+              
+                Brennan     
+                7   
+                70   
+                3
+                30
+              
+              
+                Marshall    
+                7   
+                64   
+                4
+                36
+              
+              
+                Stevens     
+                7    
+                70   
+                3
+                30
+              
+              
+                Blackmun    
+                7   
+                70   
+                3
+                30
+              
+              
+                Powell      
+                6   
+                75   
+                2
+                25
+              
+              
+                White       
+                6   
+                75   
+                2
+                25
+              
+              
+                O'Connor    
+                8   
+                89   
+                1
+                11
+              
+              
+                Burger      
+                4   
+                50   
+                4
+                50
+              
+              
+                Rehnquist   
+                3   
+                37   
+                5
+                63
+              
+              
+                *This table treats opinions in which a justice concurred in part
+and dissented in part as both a majority and a minority
+opinio
+              
+            
+          
+          Brennan, the senior exponent of the Court's liberal philosophy, was
+suprisingly influential on the term's discrimination cases. He wrote
+four of the eight majority opinions and was more frequently aligned
+with the other justices than any other member of the Court. As Table
+III shows, Brennan, Marshall, Blackmun, Stevens and Powell voted
+together at least half of the time. None of the other justices
+approached that level of agreement. (See Table III)
+          
+            
+              Table III: VOTING ALIGNMENT IN RACE DISCRIMINATION CASES
+1985-1986 TERM*
+              
+                JUSTICE    
+                BRENNAN   
+                MARSHALL
+                STEVENS   
+                BLACKMUN   
+                POWELL
+                WHITE   
+                O'CONNOR
+                BURGER
+              
+              
+                Marshall    
+                88%
+              
+              
+                Stevens     
+                63%      
+                25%
+              
+              
+                Blackmun    
+                50%      
+                25%
+                13%
+              
+              
+                Powell      
+                50%      
+                13%
+                13%        
+                13%
+              
+              
+                White       
+                38%      
+                13%
+                13%        
+                13%
+                25%
+              
+              
+                O'Connor    
+                38%      
+                0%
+                0%         
+                0%        
+                38%
+                25%
+              
+              
+                Burger      
+                13%      
+                0%
+                0%         
+                0%        
+                25%
+                13%      
+                13%
+              
+              
+                Rehnquist   
+                13%      
+                0%
+                0%         
+                0%        
+                38%
+                13%      
+                13%
+                38%
+              
+              
+                *To determine the frequency of agreement, the number of times
+two members of the Court voted together was divided by the eight race
+discrimination cases decided by the Court in which both justices
+participated.  Justices were considered voting together only if they
+joined the same opinion, concurrence or dissent.  Although justices
+occasionally voted together more than once in a given case, their
+alignment under such circumstances was given a value of
+1. 
+              
+            
+          
+          The term's racial discrimination cases do not, of course, provide a
+full picture of the Court's general treatment of civil and
+constitutional claims. They also fail to show the Court's gross
+disregard for the rights of politically more vulnerable minorities,
+such as gays and Orthodox Jews. In Bowers
+v. Hardwick, for example, the Court ruled that the Constitution
+affords no protection from criminal prosecution to gays who
+participate in homosexual acts in the privacy of their homes. In
+another case, Goldman v. Weinberger the Court
+held that the military could forbid an Orthodox Jew from wearing a
+yarmulke, despite his sincere 
+
+religious beliefs and the lack of any
+service-related need.
+          A court that turns its back on the deeply held beliefs of a
+religous minority and leaves the regulation of intimate relationships
+to the whim of a hostile majority, may in the long run provide scant
+protection for the rights of racial minorities. President Reagan has
+recently nominated the most ideologically inflexible member of the
+Court, Justice Rehnquist, to be Chief Justice. He has also nominated
+Antonin Scalia, another rigid conservative, to fill the vacancy
+created by the resignation of current Chief Justice Burger. More
+Reagan appointments would surely tilt the Court significantly to the
+right, jeopardizing the continued constitutional protection of the
+Nation's racial minorities.
+          
+            Laughlin McDonald is director of the Southern Regional
+Office of the American Civil Liberties Union Foundation.
+          
+        

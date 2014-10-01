@@ -1,0 +1,126 @@
+
+          The Supreme Court and Voting Rights:
+`Bizarre' Districts or Bizarre Decisions?
+          By Karlan, Pamela S.Pamela S. Karlan
+          Vol. 17, No. 3-4, 1995 pp. 8-13
+          
+          Last term, the Supreme Court took action in five voting rights cases: it struck down Georgia's majority-black Eleventh Congressional District; it denied standing to white voters in Louisiana who wished to challenge the state's majority-black Fourth Congressional District although none of them lived there; it upheld without comment California's legislative and congressional apportionments; and it agreed to hear oral argument regarding the constitutionality of Texas's and North Carolina's plans. These decisions reveal a Court seemingly committed to reviewing challenged congressional districts one by one and issuing opinions that depend so heavily on the peculiar facts of each case that they provide no real guidance to lower courts or legislatures.
+          This essay raises three broad questions: First: Who now has legal
+standing to bring a wrongful districting claim? The rulings in Shaw v. Reno (North Carolina)*The North Carolina congressional
+apportionment is again before the Supreme Court this term in Shaw v. Hunt. and Miller v. Johnson (Georgia) reveal that the Court's majority is not really concerned with the equal protection of individuals or groups, but rather with fundamental questions of governmental structure that raise political questions the judiciary is ill-equipped to handle. Second: Whose task it is to determine what a republican form of government means in a multi-racial, pluralistic society? In looking at the actual elements of wrongful districting claims, few constraints now exist to prevent arbitrary judicial intervention in the apportionment process. Third: What has become of the Voting Rights Act? States now find themselves walking a tightrope. If they draw majority-black districts, they face lawsuits under the equal protection clause; if they do not, they face objections under section 5 of the Voting Rights Act and lawsuits under section 2.
+          
+            I
+          
+          Prior to Shaw v. Reno, there were basically two types of voting rights injuries: disenfranchisement and dilution. Disenfranchisement occurs when an individual is denied the ability to cast a ballot. Poll taxes, literacy tests, and de-annexations (like the notorious "Tuskegee gerrymander") are examples of disenfranchising provisions. Dilution occurs when the votes of some group count for less than those of other voters. Dilution can occur be-cause of malapportionment,the use of at-large elections, or gerrymandering that "cracks" or "packs" a group's voting strength into a fewer-than-optimal number of districts.
+          Shaw v. Reno identified a new form of equal protection claim in which a plaintiff may argue that a reapportionment statute "though race-neutral on its face, rationally cannot be understood as anything other than an effort to separate voters into different districts on the basis of race, and that the separation lacks sufficient justification." Plaintiffs in this kind of "wrongful districting" case need not prove either that they were denied the right to vote or that their votes were diluted.
+          Put bluntly, by letting these individuals sue, the Supreme Court has granted standing to individuals whose real complaint is that they have been injured by racial integration or at least racial integration in which whites do not remain the predominant group. This notion of injury harkens back to a deeply disturbing assertion expressed in the 1950s that so-called "neutral principles" of constitutional law required that white individuals desire not to associate with blacks be accorded the same respect given to blacks' claims for full inclusion in the polity.
+          Shaw v. Reno had identified special
+"representational harms" that might occur if race played too large a
+role in the districting process. But Miller
+threatens to abandon any requirement that the plaintiffs even allege,
+let alone prove, these harms. Neither the district court nor the Supreme Court discussed whether racial polarization in Georgia had increased. Neither court made any findings about whether the Eleventh District's representative, Cynthia McKinney, had ignored her white constituents or their interests. Indeed, the Supreme Court denied the possibility that white constituents even had any interests correlated with their race.
+          The Court's nonchalance about standing conveys a central point
+about the wrongful districting cases: they really aren't individual
+rights lawsuits in the first place. Rather they concern the meaning of
+our system of representative democracy. The Court permitted the Miller plaintiffs to go forward, not because they could show some injury, but because it needed to give somebody the ability to challenge the districting process. For all their equal protection rhetoric, the wrongful districting cases are instead really addressed to what Justice Thomas has termed the "political landscape of the Nation." The Court has smuggled into the equal protection clause a decision that really speaks to what constitutes a republican form of government in multiracial twentieth-century America.
+          Ironically, Justice Thomas's radical critique in his Holder v. Hall concurrence--which he aimed at the Court's decisions under the Voting Rights Act--much more
+closely describes the Court's behavior in the wrongful districting
+cases. Shaw v. Reno and Miller threaten, as Justice Thomas wrote, to
+"immers [e] the federal courts in a hopeless project of weighing
+questions of political theory." They ask courts to "make decisions
+based on highly political judgments--judgments that courts are
+inherently ill-equipped to make," and "develop theories
+on basic principles of representative government, for it is
+only a resort to political theory that can enable a court to
+determine which electoral systems provide the 'fairest'
+levels of representation."
+          As we shall see in the next two sections of this essay, the Court has yet to discover, or articulate in a fashion it thinks the lower courts can apply, a standard for deciding when race-conscious districting is permissible. It has injected the judiciary into the middle of a highly politicized process in order to impose a contestable political philosophy of the meaning of democracy in a multiracial society; and it has manufactured a conflict between its newly-created cause of action and the political branches' consensus as intended by the Voting Rights Act.
+          
+            II
+          
+          On its face Shaw v. Reno was a case about district appearance. Given the electoral importance of race in much of the nation, it is as unlikely that a majority-black
+district would be created by accident as it is that a
+majority-Republican district would be drawn accidentally. Unless the
+Court was prepared to review the propriety of every congressional
+district in a state with a sizeable minority population, it needed
+some threshold limiting principle. The concept which emerged from Shaw v. Reno--that irregularity of boundaries
+("bizarreness") triggers strict scrutiny--is not an especially
+workable legal principle. Bizarreness is a relative concept. It
+requires that we have some understanding of what would be normal or
+regular. But in many states, the most observed "traditional
+districting principle" is the outlandish political gerrymander. In
+Louisiana, for ex-ample, the trial court struck down the newly-drawn, majority-black Fourth District--which resembled the post-1970 majority-white Eighth District drawn to ensure Gillis Long's reelection--describing both districts as "bizarre." To call a district "bizarre" if it is drawn to create a majority-black constituency, but "traditional" and safe from attack if it is drawn to create a majority-Republican or -Democratic constituency makes a mockery of the equal protection component of the Fifth Amendment and gives trial courts a roving warrant to strictly scrutinize districts they don't like.
+          In Miller, the Court replaced the Shaw v. Reno "bizarreness" concept with a "predominant factor" test. Now, a plaintiff must show, either through direct or circumstantial evidence (like the district's shape) that the legislature "subordinated traditional race-neutral districting principles, including but not limited to compactness, contiguity, respect for political subdivisions or communities defined by actual shared interests, to racial considerations." But what does it mean to say that race is the "predominant factor" in an apportionment plan? If "pre-dominant" really means infinitely preferred to all other goals, then race is never the predominant factor in the real world.
+          Three criteria omitted from the Court's list of "traditional" districting principle--equipopulousity, partisan advantage, and incumbent protection--are virtually sure to loom equally large in a legislature's redistricting calculus. Ironically, it's often precisely the fact that these three concerns come before race that can explain much of the irregularity of shape of majority-black districts. In Texas, for example, the legislature declined to draw an extremely compact majority-black district in Dallas because two white, incumbent Democrats each wanted to keep substantial numbers of reliably Democratic black voters in their districts. The shape of the newly created majority-black district--which was essentially slipped into territory grudgingly ceded by the two white incumbents, and which had to reach out tentacles to incorporate pockets of white (not black) voters necessary to reach the ideal district population--reflects not the dominance but the subordination of the black community's interest. If the black district had been drawn first, it could have been regular, and presumably would then have been protected from attack; only because it was drawn last did it flout "traditional" districting principles.
+          Miller's declaration that "[a] State is free
+to recognize communities that have a particular racial makeup,
+provided its action is directed toward some common thread of relevant
+interests" further muddies the waters. The Court never explains what
+counts as a "community" or a "relevant interest." First, few political
+subdivisions have the precise population to entitle them to a congressional district of their own.  Every district will reflect the agglomeration of many "communities." Communities sometimes stretch across political subdivision boundaries and sometimes contain only part of a formally defined jurisdiction. Are individuals who live in different townships but who attend the same church, work in the same industry, and to belong to the same political organization a "community"? A black textile worker who attends an AME church and votes solidly Democratic may feel far more of a sense of community with a similarly-situated individual who lives in another mill town forty miles down the highway that she feels with a wealthy white Presbyterian who lives in a racially homogenous, gated community on the other side of town. Some of that solidarity will be overtly racial, some of it will be the product of interests less mechanically tied to race, and some of it may be only fortuitously correlated with race. When it comes to congressional representation, as opposed to seats on a city council, it is particularly likely for voters' most salient interest to be tied to socioeconomic factors rather than local residential ones.
+          Second, one would have to be not only colorblind, but deaf and dumb
+as well, not to recognize that questions of racial justice and issues
+with racial overtones form of significant part of the current
+legislative agenda and that racial issues may themselves define
+communities of interest.   Of course, anti-discrimination measures
+such as the Civil Rights Acts, the Fair Housing Act, and the Voting
+Rights Act protect, and were supported by, Americans of races.
+Nonetheless, as the Court recognized in Hunter v. Erickson, members of minority groups are particularly interested in such provisions.
+          Shaw v. Reno and Miller treat the assumption that black voters "think alike, share the same political interests, and will prefer the same candidates at the polls" as "offensive and demeaning". But what if, in some jurisdictions, that assumption is true? In many states, black voters--even if they do not always think alike--do share the same political interests ad prefer the same candidates at the polls.  In recent history throughout much of the South, for example, blacks vote in near-monolithic numbers for Democratic candidates while a significant majority of their white counterparts prefer Republicans. "Traditional" political gerrymanders of the past generation have taken this fact into account: white Democratic politicians deliberately place black voters in their districts in order to shore up their electoral base (though not so many as to jeopardize their winning the nomination); Republicans generally draw themselves overwhelmingly white districts.   If courts were to apply strict scrutiny to every districting decision in which "race was the predominant factor motivating the legislature's decision to place a significant number of voters within or without a particular district", they would have to scrutinize not only a few majority-black congressional districts, but many majority-white districts as well, since "substantial" numbers of voters are moved into or out of those districts on the basis on race.
+          That courts are unwilling to engage in that kind of wholesale
+scrutiny rests on assumptions every bit as "offensive and demeaning"
+as those the supreme Court beholds in others. First, characterizing
+the use of black voters to fill out majority-white districts as
+"political" rather than racial treats them like Hamburger Helper.
+Second, it assumes the normality of majority-white districts,
+however configured, and starts from a premise of suspicion about
+majority-black districts. Finally, to tell black citizens who have
+organized to lobby for and obtain the districts they prefer that their
+common interests are illusory or unworthy of satisfaction is
+chillingly reminiscent of the assertion in the notorious Dread Scott case of 1857 that blacks have "no rights which the white man [is] bound to respect."
+          Ultimately, Miller with its disallowance of
+race as the "predominant factor" of districting, is no more successful
+that Shaw v. Reno at articulating a standard that explains when the inevitable reliance on race in the redistricting process is permissible and when it is not.
+          
+            III
+          
+          In the wake of Miller, a wrongful districting claim has two elements.  Initially, the plaintiffs must show a predominant racial motivation.   If they do, then "the State must demonstrate that its districting legislation is narrowly tailored to achieve a compelling interest."
+          The second element will almost inevitably be bound up with sections
+2 or 5 of the Voting Rights Act.  Chandler Davidson and Bernard
+Grofman's important book, Quiet Revolution in the
+South(see my review in Southern Changes,
+Summer 1995) persuasively shows that the creation of majority-black
+legislative and congressional seats in the South is almost entirely
+attributable to the Act. Absent legislation, denials of preclearance,
+or the threat thereof, Southern states would have created very few black districts. Defendant jurisdictions will normally claim that their districts were "compelled" by the Voting Rights Act and that this compliance with the Act provides a sufficient justification for their districting decisions.
+          Miller seems to leave open the question "[w]hether or not in some cases compliance with the Voting Rights Act, standing alone, can provide a compelling interest independent of any interest in remedying past discrimination." The legitimacy of race-conscious districting has therefore become quite unclear.
+          Section 2 of the Voting Rights Act prohibits electoral arrangements that result in minority voters having less opportunity than other voters to elect the candidates of their choice. The Court has required plaintiffs challenging an apportionment plan to prove three threshold conditions: that the minority group "is sufficiently large and geographically compact to constitute a majority in a single-member district"; that it is "politically cohesive"; and that "the white majority votes sufficiently as a bloc to enable it ... usually to defeat the minority's preferred candidate." The remedy for a section 2 violation is race-conscious districting. By proving their case, plaintiffs show that "racial and ethnic cleavages ... necessitate majority-minority districts to ensure equal political and electoral opportunity."
+          Shaw v. Reno seemed to assume that section 2 would come into a wrongful districting case at the justification stage. But perhaps section 2 applies as much at the triggering stage. If the minority community is "geographically compact," then "a reapportionment plan that concentrates members of the group in one district" should not trigger strict scrutiny in the first place, since a compact majority-black district is fully consonant with traditional apportionment principles. Compliance with section 2 negates the first element of a wrongful districting claim; it should be unnecessary even to reach the question whether the state's interest is compelling.
+          The more difficult issue is narrow tailoring, particularly given this plausible scenario: a state's failure to draw any majority-black district would violate section 2, but to serve some other legitimate state interests, the state would prefer to draw a less compact--or even highly irregular--black district instead of the compact one plaintiffs might use to establish section 2 liability. If only the regular district can pass muster, then wrongful districting doctrine violates itself, since it demands that the state draw aesthetically regular majority-black districts even if this means sacrificing other concerns such as protection of incumbents, partisan allocation of seats, and recognition of other communities of interest. "Narrow tailoring," however, is not a term borrowed from couture to describe elegance of line; rather, it refers to whether the state's reliance on race went beyond what was necessary to provide equal political opportunity.
+          As for section 5, both Shaw v. Reno and Miller seemed to reaffirm the vitality of the
+nonretrogression principle: a reapportionment cannot leave minorities
+worse off. Nonretrogression also requires race-conscious
+districting. Furthermore, section 5 (like section 2) reaches
+intentional discrimination: preclearance will be denied unless the
+jurisdiction can show that its plan is not purposefully
+discriminatory. Despite three decades of case law and administrative
+practice, some ambiguities that are relevant to the wrongful
+districting cases remain. For example, what is the baseline for
+measuring retrogression in a jurisdiction which has gained
+congressional seats, as many Southern and Western states with
+substantial minority populations have? For example, after the 1980
+census (and the Busbee litigation), Georgia, with a roughly 25 percent black population, had one majority-black district out of ten (10 percent). As a result of the 1990 census, the state received an eleventh seat. Would a new plan that simply preserved the pre-existing majority-black district be retrogressive since the proportion of majority-black seats would decline from 1/10 to 1/11 (9 percent)? Does section 5 therefore require the state to draw two majority-black districts? This issue seems likely to spawn additional litigation.
+          The real friction between the Voting Rights Act and wrongful districting jurisprudence is pragmatic and institutional. The combination of lax standing requirements, ideological and partisan incentives to sue, and a receptive, activist federal judiciary guarantees that jurisdictions will find themselves walking a tightrope. If they do not draw majority-black districts in most areas with substantial black populations. they will both
+find it difficult to obtain preclearance and, if they do, will face traditional section 2 lawsuits. But if they do draw those districts, they will find themselves em-broiled in wrongful districting litigation. There is now no realistic way for a jurisdiction to avoid costly and divisive litigation.
+          It makes sense for the Court to step in when there are individuals
+or groups being denied their right to participate or to have their votes fairly counted or to have their views taken into account in the legislative process. But when complainants have suffered no particular injury, but simply object to the prevailing democratic theory, the Court's intervention is entirely unjustified. As Justice Harlan warned in 1962 in Baker v. Carr, "[i]n the last analysis, what lies at the core of this controversy is a difference of opinion as to the function of representative government,"--precisely the kind of question that should be hammered out in the political process.
+          Current wrongful districting doctrine is inherently unstable, as
+the Court's visions and revisions over the past three Terms have suggested. Democracy, no less than liberty, finds no refuge in a jurisprudence of doubt. The Court's inability to articulate and identify a concrete harm to any identifiable individual suggests that the Court has embarked on an effort to impose its own vision of democratic theory on a resistant political process. And the Court's decisions, with their heated rhetoric about "political apartheid" and "balkanization" and their potential eviction of half the black members of Congress, are, as Shaw v. Reno put it, far more likely than race-conscious districting to "carry us further from the goal of a political system in which race no longer matters--a goal that the Fourteenth and Fifteenth Amendments embody and to which the Nation continues to aspire."
+          
+            Pamela S. Karlan is Roy
+ L. and Rosamond Woodruff Morgan Research Professor of Law at the
+ University of Virginia. A more extensive version of this article,
+ "Still Hazy After All These Years: Voting Rights in the Post-Shaw
+ Era," will appear in the Cumberland Law Review.
+          
+        

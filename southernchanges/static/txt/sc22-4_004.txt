@@ -1,0 +1,83 @@
+
+          Minority Vote Dilution Is Still Illegal
+          By Wright, BrendaBrenda Wright
+          Vol. 22, No. 4, 2000 pp. 7-10
+          
+          The 1990 round of redistricting brought a significant increase in
+minority representation in Congress, state legislatures, and local offices. The key to this success was the creation of many new districts in which minority citizens comprised a majority of the population. The backlash that followed, culminating with the Supreme Court's creation of a new constitutional claim of reverse discrimination in Shaw v. Reno, is well-known.
+          Seven years after Shaw, with numerous
+Supreme Court and lower court decisions interpreting and applying that
+decision, the message is clear: it is still legal to draw majority-minority districts. Opponents of majority-minority districts like to deny that fact. One of the most important obstacles that minority advocates face is overcoming such misinformation in the upcoming redistricting battles . What follows are some key principles that minority advocates need to promote as they gear up for redistricting 2000.
+          
+            Section 2 Requires
+ Equal Opportunity for Minorities
+          
+          Districting plans that dilute minority voting strength are still
+illegal under Section 2 of the Voting Rights Act. Even after Shaw v. Reno, courts have continued to strike down
+redistricting plans under Section 2 when the plans fail to create
+adequate majority-minority districts. For example, in Sanchez v. Colorado, Colorado's legislative
+redistricting plan was struck down in 1996 because it did not include
+a majorityHispanic district. Tennessee's legislative redistricting
+plan was struck down in 1998 in Rural West Tennessee African-American Affairs Council v. Sundquist because it did not include sufficient majority-black districts.
+          The federal courts have also continued to strike down local-level
+plans for failing to create adequate majority-minority districts, even
+after Shaw v. Reno,  including: Teague v. Attala County (Miss.); Clark v. Calhoun County (Miss.); Houston v. Lafayette County (Miss.); and Barnett v. City of Chicago (Ill.).
+          These and other judicial decisions have rejected a variety of
+arguments made by opponents of majority-minority districts, including
+the argument that Shaw makes it unlawful
+intentionally to draw a majority-minority district, and the argument
+that a districting plan must achieve ideal compactness in order to
+serve as a valid Section 2 remedial district. The lesson of these
+post-Shaw cases is clear: Section 2 of the Voting Rights Act still makes it unlawful to adopt a redistricting plan that denies minority voters an equal opportunity to elect candidates of their choice.
+          If a state (or other redistricting authority) has substantial evidence that voting is polarized along racial lines, that minority voters have had difficulty electing candidates of their choice to office in majority-white districts, and that the minority population is sufficiently large and geographically compact to form a majority in one or more districts, then the state (or other redistricting authority) has a compelling interest in creating majority-minority districts to avoid a violation of Section 2.
+          The intentional creation of a majority-minority district is not
+inherently suspect under the Fourteenth Amendment unless race
+predominates over all other factors in drawing the district. One of
+the biggest questions initially raised by the 1993 decision in Shaw v. Reno was whether redistricting plans would automatically be suspect under the Fourteenth Amendment if the plan intentionally created a majority-minority district. In decisions subsequent to Shaw, Justice O'Connor, whose vote was critical to the 5-4 Shaw majority, has made it clear that the intentional consideration of race in drawing a district is not, by itself, enough to make the plan suspect.
+          One of Justice O'Connor's clearest statements along these lines
+came in her concurring opinion in Miller
+v. Johnson, in which she said, "To invoke strict scrutiny [of a
+majority-minority district], a plaintiff must show that the State has
+relied on race in substantial disregard of customary and traditional
+districting practices."  Justice O'Connor also took pains in the Texas
+redistricting case, Bush v. Vera, to make it
+clear that Section 2 of the Voting Rights Act will often require states to draw majority-minority districts, and that states are entitled to assume that Section 2 is constitutional.  Justice O'Connor's views really establish the controlling guidelines for redistricting, because without her vote, there would have been no majority for striking down any of the districts that the Supreme Court has invalidated in the wake of Shaw.
+          According to Miller v. Johnson, to create
+majority-minority districts that will withstand a challenge under Shaw, plan drawers should avoid districts that "substantial[ly] disregard . . . customary and traditional redistricting principles." The Supreme Court and lower courts have identified a variety of factors such as compactness, contiguity, respect for political subdivisions, respect for communities of interest, and protection of incumbents (and other political factors), as traditional redistricting principles.
+          That does not mean, however, that majority-minority districts must
+necessarily achieve the maximum possible compactness, or maximum
+possible respect for political subdivisions. The Supreme Court held in
+Bush v. Vera that a majority-minority district
+need not defeat other districts in a "beauty contest" in order to be
+sustained.  Justice O'Connor also said, in Miller v. Johnson, that the Court's "basic objective" was "making extreme instances of gerrymandering subject to meaningful judicial review." 
+          Obviously, the rules that have emerged out of the Supreme Court's
+decisions are fairly subjective-it's permissible to have some
+departure from ideal compactness, but a "bizarre" district will be suspect. What does that mean in practice? It means that the lower courts end up with a lot of discretion in deciding how much departure from traditional redistricting principles is too much. In Illinois, a three-judge district court upheld Illinois' 4th Congressional District-the famous "earmuff" district (see district top right above)-against a Shaw challenge, and the Supreme Court summarily affirmed that decision. The Supreme Court also upheld the constitutionality of Florida's Senate District  21, even though it split three counties and crossed Tampa Bay.  On the other hand, districts less bizarre than either of these have been struck down by other federal courts under Shaw.
+          The best advice for redistricting, then, is to attempt to observe
+traditional districting principles to the greatest extent possible while still creating districts that afford minority voters an equal opportunity to elect candidates of choice to office. Even though split counties or cities will not automatically invalidate a plan, minimizing the number of such splits will increase the chances of a district being upheld against a Shaw challenge. In particular, plan drafters need to be careful about using racial data at the census block level-below the precinct level-in creating a district, if your mapping software does not also permit you to examine other, nonracial characteristics at the block level. Splitting precincts along racial lines was a primary basis for the Supreme Court's conclusion that race unlawfully predominated over all other factors in drawing the Texas congressional districts that were challenged in Bush v. Vera.
+          Similarly, even though "ideal" beauty is not a constitutional requirement for district shapes, minimizing the numbers of odd-looking "fingers," "appendages," and "tentacles,"  will help in sustaining the constitutionality of a district.
+          It is also very important to understand that departures from traditional redistricting principles are permissible if they can be explained in terms of race-neutral factors. For example, if a majority-minority district is distorted in shape because of the need to meet one-person, one-vote requirements; to keep two incumbents separated; because the political jurisdiction itself has odd boundaries; or to link communities of interest that are not defined solely in racial terms, then the district's shape will not necessarily render it suspect. It is particularly important to make sure that the record of the redistricting process, including any public hearings or legislative testimony, documents the race-neutral factors that went into the redistricting plan.
+          If a redistricting plan increases the percentage of minority
+population in a particular district-for example, raising the minority percentage from 55 percent to 60 percent-special care must be taken to document why this increase was either  the result of race-neutral redistricting goals or was necessary to overcome a clear pattern of minority vote dilution. Some court decisions after Shaw have tended to assume that any district that far exceeds 50 percent in minority population is an example of "maximization" and therefore suspect.
+          
+            Section 5 and Retrogression
+          
+          In states covered by Section 5 of the Voting Rights Act, the requirement of nonretrogression is still a powerful tool to protect minority voting strength. States and localities covered by Section 5 must obtain preclearance from the United States Department of Justice or the United States District Court for the District of Columbia before implementing new redistricting plans. A redistricting plan is retrogressive, and therefore cannot receive preclearance under Section 5, if it would reduce the ability of minority voters to participate effectively in the electoral process.
+          There are many ways in which a redistricting plan may be found to cause unlawful retrogression, the most common being reducing the total number of effective majority-minority districts in a plan, or reducing the percentage of minority population in a district where minority voters previously were able to elect a candidate of choice. When a covered jurisdiction reduces minority voting strength in this way, it is vulnerable to an objection under Section 5.
+          States and localities covered by Section 5 are not free to adopt
+retrogressive redistricting plans merely by pointing to Shaw v. Reno and arguing that a majority-minority district might be unconstitutional. A jurisdiction's existing plan should be regarded as the benchmark for determining retrogression unless a federal court has already struck down the plan as unconstitutional.
+          Unfortunately, in Reno v. Bossier Parish School
+Board the Supreme Court held in January 2000 that, in the absence
+of retrogression, the Department of Justice cannot object to a voting
+change under Section 5 on the ground that it was based on a racially
+discriminatory purpose, or would result in a violation of Section 2 of
+the Voting Rights Act. Nevertheless, given the tremendous increase in
+the number of majority-minority districts created after the last
+census, and given the large number of these districts that have
+survived the decade without a successful challenge under Shaw, the
+nonretrogression principle of Section 5 remains an important tool for
+the 2000 round of redistricting.
+          
+            Brenda Wright is managing attorney for the National Voting Rights Institute in Boston, Massachusetts
+          
+        
