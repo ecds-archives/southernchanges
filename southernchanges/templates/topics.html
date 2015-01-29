@@ -7,8 +7,7 @@
 <h2>Browse the articles by topic.</h2>
 
 {% for topic in topics %}
-  <h3><a href="{% url "topic_list" topic.id %}">{{topic}}</a></h3>
+  <p><b><a href={% url 'topic_toc' topic.id %}>{{topic.name}}</a></b></p>
 {% endfor %}
-
 
 {% endblock content %}

@@ -10,11 +10,11 @@
 
 <!-- code adapted from ewwrp -->
 <!-- <xsl:variable name="imgserver">http://wilson.library.emory.edu/~ahickco/yjallen/image-content/</xsl:variable> -->
-<xsl:variable name="imgserver">http://beck.library.emory.edu/youngjohnallen/image-content/</xsl:variable>
-<!-- <xsl:variable name="genrefiction">tgfw/</xsl:variable> need this? -->
-<xsl:variable name="figure-prefix">
-    <xsl:value-of select="$imgserver"/>
-</xsl:variable>
+<!-- <xsl:variable name="imgserver">http://beck.library.emory.edu/youngjohnallen/image-content/</xsl:variable> -->
+<!-- <xsl:variable name="genrefiction">tgfw/</xsl:variable> need this?  -->
+<!-- <xsl:variable name="figure-prefix"> -->
+<!--     <xsl:value-of select="$imgserver"/> -->
+<!-- </xsl:variable> -->
 <xsl:variable name="thumbs-prefix"><xsl:value-of select="$figure-prefix"/>thumbs/</xsl:variable>
 <xsl:variable name="figure-suffix">.jpg</xsl:variable>
   

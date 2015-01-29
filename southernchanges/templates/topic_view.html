@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load get_item %}
+
+{% block title %}Topics{% endblock %}
+
+{% block content %}
+
+<h2>Browse the articles by topic.</h2>
+
+{{doc_percent|get_item:'sc07-5_002'}}
+
+{% for doc in docs %}
+<p>{{doc.title}}----------{{doc_percent|get_item:doc.id}}  {{doc.id}}<p>
+{% endfor %}
+   
+{% endblock content %}

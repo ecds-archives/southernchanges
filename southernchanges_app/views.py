@@ -1,6 +1,7 @@
 import os
 import re
 from urllib import urlencode
+import csv
 import logging
 import tempfile, zipfile
 from django.core.servers.basehttp import FileWrapper
@@ -13,7 +14,8 @@ from django.core.paginator import Paginator, InvalidPage, EmptyPage, PageNotAnIn
 from django.template import RequestContext
 from django.shortcuts import redirect
 
-from southernchanges_app.models import Issue, Article, Fields, TeiDoc, Topics
+from southernchanges_app.models import *
+###from southernchanges_app.models import topic_degree
 from southernchanges_app.forms import SearchForm
 
 from eulxml.xmlmap.core import load_xmlobject_from_file
@@ -119,7 +121,6 @@ def issues(request):
   context['topics'] = topics
   
   return render_to_response('issues.html', context, context_instance=RequestContext(request))
-
 def topics(request):
   "See a list of topics."
   topics = Topics.objects.all()
@@ -127,9 +128,10 @@ def topics(request):
 
 def topic_toc(request, topic_id):
   "Browse articles in a single topic."
+  search_opts = {}
+  ana_id = '#' + topic_id
   topic = Topics.objects.get(id__exact=topic_id)
-  extra_fields = ['issue__id']
-  articles = Article.objects.also(*extra_fields).filter(ana__contains=topic_id)
+  articles = Article.objects.only("id", "head", "author", "date", "type", "issue__id", "pages", "topics").filter(topics__ana=ana_id)
   return render_to_response('topic_toc.html', {'topic' : topic, 'articles' : articles}, context_instance=RequestContext(request))
 
 def issue_toc(request, doc_id):

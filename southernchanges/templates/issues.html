@@ -13,6 +13,7 @@
 
  
 <h2>Issues</h2>
+
 <div class="issues">
 {% for group in groups %}
 <a onClick="$('#{{group.0}}').toggle()"><h3 id="category-label" class ="toggle">{{group.0}}</h3></a>
@@ -28,17 +29,23 @@
 {% endfor %}
 </div>
 <td>
-<td>  
+<td>
+
 <div class="topics">
-<a onClick="$('#topics').toggle()"><h2 id="category-label" class ="toggle">Topics</h2></a>
-  <ul id="topics" class="category" style="display:none">
-  {% for topic in topics %}
-  <li>
-<a href="{% url "topic_toc" topic.id %}">{{topic}}</a>  
-</li>
-{% endfor %}
-</ul>
-</div>
+  <h2><a href={% url "topics" %}>Browse by Topic</a></h2>
+</div>  
+
+  
+<!-- <div class="topics"> -->
+<!-- <a onClick="$('#topics').toggle()"><h2 id="category-label" class ="toggle">Topics</h2></a> -->
+<!--   <ul id="topics" class="category" style="display:none"> -->
+<!--   {% for topic in topics %} -->
+<!--   <li> -->
+<!-- <a href="{% url "topic_toc" topic.id %}">{{topic}}</a>   -->
+<!-- </li> -->
+<!-- {% endfor %} -->
+<!-- </ul> -->
+<!-- </div> -->
 
 <div class="downloads">
 <p><a href={% url "send_file" "sc_issues" %}>Issues Zip File</a></p>
