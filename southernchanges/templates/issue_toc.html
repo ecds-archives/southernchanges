@@ -1,17 +1,17 @@
 {% extends "base.html" %}
 
-{% block meta %}
+{% block head_extras %}
 {# Dublin Core metadata for this issue #}
 {% with issue as dc_fields %}{% include 'issue_dc_meta.html' %}{% endwith %}
 {% endblock %}
 
 {% block title %}Issue Contents{% endblock %}
 {% block content %}
-<div class="content">
+<div class="container">
 <h2>Articles</h2>
 
 <h3>Issue: {{ issue.head|slice:"18:"}} </h3>
-<table class="contents">
+<table class="containers">
   <tbody>
     <tr>
       <th style="text-align:left">Author</th>
@@ -41,9 +41,9 @@
     {% endif %}
     </tbody>
      </table></p>
-<div class="downloads">
-<p><a href={% url "send_file" issue.id %}>Download Issue as Plain Text</a></p>
-</div>
+<!-- <div class="downloads"> -->
+<!-- <p><a href={% url "send_file" issue.id %}>Download Issue as Plain Text</a></p> -->
+<!-- </div> -->
   
 <!--<p><a href={% url "issue_xml" issue.id %}>View XML for {{issue.title}}</a></p>-->
 

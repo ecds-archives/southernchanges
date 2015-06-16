@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+{% extends "site_base.html" %}
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;" charset="iso-8859-1">
+   {% block meta %} {% endblock %}
+   <title>{% block title %}{% endblock %}</title>
+   <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/schanges.css"/>
+    {% block css %}{% endblock %}
+    {% block js %}{% endblock %}
+    {% block head-extras %}{% endblock %}
+</head>
+
+<body>
+<div class="headimage">
+<a href={% url "site-index" %}><img class="headimage" src="{{ STATIC_URL }}images/sc-banner-trans.gif" width="677"
+     height="157" alt="Southern Changes"/></a>
+<h2 class="subhead">The Journal of the Southern Regional Council, 1978-2003</h2>
+
+</div>
+{% block content %}
+{% endblock %}
+
+<div class="externalnav">
+<p class="links" id="beck">
+<a href="http://beck.library.emory.edu/"><span id="bc">The Beck Center</span></a>
+<a href="http://www.southerncouncil.org/"><span id="src">Southern Regional Council</span></a>
+</p>
+</div>
+
+<div class="foot">
+<hr class="foot"/>
+<p class="footnav"><span id="con"><script language="javascript">
+<!--
+var username = "beckctr";
+var hostname = "emory.edu";
+var linktext = "Contact the Beck Center";
+document.write("<a href=" + "mail" + "to:" + username +
+"@" + hostname + ">" + linktext + "</a>")
+//-->
+</script>
+<noscript>Contact the Beck Center: beckctr<img src="static/images/at.gif" alt=" at "/>emory.edu</noscript></span> | <span id="euc"><a href="http://www.library.emory.edu/">Euclid</a></span> | <span id="ul"><a href="http://www.emory.edu/libraries.cfm">University Libraries</a></span> | <span id="univ"><a href="http://www.emory.edu/">Emory University</a></span></p>
+<p class="footnav"><a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a></p>
+</div>
+<div class="tracking">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11023816-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+
+</body>
+</html>

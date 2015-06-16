@@ -3,11 +3,11 @@
 {% block title %}Topics{% endblock %}
 
 {% block content %}
-
+<div class="container">
 <h2>Browse the articles by topic.</h2>
 
 {% for topic in topics %}
   <p><b><a href={% url 'topic_toc' topic.id %}>{{topic.name}}</a></b></p>
 {% endfor %}
-
+</div>
 {% endblock content %}

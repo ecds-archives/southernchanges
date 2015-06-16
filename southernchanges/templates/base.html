@@ -1,57 +1,90 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html;" charset="iso-8859-1">
-   {% block meta %} {% endblock %}
-   <title>{% block title %}{% endblock %}</title>
-   <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/schanges.css"/>
-    {% block css %}{% endblock %}
-    {% block js %}{% endblock %}
-    {% block head-extras %}{% endblock %}
-</head>
+{% extends "eultheme/site_base.html" %}
+{% load static %}
+{% load widget_tweaks %}
 
-<body>
-<div class="headimage">
-<a href={% url "index" %}><img class="headimage" src="{{ STATIC_URL }}images/sc-banner-trans.gif" width="677"
-     height="157" alt="Southern Changes"/></a>
-<h2 class="subhead">The Journal of the Southern Regional Council, 1978-2003</h2>
+{% block metadata %}
+  <meta property="og:site_name" content="Southern Changes"/>
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{request.build_absolute_uri}}"/>
 
+  <meta name="twitter:domain" content="{{request.get_host}}">
+{% endblock %}
+
+{% block favicon %}
+    {% if ENABLE_BETA_WARNING %}
+      <link id="siteFavIcon" rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon-beta.ico' %}">
+    {% elif debug %}
+        <link id="siteFavIcon" rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon-dev.ico' %}">
+    {% else %}
+      <link id="siteFavIcon" rel="shortcut icon" type="image/x-icon" href="{% static 'img/favicon.ico' %}">
+    {% endif %}
+  {% endblock %}
+
+{% block css %}
+  {{ block.super }}
+  <link href='//fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/readux.css' %}" />
+{% endblock %}
+
+{% block javascript %}
+    <script type="text/javascript" src="{% static 'js/isotope.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/local.js' %}"></script>
+{% endblock %}
+
+{% block head_extras %}
+   {# <meta name="google-site-verification" content="WWdn3okWneQob5r6S1Svxtf87zwE1FHre0bRMvUzPvQ" /> #}
+{% endblock %}
+
+{% block xs-nav-title %}
+  <span>Southern Changes</span>
+{% endblock %}
+
+
+{% block nav-title %}
+  <div class="logo">
+        <span class="site-title">Southern Changes</span>
+  </div>
+{% endblock %}
+
+{# The <title> for the page  #}
+{% block page-title %}{% block page-subtitle %}{% endblock %}Southern Changes{% endblock %}
+
+{% block nav_class %}navbar-inverse navbar-fixed-top{% endblock %}
+
+{% block navlinks %}
+<li><a href="{% url 'site-index' %}">Home</a></li>
+<li><a href="{% url 'about' %}">About</a></li>
+<li><a href="{% url 'issues' %}">Browse</a></li>
+<li><a href="{% url 'topics' %}">Topics</a></li>
+<li><a href="{% url 'search' %}">Search</a></li>
+{% endblock %}
+
+{% block navbar-extra %}
+
+<div class="navbar-right">
+ 
+<form name="keywordsearch" class="form-inline navbar-form" role="form" method="GET" action="{% url 'search' %}">
+   <div class="form-group">
+      <div class="input-group">
+      <input id="key" type="text" name="keyword" placeholder="Search all volumes"/>
+      {# TODO: help text #}
+      <span class="input-group-btn">
+        <button type="submit" class="btn">
+            <span class="glyphicon glyphicon-search"></span>
+        </button>
+      </span>
+    </div>
+  </div>
+</form>
 </div>
+
+{% endblock %}
+
+{% block admin-navlink %}
+{# NOTE: suppressed because there is no sql database #}
+{% endblock %}
+
+
 {% block content %}
 {% endblock %}
 
-<div class="externalnav">
-<p class="links" id="beck">
-<a href="http://beck.library.emory.edu/"><span id="bc">The Beck Center</span></a>
-<a href="http://www.southerncouncil.org/"><span id="src">Southern Regional Council</span></a>
-</p>
-</div>
-
-<div class="foot">
-<hr class="foot"/>
-<p class="footnav"><span id="con"><script language="javascript">
-<!--
-var username = "beckctr";
-var hostname = "emory.edu";
-var linktext = "Contact the Beck Center";
-document.write("<a href=" + "mail" + "to:" + username +
-"@" + hostname + ">" + linktext + "</a>")
-//-->
-</script>
-<noscript>Contact the Beck Center: beckctr<img src="static/images/at.gif" alt=" at "/>emory.edu</noscript></span> | <span id="euc"><a href="http://www.library.emory.edu/">Euclid</a></span> | <span id="ul"><a href="http://www.emory.edu/libraries.cfm">University Libraries</a></span> | <span id="univ"><a href="http://www.emory.edu/">Emory University</a></span></p>
-<p class="footnav"><a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a></p>
-</div>
-<div class="tracking">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11023816-3");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</div>
-
-</body>
-</html>

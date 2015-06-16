@@ -4,7 +4,7 @@
 {% block title %}{{topic.name}}{% endblock %}
 
 {% block content %}
-<div class="content">
+<div class="container">
 <h2>{{topic.name}}</h2>
 
 {{article_ids}}
@@ -14,7 +14,7 @@
 <img src="{{STATIC_URL}}topics/wordclouds/cloud_{{topic.id}}.png" width="300" height="300">
 </div>
   
-<table class="contents">
+<table class="containers">
   <tbody>
     <tr>
       <th>Author</th>
