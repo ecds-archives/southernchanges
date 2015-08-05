@@ -17,7 +17,7 @@
 <div class="subnav">
 <p class="navlinks">
 <a href="index.html"><span id="ho">Home</span></a>
-<a href="overview.php"><span id="ov">Overview</span></a>
+<a href="about.php"><span id="ov">Overview</span></a>
 <a href="issue.php"><span id="br">Browse</span></a>
 <a href="searchform.php"><span id="se">Search</span></a>
 </p>

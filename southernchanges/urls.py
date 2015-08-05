@@ -1,51 +1,45 @@
 from django.conf.urls import patterns, include, url
-#from django.conf.urls import patterns, include, url
-#from django.conf.urls.defaults import *
 from django.conf import settings
-#from django.conf.urls.static import static
-#from django.contrib.staticfiles.urls import staticfiles_urlpatterns
-#from django.conf.urls import patterns
-#from django.core.urlresolvers import reverse
-#from django.contrib.sitemaps import Sitemap, FlatPageSitemap, GenericSitemap
-# from blog.models import Entry
-
-# Uncomment the next two lines to enable the admin:
 from django.contrib import admin
-admin.autodiscover()
-'''
-class ViewSitemap(Sitemap):
-    """Reverse static views for XML sitemap."""
-    def items(self):
-        # Return list of url names for views to include in sitemap
-        return ['index', 'overview', 'acknowledgements', 'search' ]
+from django.contrib.sitemaps import views as sitemap_views
+from django.views.generic import TemplateView
 
-    def location(self, item):
-        return reverse(item)
+from southernchanges_app.sitemaps import IssueSitemap, ArticleSitemap
+
+admin.autodiscover()
 
 sitemaps = {
-    'flatpages': FlatPageSitemap,
-    'views': ViewSitemap,
-    #'blog': GenericSitemap(info_dict, priority=0.6),
+  'issues': IssueSitemap,
+  'articles': ArticleSitemap
 }
-'''
 
-from southernchanges_app.views import *
+
+from southernchanges_app.views import index, acknowledgments, searchform, browse, issue_toc, issue_tei, article_display, topics, topic_toc, send_file
 
 urlpatterns = patterns('southernchanges_app.views',
-    url(r'^$', 'index', name='index'),
-    url(r'^overview$', 'overview', name='overview'),
+    url(r'^$', 'index', name='site-index'),
     url(r'^acknowledgments$', 'acknowledgments', name='acknowledgments'),
-    url(r'^search$', 'searchform', name='search'),
-    url(r'^issue$', 'issues', name='issues'),
+    url(r'^browse$', 'browse', name='browse'),
     url(r'^topics$', 'topics', name='topics'),
     url(r'^topics/(?P<topic_id>[^/]+)/$', 'topic_toc', name='topic_toc'),
-    url(r'^(?P<doc_id>[^/]+)/contents$', 'issue_toc', name="issue_toc"),
-    url(r'^(?P<doc_id>[^/]+)/issue$', 'issue_display', name="issue_display"),
+    url(r'^(?P<doc_id>[^/]+)/$', 'issue_toc', name="issue_toc"),
+    url(r'^(?P<doc_id>[^/]+)/tei/$', 'issue_tei', name="issue_tei"),
     url(r'^(?P<doc_id>[^/]+)/(?P<div_id>[^/]+)/$', 'article_display', name='article_display'),
-    url(r'^(?P<doc_id>[^/]+)/xml/$', 'issue_xml', name='issue_xml'),
-    url(r'^(?P<basename>[^/]+)/download$', 'send_file', name='send_file')
-    # the sitemap
-    # (r'^sitemap\.xml$', 'django.contrib.sitemaps.views.sitemap', {'sitemaps': sitemaps})
+    url(r'^search$', 'searchform', name='search'),
+    url(r'^(?P<basename>[^/]+)/download$', 'send_file', name='send_file'),
+
+    # robots.txt and sitemaps
+    url(r'^robots\.txt$',
+        TemplateView.as_view(template_name='robots.txt',
+        content_type='text/plain'), name='robots.txt'),
+    url(r'^sitemap\.xml$', sitemap_views.index, {'sitemaps': sitemaps},
+        name='sitemap-index'),
+    url(r'^sitemap-(?P<section>.+)\.xml$', sitemap_views.sitemap, {'sitemaps': sitemaps},
+        name='sitemap'),
+
+    # django admin
+    url(r'^admin/', include(admin.site.urls)),
+    
     )
 
 if settings.DEBUG:

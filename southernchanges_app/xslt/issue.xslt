@@ -30,15 +30,12 @@
   <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="//tei:pb">
-    <xsl:if test="ancestor::tei:p | ancestor::tei:back"><br/></xsl:if>
-    <xsl:element name="a">
-      <xsl:attribute name="href"><xsl:value-of select="concat($figure-prefix, @facs)"/></xsl:attribute>
-      <xsl:attribute name="target">_blank</xsl:attribute>
-      View image of page
-    </xsl:element>
-    <xsl:if test="ancestor::tei:p | ancestor::tei:back"><br/></xsl:if>
-  </xsl:template>
+<xsl:template match="tei:pb">
+  <hr class="pb"/>
+    <p class="pagebreak">
+      Page <xsl:value-of select="@n"/>
+</p>
+</xsl:template>
 
 <xsl:template match="tei:div2/tei:head">
   <xsl:element name="h1">

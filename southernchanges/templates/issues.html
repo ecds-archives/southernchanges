@@ -1,22 +1,27 @@
-{% extends "base.html" %}
+{% extends "site_base.html" %}
 
 {% block head-extras %}
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/contents.css">
 {% endblock %}
 
-{% block title %}Browse - Southern Changes Digital Archive{% endblock %}
+{% block page-subtitle %}Browse {% endblock %}
 
 {% block content %}
+{{block.super}}
 <div class="container">
 
  
 <h2>Issues</h2>
 
-<div class="btn-group">
+<div class="accordion-group">
 {% for group in groups %}
-<a onClick="$('#{{group.0}}').toggle()"><button id="category-label"
-  class ="btn btn-default btn-lg toggle">{{group.0}}</button></a>
+<div class="accordion-heading">
+	<a class="accordion-heading">
+
+
+
+<a onClick="$('#{{group.0}}').toggle()"><h3 id="category-label" class ="toggle">{{group.0}}</h3></a>
   <ul id="{{group.0}}" class="category" style="display:none">
     {% with "1:" as items %}
     {% for issue in group|slice:items %}
@@ -26,17 +31,31 @@
 {% endfor %}
 {% endwith %}
 </ul>
-</p>
 {% endfor %}
 </div>
 <td>
 <td>
 
+<div class="topics">
+  <h2><a href={% url "topics" %}>Browse by Topic</a></h2>
+</div>  
 
-<!-- <div class="downloads"> -->
-<!-- <p><a href={% url "send_file" "sc_issues" %}>Issues Zip File</a></p> -->
-<!-- <p><a href={% url "send_file" "sc_articles" %}>Articles Zip File</a></p> -->
+  
+<!-- <div class="topics"> -->
+<!-- <a onClick="$('#topics').toggle()"><h2 id="category-label" class ="toggle">Topics</h2></a> -->
+<!--   <ul id="topics" class="category" style="display:none"> -->
+<!--   {% for topic in topics %} -->
+<!--   <li> -->
+<!-- <a href="{% url "topic_toc" topic.id %}">{{topic}}</a>   -->
+<!-- </li> -->
+<!-- {% endfor %} -->
+<!-- </ul> -->
 <!-- </div> -->
+
+<div class="downloads">
+<p><a href={% url "send_file" "sc_issues" %}>Issues Zip File</a></p>
+<p><a href={% url "send_file" "sc_articles" %}>Articles Zip File</a></p>
+</div>
   
 </div>
 {% endblock %}

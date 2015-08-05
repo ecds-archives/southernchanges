@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc04-3_1204">
+  <teiHeader xml:id="sc04-31201"><fileDesc>
+      <titleStmt>
+        <title>Southern Changes.  Volume 4, Number 3</title>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>staff</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
+University</pubPlace><address>
+          <addrLine>Atlanta,
+Georgia</addrLine>
+        </address><idno type="ark" n="sc04-3_002">http://pid.emory.edu/ark:/25593/1476v</idno><idno type="ark" n="sc04-3_003">http://pid.emory.edu/ark:/25593/14770</idno><idno type="ark" n="sc04-3_s2.004">http://pid.emory.edu/ark:/25593/14784</idno><idno type="ark" n="sc04-3_005">http://pid.emory.edu/ark:/25593/14798</idno><idno type="ark" n="sc04-3_006">http://pid.emory.edu/ark:/25593/147bd</idno><idno type="ark" n="sc04-3_007">http://pid.emory.edu/ark:/25593/147cj</idno><idno type="ark" n="sc04-3_008">http://pid.emory.edu/ark:/25593/147dp</idno><idno type="ark" n="sc04-3_009">http://pid.emory.edu/ark:/25593/147ft</idno><idno type="ark" n="sc04-3_010">http://pid.emory.edu/ark:/25593/147gz</idno><availability>
+          <p xml:id="sc04-3_101">1996 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Digital Archive or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+        </availability><date>1996</date></publicationStmt>
+      <seriesStmt>
+        <title>Southern Changes Digital Archive</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date when="1982-06">June-July 1982</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc04-3_102">This text is produced in conjunction with the
+Southern Changes Digital Archive at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+      </projectDesc>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc04-3_1203">
+    <body xml:id="sc04-3_1202">
+      <div1 xml:id="sc04-3_001" n="Southern Changes 4:3" type="Issue">
+        <head>Southern Changes.  Volume 4, Number 3, 1982</head>
+        <p xml:id="sc04-3_103"><title>Southern Changes</title>.  Volume 4, Number 3,
+	       <date when="1982-06">1982</date></p>
+        <div2 xml:id="sc04-3_002" n="5" type="Review">
+          <head><title>Against the Grain: Southern Radicals and Prophets,
+1929-1959.</title> Edited by Anthony P. Dunbar, Charlottesville:
+University Press of Virginia, 1981.</head>
+          <byline>
+            <docAuthor>
+              <name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice></name>
+            </docAuthor>
+          </byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 14-15</docDate>
+          
+          <p xml:id="sc04-3_104">The past remains as unpredictable as ever. As proof, we have Tony
+Dunbar's fine book, <title>Against the Grain</title>. From scattered,
+vagrant and half-forgotten sources, he has fashioned a story which is
+not only important in its own right, but also is suggestive of what
+remains uncollected and as yet, untold.</p>
+          <p xml:id="sc04-3_105">Dunbar himself acknowledges that his narrative is only "a piece of
+the history" of Southern radicalism and protest in the 1930's. "No
+single work," he writes, "could record all that happened in the mines
+and factories, all that was attempted by women's organizations, or all
+that resulted from the dissatisfaction of blacks and the poor in
+little towns without number." In its fashion <title>Against the
+Grain</title> now joins several recent books already on the shelf:
+Donald Grubbs' <title>Cry from the Cotton,</title> Thomas Krueger's
+exploration of The Southern Conference for Human Welfare,
+H.L. Mitchell's autobiography, Ted Rosengarten's <title>All God's
+Dangers,</title> Nell Painter's edition of Hosea Hudson's
+recollections and essays and oral histories in numerous issues of
+<title>Southern Exposure</title>. Additionally, these volumes of
+printed word have appeared concurrently with a rediscovery and
+reissuance of the 1930s music of Southern working folk. Record labels
+such as Folkways, Rounder, County, Flyright and Clanka <unclear resp="#encoder">[unclear]</unclear> have tracked down the scratchy old
+seventy-eight rpm recordings and made them available, with extensive
+annotation, on shiny new albums. (This is a story for another
+occasion, however; readers interested in surveying the range of these
+musical materials should write Roundup Records, P.O. Box 147,
+E. Cambridge, MA 02141 and ask for a catalog or the current issue of
+<title>The Record Roundup</title>.)</p>
+          <p xml:id="sc04-3_106">All this energy betokens several genuine cravings. First in mind
+are the empowering effects which come through the rediscovery of
+indigenous traditions of Southern protest and activism. Each
+generation needs to know the persistent themes of its predecessors,
+the context of their temperaments, the campaigns waged, the findings
+and keepings. Awareness of kinship with the critical past, Dunbar
+knows, can help clarify insights and shore up our courage. A rock in a
+weary land.</p>
+          <p xml:id="sc04-3_108"><title>Against the Grain</title> traces the origins, emergence and
+transformation of the South's "radical gospel" 
+<pb xml:id="sc04-3_107" n="15"/>
+uprising. This was a
+movement which shook not so much the established church as the lives
+of many farmers and millworkers. For a time it restored grass-root
+meaning to the word <hi rend="italic">Protestant</hi>. Ultimately, of
+course, it had its failures. The redress of class power and racial
+prejudice are no modest goals. The movement's ommission from or
+slighting by standard history books testifies to Lillian Smith's
+understanding that history's winners name their age and to the
+selective orientation of historians interpreting backwards from these
+winners.</p>
+          <p xml:id="sc04-3_109">But as the swift ages roll, new possibilities appear and old
+alternatives revive, provided there's someone like Tony Dunbar around
+to prod us with the memories. His interpretation first establishes the
+influence of teachers, people such as Alva Taylor of the Vanderbilt
+School of Religion, Reinhold Niebuhr and Harry Ward at New York's
+Union Theological Seminary. These teachers themselves carry the spirit
+of a generation older than Dunbar's central characters: Claude and
+Joyce Williams, Don and Constance West, Miles and Zilphia Horton, Ward
+Rogers, Alice and Howard Kester, James Dombrowski, Elizabeth Hawes,
+and others. Dunbar then follows these "students," their ideas,
+institutions and influences primarily through the 1930s, but also, in
+more summary fashion, right down to now.</p>
+          <p xml:id="sc04-3_1010">Yet, Dunbar is far from suggesting that the orders went out from an
+old line of graybeards to a young cadre of ideologues. Perhaps the
+most important notion in <title>Against the Grain</title> in is that
+Southern farmers and working people carry, within their own cultural
+resources, the seeds of populist revolt. And that organizers and
+teachers who can speak the language of the culture, who can, for
+instance, bring home a radical gospel, can help these seeds to
+flower. Such was clearly the case in the mid-1930s with the Southern
+Tenant Farmers Union. Thousands of black and white Mississippi and
+Arkansas tenants risked their lives in several strikes. This rising,
+before it was broken by state and vigilante violence and by the
+political clout of certain Southern Democrats within the New Deal
+coalition, "marked the high point of agricultural unionism in the
+South and provided an example of the races working together which
+would not be repeated until the civil rights movement emerged two
+decades later."</p>
+          <p xml:id="sc04-3_1011">Finally, a note on the book itself as object and artifact. From the
+dust jacket to the photographs which bind it's beginning and end, the
+University of Virginia Press has done an excellent bit of
+handiwork. Photographs of the participants are interspersed
+throughout, along with occasional copies of period handbills, posters,
+poems and song texts. The type is large and easily readable and the
+overall design speaks of that rarest of modern productions, a work of
+thought and care.</p>
+        </div2>
+        <div2 xml:id="sc04-3_003" n="6" type="Review">
+          <head><title>Murder At Broad River Bridge.</title> By Bill Shipp,
+Atlanta: Peachtree Publishers, 1981, $8.95.</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Wilson, Grant</reg><sic>Grant Wilson</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, p. 15</docDate>
+          
+          <p xml:id="sc04-3_1012">Lemuel Penn was killed without cause and anonymously by members of
+the Ku Klux Klan outside Athens, Gal, in 1964. His murder was only one
+of dozens in the Civil Rights era but his colonel's rank in the army
+reserve and the political climate of the time made Penn's death a
+national matter. The combined forces of federal and state officials
+quickly found the murderers but what passed for justice in the South
+in those days protected the guilty from the law.</p>
+          <p xml:id="sc04-3_1013">The history of discrimination and oppression around Athens at the
+time of Penn's murder and the lives of ignorant men filled with fear
+and hatred give a melancholy backdrop to Bil1 Shipp's story of the
+event, the investigation and final resolution. Though brief--91
+pages--Shipp's book is well-researched and is told in a clear
+journalistic style that pulls the reader, resisting, back to the
+confused, frightening years of the 1960s.</p>
+          <p xml:id="sc04-3_1014">The story is not pleasant but it is well done. <title>Murder At
+Broad River Bridge</title> will be helpful to civil rights historians
+and to the average reader wanting to find reaffirmation of the
+principles that fought against injustice then, so those ideals may be
+applied again, now. Penn's killing was one of the factors that helped
+break the Klan hold over the South in the sixties. National attention
+and government pressure was focused on the KKK and it withered under
+the assault. But though much improved, too much stayed the same, and
+today there is a small yet mounting growth in the Ku Klux
+Klan. Shipp's short chronicle might not have been written but for
+that. History could have noted Colonel Penn and moved on to other
+atrocities but Shipp has given the fullest story possible in order
+that we not avoid an important lesson.</p>
+          <p xml:id="sc04-3_1015">Asleep or awake the Klan lives, like a grub in the ground until a
+spring of opportunity arrives. It's spring again, and Bill Shipp's
+book reminds us that no matter what its guise the Klan deals out
+violence, death and injustice which have to be countered. The lesson
+must be that old battles don't always stay won but must be fought
+again and again.</p>
+          <div3 xml:id="sc04-3_023" type="About">
+            <p xml:id="sc04-3_1016">Grant Wilson is a freelance writer and an aspiring
+gentleman farmer in Kensington, Ga.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc04-3_s2.004" n="1" type="Article">
+          <head>Figures of Speech--Can a Country Boy Survive?</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 1-3</docDate>
+          
+          <p xml:id="sc04-3_1017">You have to stay up awful late in Alabama nowadays to put nostalgia
+and melancholy under the table. In cahoots, Action News and the
+jukebox are blowing the null breath of extinction. Some of the good ol'
+boys feel the hair rising on the backs of their necks. They even have
+a tune: "Who's Going to Sing the Last Country Song?"</p>
+          <p xml:id="sc04-3_1018">But it is the NAACP's Benjamin Hooks who asks the musical
+question. Blacks, he says, have lived so long with hard times and
+thwarted hopes that they know the territory. What will the white folk
+do? Spook and go off halfcocked, he fears. Realize a common plight?
+Not likely. Hooks is familiar with the shape and color of banty
+messiahs and traditional scapegoats.</p>
+          <p xml:id="sc04-3_1019">As I drive a car-full of friends across Birmingham's Red Mountain
+one night this May, the signals come clear. Vulcan, the iron man,
+holds high a red torch to show a death on the highway. The familiar
+cracks about his near-nakedness are more biting: how the Vulcan forgot
+to cover his ass, how Birmingham is mooning the affluent, over
+the-mountain community of Homewood for its failed merger vote. Looking
+down upon miles of city lights, we hear the car radio offering Lynyrd
+Skynyrd's Sweet Home Alabama. Down home this song is always in revival
+but tonight I hear, in a new way, the line "In Birmingham they love the
+Governor . . ." For the last twenty years, Alabama has really had only
+one Governor.</p>
+          <p xml:id="sc04-3_1020">The news in Birmingham, bad for months, got worse in May and
+June. Magic City unemployment hung around twelve percent even before
+word came that U.S. Steel (a major employer for three-quarters of a
+century) was closing its Fairfield Works and even before local schools
+turned out for the summer. As a state, Alabama s jobless rate is
+second only to that of Michigan. The Governor, who carried Michigan in
+the 1972 Presidential primary, insists that he left the Heart of Dixie
+a different legacy. "When I was Governor the last eight years," he
+proclaims, "we were first in the Southeast in new and expanded
+industries."</p>
+          <p xml:id="sc04-3_1022">On the radio, some Fairfield workers are interviewed. 
+<pb xml:id="sc04-3_1021" n="2"/>
+Twelve
+thousand steelworkers punched in at Fairfield just five years
+ago. Now, their numbers cut to nothing, their feelings are variously
+strong and resigned. Almost all of them resent the secrecy and
+hard-heartedness of U.S. Steel. Some blame the Japanese, some the
+"business cycle." The district's Congressman, Republican Albert Lee
+Smith, audaciously blames the workers themselves.</p>
+          <p xml:id="sc04-3_1023">"I'd be willing to take a cut in pay," says one veteran, "if we
+could keep the plant open. But the big man has to do some giving back
+too." The Big Mules at U.S. Steel refuse comment. They check their
+digital watches and have their secretaries dust decades of fly ash and
+tailings off of ancient carpetbags.</p>
+          <p xml:id="sc04-3_1024">Such were the Steel City's ironies this May that among all the
+layoffs and rumors of layoffs, the AFLCIO was holding its Southeastern
+labor conference. Union officials heard the growing rank and file
+anger, noted the increasing toll that Reagonomics was taking on
+industrial membership and speculated. that momentum, continuing to
+build from Solidarity Day, would bring some election results this
+fall. The Southern union leaders pledged stronger organizing campaigns
+among service workers. Black and white women working in hospital,
+office and food service jobs may help shape labor's direction in the
+l980s.</p>
+          <p xml:id="sc04-3_1025">Meanwhile, a quarter gets you only two plays: Merle Haggard ringing
+the jingo bell with his latest "Okie From Muskogee" spinoff, one
+called "Are the Good Times Really Over For Good?" and George Jones
+singing "It's the Same Ole Me" as he fails to show for a performance
+at Boutwell Auditorium.</p>
+          <p xml:id="sc04-3_1026">Birmingham's <title>Post-Herald</title> observes that as of January
+1982, more than 45,000 people, about seven percent of the Jefferson
+County population, take their guns to town. Thousands more keep them
+handy at work or at play.</p>
+          <p xml:id="sc04-3_1027">Guns take the worry out of being close. "Knowing what's going on in
+this town," says one citizen, "you need a gun."</p>
+          <p xml:id="sc04-3_1028">No matter how early you wake up in Alabama nowadays, a mean taste
+whispers in your mouth. A whisper that sometimes rises to a
+scream. Lately, it has found voice in Hank Williams, Jr., providing
+an unauthorized campaign anthem for a re-tuned George Wallace, The
+Governor:<q>
+          <lg type="stanza">
+            <l rend="italic">I live back in the woods, you see,</l>
+            <l rend="italic">My woman and the kids and the dogs and me. </l>
+            <l rend="italic">I got a shotgun, rifle, and a four-wheel drive </l>
+            <l rend="italic">And a country boy can survive.*</l>
+          </lg></q></p>
+          <p xml:id="sc04-3_1029" rend="italic">* A Country Boy Can Survive," copyright, Bocephus Music, 1981.</p>
+          <p xml:id="sc04-3_1030">It hurts that Hank Jr. has chosen this tact that country boys will
+be boys. For several years his considerable musical gifts and poignant
+Iyricism have shadowboxed his father's awesome legacy and struggled
+against country music cliche. But his toughest opponents remain the
+sexism and the half-snarling, half-plaintive, go-it-alone stance which
+plagues the genre, the culture and the family tradition of which he
+sings. On his recent album, <title>The Pressure Is On</title>, Hank
+Jr.'s antagonisms too often invoke the emotions of reaction. Codewords
+are just a shot away. He sings in his powerful solo voice, while the
+electric guitar drives in dead earnest:<q>
+          <lg type="stanza">
+            <l rend="italic">I had a good friend in New York City </l>
+            <l rend="italic">He never
+called me by my name, just "Hillbilly.'  </l>
+            <l rend="italic">My grandpa taught me how
+to live off the land </l>
+            <l rend="italic">And his taught him to he a businessman.</l>
+          </lg>
+          <lg type="stanza">
+            <l rend="italic">He used to send me pictures of the Broadway nights
+</l>
+            <l rend="italic">And I'd send him some homemade wine.  </l>
+            <l rend="italic">But he was killed by a man
+with a switchblade knife </l>
+            <l rend="italic">For forty-three dollars my friend lost his
+life.</l>
+          </lg>
+          <lg type="stanza">
+            <l rend="italic">I'd love to spit some Beech Nut in that dude's eyes
+</l>
+            <l rend="italic">And shoot him with my ol', forty-five.  </l>
+            <l rend="italic">Cause a country boy can
+survive.  </l>
+            <l rend="italic">Country folks can survive.*</l>
+          </lg></q></p>
+          <p xml:id="sc04-3_1031" rend="italic">* A Country Boy Can Survive," copyright, Bocephus Music, 1981.</p>
+          <p xml:id="sc04-3_1032">Hank Jr. turned thirty-three in May and allowed the photographers
+to snap him hunkering at his daddy's graveside in Montgomery. Yet
+along with the new confidence that he gives off, it is as if at the
+entrance to his country-rock domain in Cullman, Ala., Bocephus has
+thrown up a guardhouse and razor wire fence. Here, the passwords--"We
+say grace and we say ma'am"--give clues to the same fierce anger
+which, in part, propels the Wallace candidacy--"if you ain't into
+that, we don't give a damn."*</p>
+          <p xml:id="sc04-3_1033">* A Country Boy Can Survive," copyright, Bocephus Music, 1981.</p>
+          <p xml:id="sc04-3_1034">Behind the swagger, and despite the worthy call to more
+self-sufficiency, the message is one of romantic retreat and
+retrenchment. And this in a state where country boys' farm debts now
+total more than two billion dollars, a rise of eighty-four percent
+since 1977. What happens when the bank comes to repossess the
+four-wheel drive? The romance of outlawry is thin solipsism to pour
+over the hard biscuits of attrition. Perhaps country boys can
+survive. Can they grow up?</p>
+          <p xml:id="sc04-3_1036">For George Wallace, May brought another sort of commemoration and a
+resurrection--that most miraculous of survival tactics. First elected
+Governor in 1962, Wallace has served three terms, four really, if you
+count 
+<pb xml:id="sc04-3_1035" n="3"/>
+the time his late wife Lurleen sat in for him until her death by
+cancer. Now, after a self-imposed four-year "retirement," and with a
+new wife, Lisa, who once sang country songs with her sister (Mona and
+Lisa) in the 1968 Wallace For President campaign, The Governor is
+ready to honor the state again with his service. Ten years to the
+month after he had been shot and partially paralyzed, he made the
+announcement. As of today, his chances for election seem
+excellent. Much depends on whether he can maintain the appearances of
+strength, stamina and coherence. It's hard for anyone to campaign
+against a man come back from the grave with an electorate desperate to
+prevail with ah' its myths intact.</p>
+          <p xml:id="sc04-3_1037">"So hell," The Governor told a Post-Herald interviewer, "I nearly
+died ten times after I was shot. I'd get well and peritonitis would
+develop. I would never do anything that would injure my health because
+I have a God-given instinct to want to survive as long as I can."</p>
+          <p xml:id="sc04-3_1038">In June, as he hops about the state from barbecue fundraiser to
+television studio, it is not George Wallace who appears immobilized,
+but many of Alabama's voters and politicos. The spectrum of opposition
+appears ideologically narrow, tentative and uninspired. A few black
+leaders, most prominently Montgomery's E. D. Nixon (the bus boycott
+leader) and Tuskegee Mayor-Johnny Ford, have even made horse trades
+with The Governor and are willing to swallow their history lessons in
+exchange for the promise of small leverages and front seats on the
+early-rolling bandwagon.</p>
+          <p xml:id="sc04-3_1039">So back to the jukebox and one more play. This time however, it's
+Tammy Wynette singing, not "Stand By Your Man," or "Take Me To Your
+World," but a different story. In it, a woman begins to find herself
+only after her man has moved out. She is glad to be rid of his
+hang-ups, gives his favorite chair to charity, wears her jeans a
+little tighter, changes her hair style and learns how to dance. Then,
+when her used-to-be wants to do her the favor of moving back in, Tammy
+sings, "Maybe you better wait a little bit longer, before you come
+back and give me another chance." It is a promising tune which
+Alabamians ought to consider in this season of survival.</p>
+        </div2>
+        <div2 xml:id="sc04-3_005" n="3" type="Article">
+          <head>Reagan's Way of Eliminating Poverty</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 11-12</docDate>
+          
+          <p xml:id="sc04-3_1040">Last month the Census Bureau confirmed that Southerners remain
+closer kin to poverty than anyone else in the country. Southern
+states, as of 1980, continue to have the nation's highest rates of
+poverty. One in four of all Mississippians, for example, are poor, and
+so are nearly half of that state's blacks. In no Southern state was
+the extent of black poverty less than twenty-nine percent.</p>
+          <p xml:id="sc04-3_1041">This news was followed by the general silence of the region's
+politicians, as it has been since poverty statistics were first
+compiled in the early 1960s. When pressed, some of the white officials
+responded like a prideful father whose illegitimate, poorest relation
+had just arrived on his doorstep: get them out of sight as soon as
+possible and tell the neighbors they aren't related and, no, they
+certainly aren't poor.</p>
+          <p xml:id="sc04-3_1042">Ironically, with the election of a former California governor over
+an incumbent President from Georgia, the White House has transformed
+Southern traditions into national stateways. It is proposing to
+eliminate poverty in this country by removing federal expenses to
+combat it by making the poor pay for being poor, by giving poverty
+away and by defining poor people out of existence.</p>
+          <p xml:id="sc04-3_1043">The first step came when the Reagan budget was adopted by Congress
+last summer. While expenditures for programs aimed- directly for the
+poor constituted less than one in eighteen of the dollars in that
+year's federal budget, sixty percent of the entire cuts which the
+President asked for and received came out of these programs. The same
+pattern--to a lesser extent--will apply in the budget for next
+year. On the basis of current proposals, it's likely that thirty
+percent of all cuts will come out of these same programs.</p>
+          <p xml:id="sc04-3_1045">Inspired by the pages of the <title>Congressional Record</title> of
+the 1960s, the Reagan Administration's second step is to make the poor
+pay hard cash before they become eligible for any government
+assistance. Already there are propos-
+<pb xml:id="sc04-3_1044" n="12"/>
+als in the hopper in Congress and
+floating around in concept papers at the White House to initiate the
+universal requirement for "co-payments" by the poor. If, for example,
+a mother wants a prescription filled under Medicaid for her child, she
+will have to put up some money before the government pays the
+remainder.</p>
+          <p xml:id="sc04-3_1046">From its start, the food stamp program was plagued by this notion
+that if the poor really want and need something, they ought to put up
+some money of their own. Volumes of studies show that such a policy
+assures that the very poorest families will be the ones the program
+fails to reach. This strategy no doubt reduces the number of
+recipients, and allows some Southern senators to argue, as they did
+two decades ago, that the poor really aren't poor. Since they don't
+participate in the programs, they obviously don't need them.</p>
+          <p xml:id="sc04-3_1047">The third step being considered is the withdrawal of federal
+responsibility to help the poor. The White House's major proposal on
+"new federalism" seeks to make the states take on the task of
+financing food stamps and the cash assistance program for families
+with dependent children (AFDC) while the federal government takes over
+Medicaid and the financing of ten or fifteen year bloc grant
+programs. This venture to define the relations between state and
+federal governments does not propose a shift from the federal to the
+state the entire responsibility for paving highways, financing sewer
+systems, or fostering agriculture. Rather, new federalism is a
+proposal to get rid of the federal responsibility in the two major
+programs aimed directly at the poor.</p>
+          <p xml:id="sc04-3_1048">To finish the job, the White House has shown increased interest in
+defining people out of poverty. The Administration's first domestic
+advisor held the view that poverty no longer existed in America. and
+the President has repeated a weakened version of this sentiment in
+several news conferences. The Administration appears eager to give a
+cash value to all government services which the poor receive in order
+to compute the income of people in deciding if they are poor. By this
+method, the number of poor would drop since the value of services a
+family received would price them out of poverty. For example, a family
+of four living in a housing project with a total income of $6,000
+would be assessed about $3,600 (the average rent in Atlanta) for their
+five-room apartment. With $9,600 income calculated, the family would
+then be ineligible for other government aid, such as medical care,
+because the family "makes" more than the $8,700 poverty limit.</p>
+          <p xml:id="sc04-3_1049">No White House official, however, has proposed to calculate the
+cash value of any government service to anyone else for purposes of
+paying taxes or deciding if the person is eligible for the program.</p>
+          <p xml:id="sc04-3_1050">Fifteen years ago efforts to achieve the same results by a south
+Alabama state senator helped earn Roland Cooper the nickname of "The
+Wily Fox From Wilcox" County. Still in Alabama's law books is one of
+Cooper's bills that would permit the governing board in his Blackbelt
+county to authorize payments for those on welfare to purchase tickets
+to leave the state. If the Reagan Administration's major efforts to
+eliminate poverty by making the poor more poor continue to gain
+momentum, the schemes of the "Wily Fox" and other past vocal and
+silent Southern politicians who fought aid to the black poor may look
+increasingly generous by comparison.</p>
+        </div2>
+        <div2 xml:id="sc04-3_006" n="9" type="Article">
+          <head>The Race Toward Reapportionment</head>
+          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 18-24</docDate>
+          
+          <p xml:id="sc04-3_1051">Billboards and television commercials of earnest faces and subdued
+colors are inviting many Southerners already to think about the
+virtues of candidates for the November elections. Back in the halls of
+the state capitols in almost half the Southern states, however,
+politicians face the prospects of computer runs, cross-examinations,
+and twilight negotiations in order to draw the lines that will decide
+what are the congressional and state legislative districts for the
+fall.</p>
+          <p xml:id="sc04-3_1052">Because of the delay in the final redistricting, especially in the
+Deep South, the federal courts will be deciding in the next few weeks
+if they must order special redistricting plans in order to assure that
+elections go forward later this year. White state officials have been
+quick to lay the blame for the failure to produce a reapportionment
+plan on the courts or the U.S. Justice Department. "The bureaucrats in
+Washington," is a phrase that begins many private conversations
+throughout the region in legislative chambers and state election
+offices. One state official in North Carolina sounded more like a
+former governor of Mississippi when he called the decision of the
+Justice Department to object to a North Carolina reapportionment plan
+"obscene and asinine."</p>
+          <p xml:id="sc04-3_1053">Black state legislators in the South see it another way. State
+Representative Jerome Tucker said of the rejection of Alabama's plan
+in early May: "I anticipated the plan would be rejected. I look at it
+as a failure of the Alabama legislature to reapportion itself fairly."
+In Georgia, where the state decided to appeal a Justice Department
+decision disapproving of its congressional plan, State Rep. Billy
+Randall of Macon, chairman of the Legislative Black Caucus, said that
+the delay in holding primary elections could have been avoided if the
+state had been willing to correct the mistakes which Justice
+identified.</p>
+          <p xml:id="sc04-3_1054">While reapportionment is the politics of pencils, calculators, and
+computer printouts, it is also at bottom the process by which
+fundamental changes are made in the distribution of political power,
+and individual political fortunes rise and fall according to the lines
+that are drawn. This democratic exercise presents more convincing
+evidence that in Southern politics race as an issue remains king. The
+examples of relentless opposition to creating any district that permit
+black voters to have a powerful voice in electing representatives is
+staggering when added together from across the South.</p>
+          <p xml:id="sc04-3_1055">In Virginia, the General Assembly met more than three times in
+special session considering dozens of reapportionment plans over
+twelve months before it was forced to permit three additional black
+majority general assembly districts. Of a total of 140 members, black
+voters will control at most the election of only seven delegates to
+the legislature for the next decade.</p>
+          <p xml:id="sc04-3_1056">The North Carolina legislature also convened in three special
+sessions to adopt four redistricting plans before it decided it must
+add three districts where blacks may be able to control the elections
+for representatives to the general assembly. In February, the North
+Carolina legislature refused to create anything more than a fifty-one
+percent majority-black district in the face of advice from its lawyers
+and the state research officer that the plan was unlawful and that
+another special session would be required. Their lawyer advised them
+to add four or five percentage points to one senate district to forego
+another round of reapportionment. Yet, five more percentage points of
+black population in one northeastern district was too much for the
+general assembly to do willingly.</p>
+          <p xml:id="sc04-3_1057">In South Carolina, the all-white state senate has held off
+redistricting in the hopes that Congress would weaken the Voting
+Rights Act and thus the pressures to draw districts that will give
+black voters a chance to elect at least one state senator. In
+neighboring Georgia, state lawyers are appealing a ruling that its
+plan for congressional redistricting was discriminatory in the face of
+verified comments from the chief opponent of a majority black
+congressional district that he would not permit "a nigger
+district."</p>
+          <p xml:id="sc04-3_1058">For several days in May in Alabama the state legislature ran the
+high risk of jeopardizing its entire reapportionment plan by reducing
+one rural south Alabama district from sixty-five to sixty percent
+black because the incumbent white legislator said that he simply could
+not get elected with that many blacks in his district.</p>
+          <p xml:id="sc04-3_1060">In Mississippi, the legislature turned away efforts to have a
+majority-black district in one of five congressional seats in a state
+where almost two of five are black. In Louisiana, the governor vetoed
+a majority-black congres-
+<pb xml:id="sc04-3_1059" n="19"/>
+sional district that the legislature had first
+adopted, and then the legislature turned around in the redistricting
+of its own houses and reduced by one-third the number of
+majority-black legislative districts in New Orleans despite a rise in
+the percentage of blacks in that part of the state.</p>
+          <p xml:id="sc04-3_1061">In Florida, Texas, and Tennessee--all states receiving additional
+congressional seats for the 1980s--the state legislatures refused to
+give serious consideration to creating districts with a majority of
+black or Hispanic population.</p>
+          <p xml:id="sc04-3_1062">If the expenses of lawyers and special sessions of the legislatures
+were added into the cost of holding some of the special primaries that
+may be required, the price of doggedly opposing black influence in
+Southern reapportionment may reach as high as five million dollars
+before the last penny is spent in 1982. It's an intimidating cost,
+especially in these days of shrinking state budgets.</p>
+          <p xml:id="sc04-3_1063">Although these facts merely highlight the systematic efforts to
+retard black voting strength, white Democrats continue to debunk
+reapportionment as only a tool for Republicans who are using blacks to
+front for their partisan gains. Also, some white politicians truly
+believe that it is bad politics for blacks' own self interests to
+concentrate their influence as a majority of voters in a limited
+number of legislative districts when they could make up a
+substantial--but not a majority--percentage of several more
+districts.</p>
+          <p xml:id="sc04-3_1064">Both arguments ignore the continuing existence of racial "bloc"
+voting throughout the South. In a recent study in Mississippi, for
+example, one political statistician found that almost ninety percent
+of the white voters m the state in local elections will vote only for
+white candidates and that a very large percentage has a pattern of
+voting only for white candidates who are not allied with black
+organizations. In such circumstances, which are not unusual throughout
+the South in most local elections, black voters often must have a
+controlling vote if they are to have a meaningful voice.</p>
+          <p xml:id="sc04-3_1065">Because the number of legislators elected by black. votes continues
+to be very limited, the Voting Rights Act and the
+U.S. Constitution--more than political horsetrading--remain the major
+protections for the rights of black voters. The Act provides that
+jurisdictions in six Southern states and forty counties in North
+Carolina must file with the U.S. Department of Justice any change in
+voting before that change is implemented. These changes, including
+redistricting, are examined by Justice to decide if they will have a
+discriminatory effect or purpose. If so, the changes cannot be
+implemented.</p>
+          <p xml:id="sc04-3_1066">A local or state government covered under this pre-clearance
+provision may appeal to the federal district court in Washington where
+a panel of three judges is convened to hear the case. In turn, black
+citizens are also able to file suit in local Southern federal courts
+if they believe that redistricting plans violate the
+U.S. Constitution.</p>
+          <p xml:id="sc04-3_1067">In the following summaries of most Southern states, a few case
+studies are presented in order to illustrate the anatomy of
+reapportionment in the region, as it has developed recently.</p>
+          <p xml:id="sc04-3_1068">
+            <hi rend="bold">Alabama</hi>
+          </p>
+          <p xml:id="sc04-3_1069">In perhaps its most comprehensive objection to a state
+reapportionment plan to date, the Justice Department rejected the
+Alabama Legislature's proposals in early May. Justice found that
+Alabama had diluted black voting strength in Birmingham, Mobile, and
+all urban areas "with current black populations of over twenty-five
+percent and in the rural Black Belt counties."</p>
+          <p xml:id="sc04-3_1070">The decision set in motion a month of backroom politics and agile
+legal efforts to keep the federal courts out of Alabama
+redistricting.</p>
+          <p xml:id="sc04-3_1071">In Birmingham, the proposed plan reduced the number of districts
+with majority-black populations from seven to six. It also reduced the
+influence of black voters in one of the remaining six districts
+despite an increase in the percentage of the black population in those
+parts of the metropolitan area. In Mobile and Montgomery, Justice
+found that the state used almost contradictory means of redistricting
+in order to dilute in both places the voting strength of blacks in
+senate districts. The redistricting of the Black Belt also evidenced
+voting discrimination since Justice found that the legislature had
+shaved off the percentage of blacks in order to reduce from five to
+one the number of house districts with a majority of blacks of voting
+age. Even in the one remaining district the majority of voting-age
+blacks was reduced somewhat.</p>
+          <p xml:id="sc04-3_1072">Word of Justice's actions spread quickly among state political
+leaders in Montgomery but reaction was comparatively mild in a capital
+where an Alabama governor in past years had suggested after an adverse
+federal court decision that the judge ought to have a "barbed wire
+enema." Tempered by the experience of the last fight in Alabama over
+reapportionment, which brought a court order tripling the number of
+majority-black legislative districts, the cochairman of the
+reapportionment committee and probably next year's speaker of the
+house, veteran state Rep. Rick Manley, moved quickly to figure out the
+minimal changes in the original plan that Justice would approve and
+his colleagues would accept.</p>
+          <p xml:id="sc04-3_1073">Manley realized that a three judge federal panel sat in the
+background and might step in to take over reapportionment in Alabama
+if a plan was not adopted that could get Justice's approval in time
+for candidates to file for primary elections in September. On that
+court, convened because of a suit by black legislators and citizens,
+was Frank Johnson, the judge who had ordered the sweeping
+reapportionment in the 1970s; Myron Thompson, a black appointee of the
+Carter administration who once worked for the NAACP Legal Defense Fund
+and the National Education Association: and Truman Hobbs, a
+conservative who had nonetheless supported the wing of the state
+democratic party that opposed George Wallace in times past.</p>
+          <p xml:id="sc04-3_1075">As a white Black Belt politician, Manley was especially concerned
+about reshaping his own district, presently sixty-two percent black,
+and others in that part of rural, south Alabama. Birmingham also
+presented a major political problem since any remedy of Justice's
+objections 
+<pb xml:id="sc04-3_1074" n="20"/>
+would probably mean running two or more white incumbents
+against one another. Indeed, to keep the court out of reapportionment,
+Manley had to orchestrate the drafting and adoption of the legislative
+plan that would affect more than twenty legislative districts and that
+could be approved by Justice by early June.</p>
+          <p xml:id="sc04-3_1076">Meeting and telephone calls began to multiply. Manley and lawyers
+for the state met with Justice officials in Washington one day during
+the week of May 7 and the next day were back in Montgomery for a
+meeting with lawyers for the black plaintiffs challenging the
+reapportionment in federal court. Apparently, Manley told Justice,
+legislators and the plaintiffs' lawyers that he was open for any
+suggestions and implied that he had no new plan in mind. Therefore, he
+would be willing to let them help shape any new plan for the
+legislature. It was a useful--if not entirely truthful--strategy since
+it kept his white colleagues believing that they would not be betrayed
+and told the black legislators that they might be able to get what
+they really wanted from him. In truth, Manley had statisticians and
+computers devising several options in Birmingham, the Black Belt, and
+Mobile, where he thought the major problems lay. When the special
+session was convened on Monday, May 24th, Manley had worked out his
+plan.</p>
+          <p xml:id="sc04-3_1077">In the new plan, the percentage of blacks in the majority of black
+senate districts in Mobile was increased, as were the numbers of
+voting-age blacks in the Black Belt house districts. Further, the
+Manley plan created one additional majority-black house district in
+Birmingham and pitted two white incumbents in the same house
+district. Although white legislators in Birmingham grumbled and blacks
+realized that the proposals failed to meet all their concerns, the
+plan actually jeopardized the political future of no more than five
+white incumbents and did increase the number of majority-black
+districts.</p>
+          <p xml:id="sc04-3_1078">Manley was taking no chances in permitting opposition to build too
+quickly. Claiming computer problems, Manley's reapportionment
+committee withheld the details of the plan from most legislators until
+the session was already underway. These convenient "technical"
+problems kept the endangered legislators from rallying support around
+specific changes and added pressure on the other legislators to adopt
+the plan and go home. The alternative, Manley kept reminding them in
+public and in private, was to fail to pass a plan and turn the job
+over to Justice and the federal courts.</p>
+          <p xml:id="sc04-3_1079">While not visible in the map-drawing, speaker of the house Joe
+McCorquodale also wanted a quick, tidy session. A declared candidate
+for governor, McCorquodale didn't want to open himself up to charges
+of wasting taxpayers' money on long, expensive special sessions that
+didn't accomplish anything. Also, while not wanting to offend black
+legislators whom he was still courting, he certainly did not want any
+hand in twisting the arms of white legislators from the Black Belt
+where he resides and whom he'll depend on in the November election.</p>
+          <p xml:id="sc04-3_1080">In the first day of the session Manley and his cochairman Lister
+Hill Proctor claimed that no amendment could be made to their plan if
+it was to be approved by Justice. Black legislators countered that the
+plan had to be amended to do more in protecting the voting strength of
+blacks if it was to pass muster at Justice. Supporting their view,
+black state Sen. Michael Figures presented an alternative plan that
+would create additional black majority senate districts in Montgomery
+and the Black Belt while increasing the black population in five house
+districts in the Black Belt--including Manley's own district. Other
+black leaders also voiced disappointment with Manley's plan at a
+public hearing on Tuesday, May 25th. Wendell Paris of Sumter County
+said that the Black Belt house districts were "gerrymandered to make
+it so black people can't be elected."</p>
+          <p xml:id="sc04-3_1081">Leaving nothing to chance, Manley quickly had the Figures plan
+analyzed and circulated a list to his colleagues showing that a rather
+large number of incumbents would be pitted against one
+another. Manley's analysis created a stir even in the Legislative
+Black Caucus since it showed that the Figures plan, due to a mistake
+in the computer tabulation, placed two incumbent black legislators
+from Mobile in the same district.</p>
+          <p xml:id="sc04-3_1082">Despite the attraction of the Manley-Proctor plan to most
+legislators, who would after all remain unharmed by the proposal,
+Manley was unable to hold all of his white colleagues in line. Black
+Belt state representative Leigh Peg ~es, who had defeated his black
+opponent by less than 250 votes in the last election, successfully
+convinced the house to reduce the black percentage in his district in
+the Manley plan from 65.9 percent black to 60.4 percent. In debate,
+Manley warned his colleagues once more that the change would
+jeopardize the whole plan and let the federal courts determine what
+everyone's district lines would be. But, whites in the House were
+moved by Pegues' emotional reminder: "I can't win with 65.9 percent
+blacks in my district." After his plea, they approved Pegues'
+amendments and the Manley plan over the objection of blacks.</p>
+          <p xml:id="sc04-3_1083">That Wednesday night, Manley apparently decided that he should
+begin to court the black legislators' support for a plan that gave
+them something in return for accepting Pegues' needs somehow. If the
+House kept Pegues' changes, the plan might get through Justice if it
+had the support of all black legislators. Since the senate had
+followed Proctor's instructions and passed the exact Manley plan,
+Manley circulated a proposal to black legislators that gave them
+something in the senate. First he assured some of the members of the
+Black Caucus that Pegues' amendments would not stand precisely as they
+were. But, if the Caucus could live with a little less in the Black
+Belt, he would be willing to place into his own plan a majority-black
+senate district in Montgomery. The offer was tempting and caused
+spirited debate. Some Caucus members thought that Justice disapproval
+of a plan without a substantial black majority district in Montgomery
+was a sure thing. So there was nothing to negotiate over. Others had
+doubts.</p>
+          <p xml:id="sc04-3_1085">As the Caucus considered its political and legal strategies, Manley
+and Proctor were busy polling senators on their reaction to possible
+changes in the senate districts which an agreement with the Caucus
+might cause. They were also conferring with state's attorneys about
+the Justice Department lawyers' inclinations on the different
+options. Apparently, news from both lines of inquiry indicated that
+the Pegues' amendments would kill the pla<unclear resp="#encoder">[unclear]</unclear> Justice and that most white senators
+weren't willing to add another black majority district to make up for
+short-
+<pb xml:id="sc04-3_1084" n="21"/>
+comings in the Black Belt.</p>
+          <p xml:id="sc04-3_1086">According to one lobbyist in Montgomery, McCorquodale was in fact
+responsible for the initial success of the Pegues' amendments. He
+refused to persuade Pegues to l accede to the Manley plan in fear that
+Pegues would desert his gubernatorial campaign. In absence of Speaker
+McCorquodale's strong arm, Pegues could not be brought in line.</p>
+          <p xml:id="sc04-3_1087">Unable to pressure Pegues or to get agreements, Manley called the
+Caucus late Wednesday night and withdrew his proposal. "It won't fly,"
+Manley said. No longer considering a compromise, the Caucus
+unanimously decided to oppose any plan that didn't remove the Pegues'
+amendments and did not create a substantial majority-black senate
+district in Montgomery and the Black Belt.</p>
+          <p xml:id="sc04-3_1088">Manley's impasse was broken when Pegues agreed in a Wednesday
+twilight conversation, that if given an opportunity to present his
+case for a sixty percent majority-black district directly to the
+Justice Department, he would not jeopardize the whole legislative plan
+for the sake of "fairness to me" if Justice rejected his
+proposal. With that promise, a complicated arrangement was then
+designed with the cooperation of McCorquodale and Governor Fob
+James.</p>
+          <p xml:id="sc04-3_1089">The plan called for the house judiciary committee--which Manley
+chairs--to take up the senate-approved, original Manley plan on
+Thursday, May 27. It would be reported to the house floor on
+Friday. This procedural move was necessary since Manley didn't want to
+ask house members to override directly their own vote to approve
+Pegues' amendments. After all, legislators have their pride. The
+strategy also allowed Manley to keep the issue clear and simple: the
+house should vote only once to approve the full plan and vote against
+all amendments including those from disgruntled white and black
+legislators. In this way, Manley thought he could cast the actions of
+the house before Justice as a good faith effort to meet it's
+objections while turning away "excessive" proposals from both white
+and black legislators.</p>
+          <p xml:id="sc04-3_1090">To satisfy Pegues, Manley arranged for the endangered legislator to
+go to Washington after the house had approved the Manley plan and to
+meet with Justice officials to argue his case for a sixty percent
+black district. The legislature would not adjourn until Tuesday so
+that if Justice approved Pegues' sixty percent black district, an
+executive or legislative amendment could be made to reinstate it. If
+Justice failed to approve it, the original Manley plan would be law
+and Gov. James would sign it.</p>
+          <p xml:id="sc04-3_1091">The script for this compromise was followed carefully. The
+legislature met and, over the objections of some disgruntled whites
+and the Black Legislative Caucus, approved the original Manley
+plan. On the weekend, Pegues flew to Washington and returned for the
+session on Tuesday, June 1. On the floor the legislator plaintively
+admitted, "If my amendment alone went on the bill, it would adversely
+affect it." He had failed to convince Justice.</p>
+          <p xml:id="sc04-3_1092">Both houses quickly confirmed the Manley plan with dissenting votes
+coming only from black legislators who didn't think the plan went far
+enough in remedying the efforts of the old plan and from a handful of
+whites who thought it went too far or who just didn't like the way
+Manley or Justice had treated them.</p>
+          <p xml:id="sc04-3_1093">With final legislative action, activities shifted from Montgomery
+to Washington and the Justice Department. Manley, Proctor, and state
+lawyers flew to Washington immediately after the legislative
+adjournment to put their case before the U.S. Assistant Attorney
+General. A delegation of the Legislative Black Caucus followed in the
+same week to ask for an objection. On Tuesday, June 8th, Justice
+issued a letter approving most of the Manley plan. Full arguments
+before the federal court will come late in June or July.</p>
+          <p xml:id="sc04-3_1094">
+            <hi rend="bold">Florida</hi>
+          </p>
+          <p xml:id="sc04-3_1095">With most counties in the state not covered by the Voting Rights
+Act's preclearance section, Florida has settled the primary issues of
+reapportioning its congressional and state legislative districts.</p>
+          <p xml:id="sc04-3_1096">With the addition of four congressional districts in the state,
+blacks had hoped vainly for a majority-black congressional district
+and some gains in creating single-member, majority-black districts in
+the state senate and house. Putting aside those concerns, the Florida
+legislators saw the most bitter fight between the interests of
+Republicans and Democrats and among several leading state legislators
+who have eyed one of the new congressional seats for their own
+political future.</p>
+          <p xml:id="sc04-3_1097">
+            <hi rend="bold">Georgia</hi>
+          </p>
+          <p xml:id="sc04-3_1098">After the Justice Department's decision in April to approve
+Georgia's state legislative reapportionment plan while rejecting the
+congressional one, the state's new attorney general, Michael Bowers,
+led the way in appealing the decision of Justice to the federal courts
+in Washington. Assuring other state officials and congressmen that the
+court appeal would be won in time to hold elections as usual, Bowers
+got a vote of confidence from both houses of the Georgia General
+Assembly, the Lt. Governor, and the Governor.</p>
+          <p xml:id="sc04-3_1099">The state argues that Justice's rejection of a fifty-seven percent
+black-populated congressional district in the Atlanta area misapplies
+the Voting Rights Act. The district is already fifty percent black and
+the state's proposal would have increased the number of blacks in the
+district by seven percentage points. Bowers says that Justice is
+attempting to require Georgia's legislature to make a guaranteed black
+seat of the Fifth Congressional District. The Democratic incumbent of
+the Fourth District, Elliott Levitas, adds that Justice is attempting
+to define him out of office by creating a district with a Republican
+majority.</p>
+          <p xml:id="sc04-3_10101">The Justice Department's decision to disapprove the fifty-seven
+percent majority-black district indicated that the state failed to
+rebut evidence that "the line between districts number four and five
+were drawn to minimize 
+<pb xml:id="sc04-3_10100" n="22"/>
+the voting strength" of blacks in that
+area. U.S. Assistant c Attorney General Bradford Reynolds reminded
+Bowers that the state senate had adopted the plan sponsored by black
+state Sen. Julian Bond to create a sixty-nine percent majority-black
+congressional district. Reynolds also noted that Georgia had failed to
+rebut evidence that the Bond plan was rejected (after several days of
+negotiations between the two houses of the General Assembly) largely
+because of the state House of Representatives' determination not to
+permit black voters too much power at the polls in any congressional
+district. (See <title>SOUTHERN CHANGES</title>, April, 1982).</p>
+          <p xml:id="sc04-3_10102">Once Bowers had filed the state's appeal in Washington, several
+black state legislators and citizens from Atlanta intervened to
+support Justice's objection. Intervenors claimed that the proposed
+fifty-seven percent black district not only has a discriminatory
+purpose but also a discriminatory effect on black voting strength. The
+trial starts June 28 and may last ten or fifteen days. A decision by
+the federal court could come as late as the end of July.</p>
+          <p xml:id="sc04-3_10103">If Justice's actions are upheld, the federal courts will likely
+take over the job of drawing an interim congressional plan for the
+primary and general elections this year in order to assure that the
+elections are held.</p>
+          <p xml:id="sc04-3_10104">Because time is running out, the state's attorney general attempted
+in May to have Georgia's secretary of state receive filing papers from
+congressional candidates for the existing districts. The federal
+district court in Washington, however, blocked that attempt after the
+intervenors' lawyers from the American Civil Liberties Union argued
+that the state should not be allowed to proceed under congressional
+plans that are unlawful. ACLU lawyer Laughlin McDonald told the court
+that the state should not be permitted to use a congressional plan
+until it had adopted one that was approved by Justice and the
+courts. The court agreed and barred the state from proceeding with the
+existing congressional districts.</p>
+          <p xml:id="sc04-3_10105">Pretrial discovery in the case indicates that key legislative
+leaders in the general assembly were in fact working to keep black
+voters out of control in any congressional district. Black and white
+state legislators have stated in sworn testimony that the primary
+discussion in the legislature on congressional redistricting was
+whether a "rigger" district would be created. The chairman of the
+lower house's reapportionment committee, Joe Mack Wilson, has stated,
+"The only thing worse than a 'rigger' district is a Republican
+district."</p>
+          <p xml:id="sc04-3_10106">Such revelations during discovery may have caused the state lawyers
+to develop a highly unusual and possibly unethical practice of keeping
+clients and the state's witnesses under control during
+testimony. Recently it was uncovered that a lawyer in the state
+attorney general's office had arranged a system of tapping a state
+legislator's foot under the table during depositions whenever the
+lawyer believed that the legislator's testimony was "getting out of
+control."</p>
+          <p xml:id="sc04-3_10107">Both Justice and the intervenors have continued to stress that the
+proposed district which Justice rejected may have had a majority-black
+population but had a "fifty-four percent white voter registration."
+Also, lawyers have pointed out that while legislators say they
+objected to Bond's proposed district because it unnecessarily crossed
+county lines and divided the metropolitan area, the proposed,
+unsuccessful congressional district crossed county lines just as
+much.</p>
+          <p xml:id="sc04-3_10108">
+            <hi rend="bold">Louisiana</hi>
+          </p>
+          <p xml:id="sc04-3_10109">As state officials began leaving their offices in Baton Rouge for
+Memorial Day weekend, Justice Department lawyers in Washington
+informed the state's attorney general by telephone that the Louisiana
+state redistricting plan had been rejected under the Voting Rights
+Act.</p>
+          <p xml:id="sc04-3_10110">Members of the Legislative Black Caucus and civil rights leaders i
+n New Orleans had petitioned Justice earlier to turn down the
+redistricting passed by the legislature late last year. They contend
+that the proposed plan is racially discriminatory, especially in New
+Orleans where the number of majority-white districts increased from
+seven to eight. This rearrangement was proposed despite an increase in
+the percentage of blacks in New Orleans. Black leaders pointed out
+that, statewide, the number of black majority districts would have
+been decreased from seventeen to fourteen if the legislature's plans
+had been approved by Justice.</p>
+          <p xml:id="sc04-3_10111">One alternative plan which the Black Caucus may present soon to the
+legislature when it takes up reapportionment again would provide for
+twenty majority-black house districts across the state.</p>
+          <p xml:id="sc04-3_10112">
+            <hi rend="bold">Mississippi</hi>
+          </p>
+          <p xml:id="sc04-3_10113">Federal courts in Mississippi and Washington will decide in the
+next several weeks if the poorest state in the nation, with almost a
+forty percent black population, will have one of five congressional
+districts with a majority of black voters.</p>
+          <p xml:id="sc04-3_10114">The possibility of a black congressional district was rejected by
+the Mississippi Legislature late last year when it turned down a plan
+by black state Sen. Henry J. Kirksey of Jackson who proposed a
+sixty-five percent majority-black congressional district that centered
+in the state's Delta region. On March 30 the Justice Department
+objected to the legislative plan which created a forty-eight percent
+black district that ran across the midsection of Mississippi from the
+Delta on the west to the Alabama border on the east and a forty-five
+percept black district in the southwestern corner.</p>
+          <p xml:id="sc04-3_10115">In disapproving the congressional plan, Justice noted that the
+heavily black-populated Delta had been split into congressional
+districts shortly after the 1965 Voting Rights Act was passed in order
+to break up black Mississippians' strongest voting power. Justice
+found, that in drafting reapportionment lines in 1981, Mississippi
+state officials had failed to show that the rejection of alternative
+proposals such as Senator Kirksey's was not racially motivated.</p>
+          <p xml:id="sc04-3_10117">By the second week of April, Mississippi had filed an 
+<pb xml:id="sc04-3_10116" n="23"/>
+appeal of
+Justice's decision in federal court in Washington and retained Jerris
+Leonard, the lawyer also handling North Carolina's redistricting case,
+to present their claims that a change from an existing forty-five
+percent black district in the Delta to a forty-seven percent black
+district was not racially discriminatory. According to local press
+reports, Mississippi also set aside a quartet of a million dollars in
+order to allow its lawyers to press their case.</p>
+          <p xml:id="sc04-3_10118">A few days later, twelve blacks filed suit in federal court in
+Greenville asking that a three-judge panel prohibit the state from
+using the 1981 congressional plan which Justice rejected and implement
+instead an interim plan with a sixty-five percent majority black Delta
+district for elections this year. State officials apparently had hoped
+to win their appeal in Washington or to be permitted to use a version
+of their 1981 reapportionment in the June 1 primaries; however, the
+court did not permit its use and instead asked for oral arguments and
+briefs in order to make a decision on what plan could be used this
+year.</p>
+          <p xml:id="sc04-3_10119">Blacks and some white liberals in Mississippi are also split
+politically on the issue of a black Delta district. Whites fear that
+the creation of a Delta district will take so many blacks from other
+areas that Mississippi would have "one friendly black face and four
+hostile Republicans" in its five-member congressional
+delegation. Blacks respond wistfully that they must have missed
+something in the last thirty years of Mississippi politics since they
+have not been able to find all those white responsive, sympathetic
+Democrats which such an argument assumes.</p>
+          <p xml:id="sc04-3_10120">While the Greenville court is expected to rule soon, both sides in
+the litigation promise an appeal, and the final shape of the Delta
+district for the November elections this year may not be decided until
+late July.</p>
+          <p xml:id="sc04-3_10121">
+            <hi rend="bold">North Carolina</hi>
+          </p>
+          <p xml:id="sc04-3_10122">Never in its history has the North Carolina legislature faced such
+persisting problems in reapportioning its own houses. The general
+assembly has already convened four times to draw district lines. While
+the dispute has now been settled in Washington and the Justice
+Department, a federal court in Raleigh will decide later in the summer
+if the state must make a fifth effort.</p>
+          <p xml:id="sc04-3_10123">The latest special session on reapportionment came in late
+April. The legislature convened after Justice objected for the third
+time to both the house and senate lines. In its letter of objection,
+Justice found that a 51.3 percent majority-black senate district in
+the northeastern part of the state continued to dilute black voting
+strength in an area where a 61.2 percent black district had been
+proposed by the N.C. Association of Black Lawyers. In the house plan,
+Justice objected to the continued submerging of black voters in
+Fayetteville in a large, multi-member district of white voters. In a
+county where five representatives sit in the lower house, the General
+Assembly had proposed a district which it claimed contained
+"eighty-four percent majority of black registered voters." In fact,
+the district of almost fifty thousand people had less than four
+thousand registered voters on the books because most of the residents
+were military families stationed at nearby Ft. Bragg. Justice accepted
+the arguments of the black plaintiffs who had challenged the
+reapportionment in federal court that this majority-black district was
+an illusion at best.</p>
+          <p xml:id="sc04-3_10124">Because candidates' filing dates were scheduled to begin in May,
+North Carolina state officials moved quickly when Justice's actions
+became known. After Jerris Leonard, the state's Washington counsel and
+former assistant attorney general under Nixon, advised his clients
+that Justice's objections could be met with only minor changes, the
+legislature was called into special session. Within-three days the
+General Assembly had approved an increase of four percentage points in
+the black population of the northeastern senate district; up to 55.1
+percent. In Fayetteville, a new single-member district was carved out
+of both the Ft. Bragg area and some of the black-populated parts of
+the City.</p>
+          <p xml:id="sc04-3_10125">Before the General Assembly adjourned, rumors spread that
+U.S. Assistant Attorney General Bradford Reynolds had approved, by
+telephone, the new plan with its two minor changes. The official
+approval of the plan on April 30th, less than two days after the
+legislature's adjournment, seemed to confirm the scuttlebutt.</p>
+          <p xml:id="sc04-3_10126">Lawyers for the NAACP Legal Defense Fund (LDF) who represent black
+plaintiffs in the Raleigh suit criticize Justice's decision as
+providing too little protection for black voters. They point out that
+the fifty-five percent black senate district has less than a majority
+of blacks of voting-age population and that black registration is
+probably closer to forty-three percent. They also argue that while the
+Cumberland County house district may have a majority of registered
+black voters, it does not have a majority of potential black
+voters.</p>
+          <p xml:id="sc04-3_10127">Despite Justice's approval, the district lines for the legislature
+are not yet settled. LDF lawyers contend that the legislature's
+failure to create single-member districts in Charlotte, Raleigh, and
+Durham, where several majority black districts could be created. will
+be declared unconstitutional by the federal court when the issue comes
+to trial in the summer or fall. Because North Carolina has only forty
+of its one hundred counties covered by the preclearance provisions of
+the Voting Rights Act, the legislature's redistricting of the major
+urban centers were not reviewed by Justice. Legal. observers believe
+that Justice may intervene in the federal suit in Raleigh on the side
+of black plaintiffs to help challenge the redistricting of the urban
+centers since they could not review it under the preclearance
+provisions.</p>
+          <p xml:id="sc04-3_10128">As in other Southern states, several groups are in court fighting
+reapportionment. State Republicans have had their case consolidated
+with the Raleigh lawsuit. They are challenging as unlawful all
+multi-member districts throughout the state. At the same time, white
+citizens in Wake County--near the city of Winston-Salem--are suing the
+state because it created a single-member district that split parts of
+Wake into different legislative districts.</p>
+          <p xml:id="sc04-3_10130">With Justice's approval, North Carolina officials have gone forward
+with their elections for the fall. Yet, 
+<pb xml:id="sc04-3_10129" n="24"/>
+depending on the future
+evidence presented in the federal court, those plans may be only the
+fifth edition in the long run of redistricting in the state.</p>
+          <p xml:id="sc04-3_10131">
+            <hi rend="bold">SOUTH CAROLINA</hi>
+          </p>
+          <p xml:id="sc04-3_10132">After extensive negotiations between the Justice Department lawyers
+and State Representative Robert Shebeen, the redistricting of the
+South Carolina house came to an end in April although the state senate
+has yet to take up its own reapportionment.</p>
+          <p xml:id="sc04-3_10133">Shebeen, the chairman of the state house judiciary committee, came
+up with a revised plan after Justice objected to an earlier
+redistricting. Shuttling back and forth from Washington for almost
+four weeks, the South Carolina lawmaker came up with an acceptable
+plan that created twenty-six majority-black house districts, two more
+than presently exist. The gains are in majority-black districts in
+Richmond County surrounding Columbia and in Florence.</p>
+          <p xml:id="sc04-3_10134">While primary elections proceeded on schedule, the biggest battle
+in line-drawing may lie ahead. The state senate has sixteen
+multi-member districts which elect up to five members each. The
+Legislative Black Caucus, none of whose members sit in the all-white
+state senate, are urging a single-member district plan that would give
+black voters a better opportunity to have their vote count.</p>
+          <p xml:id="sc04-3_10135">
+            <hi rend="bold">TEXAS</hi>
+          </p>
+          <p xml:id="sc04-3_10136">Primary elections were held in Texas in early May and June under
+redistricting plans which federal courts had ordered for 1982. Before
+the next congressional elections, however, the legislature must return
+to Austin to draw up at least four new congressional districts around
+Dallas and may choose to remap the entire state.</p>
+          <p xml:id="sc04-3_10137">Appeals to the U.S. Supreme Court went to the wire as the primary
+election of May 1 approached. The decision of a three-judge federal
+court panel in Texas was overturned once by the Supreme Court in early
+April because the lower court had gone too far in redrawing too many
+congressional districts. In April the lower court acted quickly and
+revised its plan which the Supreme Court refused to overturn.</p>
+          <p xml:id="sc04-3_10138">Hispanic groups in Texas were especially disappointed in the
+redistricting since they had expected a majority district in Congress
+and substantial additions in both the state senate and house in
+southwest Texas.</p>
+          <p xml:id="sc04-3_10139">
+            <hi rend="bold">VIRGINIA</hi>
+          </p>
+          <p xml:id="sc04-3_10140">On April Fool's Day, the Virginia General Assembly reluctantly met
+in special session and ended more than a year of entanglements over
+redistricting by creating three additional majority-black districts in
+the lower house.</p>
+          <p xml:id="sc04-3_10141">Civil rights and civil liberties groups who had fought the state
+plan before the Justice Department and the courts expressed almost
+complete satisfaction of the new plan. "We've achieved what we set out
+to do," said Henry Marsh, black mayor of Richmond and lawyer for the
+state NAACP. Judy Goldberg of the Virginia ACLU echoed the sentiment
+by calling the plan a "99.5 percent victory." After a federal court
+and Justice had given the state delegates three opportunities to draw
+lawful lines, the General Assembly acknowledged that its April session
+was its last chance to keep the courts out of redistricting.</p>
+          <p xml:id="sc04-3_10142">While the new reapportionment adds probably three districts where
+blacks may be able to elect candidates Virginia presently has only
+four blacks among the 140 members of the House and Senate. One in five
+of the state's population is black.</p>
+          <p xml:id="sc04-3_10143">While black leaders and civil rights groups are pleased, white
+Democrats claim that the reapportionment does more for Republicans
+than for blacks. Calling reapportionment a "ghettoizing" of blacks and
+a promotion of Republican districts, these Democrats argue that the
+next General Assembly will be more hostile to black interests. Most
+black leaders find the claims unpersuasive.</p>
+          <div3 xml:id="sc04-3_026" type="About">
+            <p xml:id="sc04-3_10144">This report was prepared by the staff of the Southern
+Regional Council</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc04-3_007" n="7" type="Article">
+          <head>Ending the Short Stick In Mississippi's Woods</head>
+          <byline>By 
+            <docAuthor><name type="person"><choice><reg>Israel, Tom</reg><sic>Tom
+	       Israel</sic></choice></name> and <name type="person"><choice><reg>Williams, Randall</reg><sic>Randall Williams</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 16-18</docDate>
+          
+          <p xml:id="sc04-3_10145">Pine trees are commonplace, but timber is an industry, especially
+in the South where forests stretch from Houston to the Carolinas. In
+Mississippi today, timber is the largest provider of manufacturing
+jobs and the state's largest crop.</p>
+          <p xml:id="sc04-3_10146">The timber industry will play a key role in the next several
+decades in the South. The trees are here, the giant wood products
+companies are here, and a paper shortage is projected for the next
+twenty-five or thirty years. The crop is constantly expanding, as
+witnessed by oldtimers who drive through rural areas and point out the
+cotton fields of their youth, now grown into the piney woods.</p>
+          <p xml:id="sc04-3_10147">For the harvesters of the crop, however, even those who enjoy the
+work, woodcutting is one of the dirtiest, most dangerous and poorest
+paying of occupations.</p>
+          <p xml:id="sc04-3_10148">There are two types of wood harvesters--pulpwooders, who cut and
+haul wood to be made primarily into paper products, and loggers, whose
+labor ultimately leads to the making of lumber. They can be
+distinguished on the road by the way the wood is stacked on their
+trucks: pulpwood is short and stacked across the truck, while logs are
+long and stacked lengthwise. In Mississippi, an estimated ten thousand
+people work in the woods, and about eighty percent of them are
+black. However, log haulers are more likely to be white than black,
+largely because cutting logs is more profitable than cutting pulpwood
+and because the timber companies have allowed whites to take that
+economic step up.</p>
+          <p xml:id="sc04-3_10149">About four-fifths of the wood harvesters are pulpwooders, and they
+are the chief beneficiaries of the Mississippi Fair Pulpwood Scaling
+and Practices Act, which was to go into effect July 1. The story of
+the passage of that act and the reasons why it was necessary is worth
+hearing.</p>
+          <p xml:id="sc04-3_10151">Woodcutters are paid a piece rate for each cord of wood they
+sell. A cord is a volume measure of four feet by four feet by eight
+feet. The pulpwooder and his crew cut the trees down, saw off the
+limbs, cut them into five-foot 
+<pb xml:id="sc04-3_10150" n="17"/>
+lengths, load them on the truck and
+haul them to a wood yard. The work is hard and dangerous: a
+get-together of woodcutters where everyone has all his fingers or toes
+is rare.</p>
+          <p xml:id="sc04-3_10152">An average truck load has three or four cords with a gross value to
+the woodcutter of about $120. When the hauler brings the wood to the
+yard, it's measured with a long yardstick. The common practice is for
+the wood hauler to hold the stick against the stack of wood on his
+truck, and the dealer stands back and reads the scale off the top of
+the stick.</p>
+          <p xml:id="sc04-3_10153">The woodcutter can't see the scale and he isn't even told how much
+wood was on his truck until it has already been unloaded, by which
+time it's too late to argue. The United Woodcutters Association
+estimates that woodhaulers earn about six to seven thousand dollars a
+year if they work full-time, and that an average cutter loses about
+fifteen hundred dollars per year to the short stick. So it has been a
+real problem.</p>
+          <p xml:id="sc04-3_10154">The Woodcutters Association decided to organize a campaign around
+this issue and tried for three years to get a bill passed that would
+set standards for measuring-scaling--the wood at the yard. But
+woodcutters are very isolated from one another. They work in remote
+locations and they usually know only the other woodcutters who may be
+in their family or in their church.</p>
+          <p xml:id="sc04-3_10155">They may recognize some other woodcutters by sight or may recognize
+their trucks which they've seen on the road or at the woodyard, but
+they don't know them. They also haul their wood to about 250 scattered
+woodyards throughout the hills of Mississippi (The United Woodcutters
+Association is organized in forty-two counties in Mississippi.)</p>
+          <p xml:id="sc04-3_10156">A second barrier to effective organizing is fear on the part of the
+workers. The Association is not, like most unions, an organized
+shop. The people who join and who speak out in favor of such things as
+the fair scaling act are completely unprotected at the woodyard
+against firing and harassment. Even woodcutters who simply attend
+Association meetings are subject to intimidation from dealers.</p>
+          <p xml:id="sc04-3_10157">To overcome some of these barriers to organizing, the Association
+started a cooperative. The woodcutters have to own and operate
+chainsaws and trucks and they burn up large amounts of supplies, which
+they usually get from the wood dealers for whom they work, often at
+exorbitant prices.</p>
+          <p xml:id="sc04-3_10158">The system is very similar to sharecropping. The woodcutters are
+considered independent contractors and are thus not usually covered by
+insurance or other benefits from either the wood dealer or the big
+paper companies, yet they end up in economic dependence to the wood
+dealers, who function much like labor contractors.</p>
+          <p xml:id="sc04-3_10159">When a woodcutter needs a tire for his truck or a chain for his saw
+or even a loan for a piece of equipment, he will go to the wood dealer
+who will advance him the money and then deduct it a little at the time
+from the woodcutter's pay for each cord of wood. The net effect is
+that the woodcutter never gets out of debt and his already meager
+take-home pay is whittled away even more. From the payment he receives
+from the wood dealer, of course, the woodcutter also has to pay his
+helpers, own and operate his truck and saws, pay social security and
+buy insurance, if he has it.</p>
+          <p xml:id="sc04-3_10160">The cooperative was thus a very effective organizing tool. The
+Association now has co-ops at forty-three different locations around
+the state where the woodcutters can get their saw files and their
+chain oil and a dozen other products they need to stay in
+business. The woodcutters not only get lower prices but they get to
+meet and get to know each other, which helps break down the problem of
+isolation. And because the members of the Association are the
+administrators of the co-ops, they gain confidence in working together
+as a unit.</p>
+          <p xml:id="sc04-3_10161">All of this work helped in the three-year campaign to get the fair
+scaling practices act, but it wasn't enough. The campaign succeeded
+when the word finally got out to the landowners that they were losing
+as much as the woodcutters due to the short stick, or inaccurate
+measuring of the loads on the pulpwood trucks. The landowners off
+whose land the wood is cut are also paid on the basis of the
+measurement taken by the wood dealer at the yard. By doing a lot of
+organizing among small farmers, the Association eventually got an
+endorsement from the Farm Bureau, and on March 8 the Mississippi Fair
+Pulpwood Scaling and Practices Act passed.</p>
+          <p xml:id="sc04-3_10163">The act requires licensing of wood dealers and establishes uniform
+measurement procedures, procedures where the woodcutter can file
+complaints, and third-party arbitration to settle disputes. These
+procedures are important to give protection to the woodcutter who
+actually files a complaint, so he won't be told the next day not 
+<pb xml:id="sc04-3_10162" n="18"/>
+to come back to that woodyard again.</p>
+          <p xml:id="sc04-3_10164">The next step for the Association is to organize strikes at some
+wood yards. The fundamental poverty of the woodcutters is not going to
+change until they are paid more. Getting an accurate measure will mean
+a lot more money but the woodcutters are still paid very little for
+their labor. By the time he pays all the costs of production, the
+woodcutter who clears eight or nine dollars on a cord of wood is doing
+very well.</p>
+          <p xml:id="sc04-3_10165">The Association put together its first strike last summer in
+Fayette, Miss., where three yards were shut down for about one
+month. One yard settled with a two dollars per cord raise and an
+agreement to post standards on how the loads would be measured. The
+second yard came through with just a raise. The third yard, which was
+run by International Paper Co., shut down and moved out of town.</p>
+          <p xml:id="sc04-3_10166">In addition to more strikes and other job actions, the Association
+is now campaigning for workers' compensation coverage for woodcutters;
+as independent workers with the middlemen wood dealers between them
+and the paper companies, they have been denied this protection for
+on-the-job injuries or deaths.</p>
+          <p xml:id="sc04-3_10167">Finally, there are thousands of woodcutters in other Southern
+states whose working conditions are equally as dangerous, whose pay is
+equally as low, and whose isolation is equally as limiting.</p>
+          <p xml:id="sc04-3_10168">For these woodcutters, it seems, imitation of the Mississippi
+example may be the first step on the road out of poverty.</p>
+          <div3 xml:id="sc04-3_027" type="About">
+            <p xml:id="sc04-3_10169">Tom Israel is the lead organizer for the United Wood
+cutters Association. This article is adapted from his remarks at a
+recent conference hosted in Montgomery by the Southern Poverty Law
+Center, where Randall Williams is employed.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc04-3_008" n="8" type="Article">
+          <head>Ensley, Alabama: 1932</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Beecher, John</reg><sic>John Beecher</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, p. 17</docDate>
+          
+          <lg type="stanza">
+            <l>The mills are down.</l>
+            <l>The hundred stacks</l>
+            <l>are shorn of their drifting fume. </l>
+            <l>The idle tracks</l>
+            <l>rust . . . </l>
+            <l>Smeared red with the dust </l>
+            <l>of millions of
+tons of smelted ore</l>
+            <l>the furnaces loom--</l>
+            <l>towering,
+desolate tubes--</l>
+            <l>smokeless and stark in the sun . . . </l>
+            <l>Powerhouse cubes </l>
+            <l>turbines hummed in, </l>
+            <l>platesteel
+mains the airblast thrummed in </l>
+            <l>are quiet, and the sudden roar</l>
+            <l>of blown-off steam . . . </l>
+            <l>At night </l>
+            <l>the needle
+gleam </l>
+            <l>where the ladle poured at the pig machine, </l>
+            <l>the
+deep smoulder of an iron run </l>
+            <l>and the spreading light </l>
+            <l>of molten slag over the sleeping town </l>
+            <l>are seen </l>
+            <l>no
+more </l>
+            <l>now mills and men are down. </l>
+          </lg>
+          <div3 xml:id="sc04-3_028" type="About">
+            <p xml:id="sc04-3_10170"> From <title>Collected Poems</title>, 1924-1974 by John
+Beecher, New York: MacMillan, 1974.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc04-3_009" n="2" type="Article">
+          <head>The Lost Colony of North Carolina</head>
+          <byline>By 
+            <docAuthor><name type="person"><choice><reg>Dyer, Donna</reg><sic>Donna
+	       Dyer</sic></choice></name> and <name type="person"><choice><reg>Adams, Frank</reg><sic>Frank Adams</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 3-11</docDate>
+          
+          <epigraph>
+            <p xml:id="sc04-3_10171">"We don't have poverty in Hertford County. People live
+like that because they want to. They don't want it any other
+way"--L.M. "Mutt" Brinkley, Hertford County
+Commissioner.</p>
+          </epigraph>
+          <p xml:id="sc04-3_10172">In speaking of the rural poor of Northeastern North Carolina,
+Sister Mary Genino, a Catholic nun who has worked in the region for
+three years, acknowledges a bewildering configuration of
+powerlessness: "They are bound," she says, "by a social structure that
+has not changed for hundreds of years. It has affected their economic
+freedom, their political freedom and their social freedom. They don't
+vote--though no one comes around with a gun or turns them away from
+the voting polls. They drop out of school--because education doesn't
+get them anywhere. And although there are no written laws that say
+'blacks and 'while,' the mores of past generations are still rigidly
+adhered to."</p>
+          <p xml:id="sc04-3_10173">Seldom since William Byrd staked the Virginia--North Carolina
+boundary in 1728 has there been so much discussion within and without
+the region about conditions of life in the "Northeast." Some have
+begun to call the area east and north of Interstate 95 the state's
+"lost colony." Colonies exist when a region's people or natural
+resources are under the sway of outside individuals and
+institutions. A colony is subordinate to and dependent upon outside
+sources of accumulated capital, upon the "superior training" of
+outsiders or their agents, upon the outsiders' control and
+manipulation of privileged information, or some combination of these
+factors.</p>
+          <p xml:id="sc04-3_10175">Advantage over the colonized or peripheral region is preserved
+through manipulation of wages and labor markets, through continued or
+increased levels of outside ownership over resources, and through the
+thousand and one ways in which wealth and concentrated power make
+themselves felt. There are also the advantages which are played
+through in discriminations of sex, race, religion or culture. And when
+necessary, there can be a show of force. Poor people are usually
+numerous in dependent regions (witness Sister Genino's comments), and
+passions over racial attitudes, sexual traditions or religious beliefs
+often divide them, further preventing effective challenges to the
+causers and causes of poverty and quiescence. Appalachia is one such
+colony in the United States.  
+<pb xml:id="sc04-3_10174" n="4"/>
+Is Northeastern North Carolina another one?</p>
+          <p xml:id="sc04-3_10176">In August 1981, Governor James B. Hunt, Jr., spoke at an "economic
+summit" arranged by the Department of Commerce in Edenton, once the
+state's capital. The Norfolk <title>Virginian-Pilot</title> announced
+the event saying the Northeast's governmental and commercial leaders
+were being invited "to continue a process of focusing bureaucratic,
+political, and economic attention on the region."</p>
+          <p xml:id="sc04-3_10177">Later that month, either spurred by the governor's zeal or
+unimpressed by what they heard, sixteen counties formed a coalition
+calling itself Northeastern North Carolina Tomorrow to promote a
+regional agenda for economic growth. In October, they met with a
+delegation of Virginians to plea for help in pushing tourism,
+industrialization, links with the thriving Tidewater, and markets for
+new products. The area's feelings of being a stepchild were
+underscored by talk of secession. State senator Melvin R. Daniels,
+Jr., a Democratic Party stalwart and influential banker, told the
+Virginians, "If things don't go right with redistricting in Raleigh,
+we might petition Virginia to take us back in--everything from the
+Roanoke River through the Chowan River Basin." Whether ploy or
+facetious warning, Daniel's remarks drew swift rebuttal from equally
+powerful state senator J.J. "Monk" Harrington, a Lewiston
+manufacturer, who bluntly defended the state's efforts to spur
+development. He said, "I think Northeastern North Carolina has been
+looked out for quite well by North Carolina officials. I have never
+known them-Virginians--to give us anything. We give and they take."</p>
+          <p xml:id="sc04-3_10178">Governor Hunt's Balanced Growth Policy stirred some faint hopes for
+economic growth in the Northeast, a land of productive farms, endless
+timber tracts, pocosins, slow moving rivers and small towns. But the
+highly visible policy debate during the governor's first
+administration spawned more rhetoric than results. The coalition's
+leaders, pushed by Ahoskie newspaper publisher, Joe Parker, were
+agreed in their determination to see some change in the region's bleak
+economic status. They arranged public meetings and held symposia at
+community colleges and offices of Chambers of Commerce. However,
+despite the region-wide, public nature of all the talk, very few of
+the debate's participants offered more than a glimpse into the
+Northeast's economy, or provided an analytical framework for
+discussing the region's severe economic ills.</p>
+          <p xml:id="sc04-3_10179">For instance, there are shifting definitions of which counties are
+to be included, or more accurately, are willing to be tarred as
+"underdeveloped." The Governor's Task Force on Northeastern North
+Carolina, the group responsible for the Edenton Summit, included
+Beaufort, Bertie, Camden, Chowan, Currituck, Dare, Gates, Halifax,
+Hertford, Hyde, Martin, Northampton, Pasquotank, Perquimans, Tyrrell
+and Washington. Their list coincided with the sixteen-county
+coalition. Other observers, particularly a few municipal, regional
+planners, and University of North Carolina professor of planning Ed
+Bergman, argue the entire First Congressional District shares the
+common demoninator of an agrarian-based economy with the lowest per
+capita income in the state. In accepting Bergman's position, we
+include Carteret, Craven, Greene, Lenoir, Pamlico and Pitt counties in
+our analysis.</p>
+          <p xml:id="sc04-3_10180">Too, the debate has been blurred by a division as to the reasons
+for persistent underdevelopment. Some point to myriad human
+deficiencies; others blame the lack of roads, schools or bridges. The
+first camp attributes the region's plight to ills they say are
+inherently a part of the Northeast's people and their culture. In
+circular fashion, they claim that the often shocking statistics of
+poverty, poor health, inadequate diet, ignorance, rotting housing, or
+lack of participation in the electoral process characteristic of the
+First Congressional District, explains the origins and causes of
+underdevelopment. Another camp, perhaps the majority, holds that the
+lack of adequate roads, incentives for investors, shortages of skilled
+labor, and inadequate tools for capital formation prevent regional
+modernization.</p>
+          <p xml:id="sc04-3_10181">Both camps ignore several essential questions: Who owns or controls
+the land in this sprawling region? Who owns the region's jobs? Where
+do profits go? How are governmental services distributed, or taxes
+levied? These key questions are at the base of any regional
+analysis. And while the Governor and the coalition have let them go
+begging, some of the citizenry has not.</p>
+          <p xml:id="sc04-3_10183">Dr. Eugene G. Purcell, a minister and professor of philosophy at
+Atlantic Christian College, spoke at a regional development seminar
+organized by Elizabeth City's College of the Albemarle on November 17,
+1981. He drew knowing, approving nods from listeners when he declared
+that growth is difficult because people "realize the critical
+decisions that affect them most are made by people they cannot see and
+do not know." Purcell continued: "The economic future of small towns
+is determined in a corporate boardroom in a distant city. 
+<pb xml:id="sc04-3_10182" n="5"/>
+Impersonal
+bureaucrats make decisions about state or federal funding and control
+of the schools, the quality and availability of medical care, who gets
+a slice of the welfare pie, what interest rates you pay for borrowed
+money, and even the quality of the air you breathe or the water you
+drink."</p>
+          <p xml:id="sc04-3_10184">Intellectuals are certainly not the only persons asking who
+prospers from the region's people and resources. In 1979, before the
+present debate became public, a popular bumpersticker was sold at many
+Northeast restaurants, grocery and hardware stores. The message?
+"Welcome to North Eastern North Carolina: Owned and Operated by
+VEPCO." The bumpersticker reflected the successful drive by twenty-one
+Northeast municipalities to terminate contracts with Virginia Electric
+and Power Company (VEPCO), headquartered in Richmond, and then buy
+power from Carolina Power and Light Company, based in Raleigh, saving,
+they predicted, $1.1 billion over a twenty-one year period.</p>
+          <p xml:id="sc04-3_10185">
+            <hi rend="bold">Who Owns the Land?</hi>
+          </p>
+          <p xml:id="sc04-3_10186">According to the <title>Sixth Edition of the Profile of North
+Carolina Counties</title>, published in 1981,thereare5,783,500 arable
+acres in the District. Farmers till 24.9 percent of the land, or
+1,400,700 acres. Timber is grown on 61.8 percent, or 3,572,200
+acres. The federal government owns 233,909 acres, or 2.5 percent,
+using that land principally for military bases or parks. The remainder
+is taken up by roads, towns, trailer parks, shopping centers,
+junkyards, schools or prison camps.</p>
+          <p xml:id="sc04-3_10187">All told, according to the 1978 U.S. Census of Agriculture, there
+are 10,658 farms in the District. They produced twenty percent of the
+state's agriculture receipts, or $657,204,000, averaging about $62,000
+per farm. The majority are small, inherited, family-held operations
+whose number is declining.</p>
+          <p xml:id="sc04-3_10188">North Carolina State University's Dr. Leon E. Danielson found in a
+1981 study that about a third of all the state's farmland was owned by
+retired persons, or by white- and blue-collar workers who farmed
+part-time and worked other jobs. The average size of a North Carolina
+farm was forty-two acres. The patterns he found hold in the Northeast,
+especially because tobacco is grown in abundance, and is labor
+intensive, and can be done part-time. But changes in farming
+practices, operating costs, interest rates and labor costs are wiping
+out the small family farm. Black farmers in the District have been
+particularly hard hit. Their number declined from 2,570 full-time
+farmers tilling 111,888 acres in 1954 to 529 full-time farmers working
+26,876 acres in 1979, a drop of seventy-nine percent, causing the
+N.C. Division of Policy Development in June 1981 to predict that by
+the end of the century "there will be no black-owned farms," in the
+state.</p>
+          <p xml:id="sc04-3_10189">As small farms vanish, larger farms and "superfarms"--requiring
+huge capital resources and extensive management skills, have taken
+their place, adapting new technologies and taking in previously unused
+or marginally productive land. This trend started in 1973 when Malcolm
+P. McLean, the one-time Winston-Salem trucking magnate, paid $60
+million for 581 square miles c land or about one third of the entire
+Albemarle-Pamlico peninsula, and appropriately called what he'd bought
+(the state's largest farm), First Colony Farms. Since then, dozens of
+other investors, all but two from outside the region, have bought and
+developed land, cleared and drained the property, then leased or
+resold the farms to absentee owners or corporations. Mostly corn,
+soybeans and hogs are raised on these farms. A partial list of the
+Northeast's superfarms includes the 44,000acre Open Grounds farm in
+Carteret County, owned by an Italian grain merchant; the 35,000acre
+Mattamuskeet Farms in Hyde County, owned by John Hancock Mutual
+Insurance Co. of Boston, which has another $70 million in invested
+farm mortages elsewhere in North Carolina; a 7,500-acre farm along the
+Roanoke River in Halifax County, owned by ten New York City investors;
+and two Washington County farms--one totalling 9,400 acres and the
+other 4,700 acres--owned by foreign investors hidden so completely by
+corporate veils that even the resident managers don't know for whom
+they till. Only two of these megafarms are held by North Carolinians:
+Rich Farms, a 13,000-acre operation east of Belhaven, and the
+15,000acre farm operated by the relatives of A.D. Swindell around
+Pantego.</p>
+          <p xml:id="sc04-3_10190">Decisions about the daily operations on these are made locally, but
+management policies are set elsewhere. Profits and tax advantages
+accumulate elsewhere, too. Further, local control over land use policy
+is eroded, if not lost, as a result of absentee farm operations. Even
+the state's Environmental Management Commission found their reins a
+bit short. They voted to assess the impact of the superfarms on the
+ecology because "no one knows now what effect the 'gigantic
+denudations' of large farms . . . will have in the long run on
+weather, water, and wildlife . . ." First Colony managers pooh-poohed
+the study as having little value other than "keeping a few state
+bureaucrats off the street."</p>
+          <p xml:id="sc04-3_10191">
+            <hi rend="bold">Who Controls the Water?</hi>
+          </p>
+          <p xml:id="sc04-3_10193">Water, so vital to farming and seemingly so abundant in the
+Northeast, is also becoming scarce as a result of industrial activity
+controlled by absentee owners, or interests outside North
+Carolina. The superfarms profoundly alter water distribution
+patterns. Thousands of pounds of farm chemicals run off into swamps
+and rivers, and have had a devasting impact on fish and shrimp in the
+<pb xml:id="sc04-3_10192" n="6"/>
+sounds. Meanwhile, underground cones of depression traced to huge
+industrial withdrawals daily in Virginia have begun to diminish the
+underground water supply in Hertford, Northampton and Gates
+counties. Union Camp Corporation, operating in Franklin but
+headquartered in New York City, pumps about forty million gallons out
+of the ground daily, dropping the ground water level at least eighteen
+feet annually. To the south near Aurora, Texasgulf, Inc.,
+headquartered in Stamford, Connecticut, but owned by the Government of
+France, pumps over nine million gallons of water daily to keep its
+subsurface phosphate mines dry. These withdrawals, combined with the
+ground water pumped by municipalities or by other industries, has
+caused the Northeast's ground water level to drop nearly forty feet in
+ten years, according to Robert Cheek of the N.C. Department of Natural
+Resources. Private wells from Wanchese to Rich Square have dried up as
+a result of the depleted artesian aquifier. Already, fishermen net
+crabs in the Chowan River as far upstream as Winton.</p>
+          <p xml:id="sc04-3_10194">
+            <hi rend="bold">Who Controls the Forests?</hi>
+          </p>
+          <p xml:id="sc04-3_10195">The region's timberlands are held primarily by hundreds of private
+landholders in small tracts. This is the pattern across the
+state. There are some 245,000 non-industrial forest landowners in
+North Carolina, more than in any other state in America. They control
+about eighty percent of the commercial forest production--which yields
+over three billion dollars annually, if the furniture industry is
+included. In North Carolina, only twelve percent of the forests are
+held by all corporations, but in the First Congressional District,
+five giant forest product firms own twenty-one percent of the forests,
+or 746,322 acres. None of them are headquartered in the Northeast
+although each has a regional office there, and one, Weyerhaeuser,
+operates a mill in Plymouth employing nearly 2,300 persons to replant
+trees, run its nursery, haul logs, and run the complex, sprawling mill
+itself.</p>
+          <p xml:id="sc04-3_10196">Weyerhaeuser illustrates how firms outside the region directly
+influence the life inside. The Tacoma, Washington, corporation owns or
+manages 660,000 North Carolina acres, mostly in the First
+Congressional District. Even with all these holdings,
+Weyerhaeuser-owned timber accounts for only twenty-five percent of its
+production needs. Nearly three-fourths of the timber it processes must
+come from smaller landholders, many of whom are unable to afford
+investing an average of $120 per acre to replant and then wait twenty
+to forty years for a return on their investment. To insure that its
+needs are met, Weyerhaeuser constantly buys up more timberland. Also,
+the company sponsors reforestation programs which enable the family
+timberowner to hold onto land, but puts hundreds of Northeast acres
+under its indirect control, or under the indirect control of the
+handful of other companies. For they are the only buyers available.</p>
+          <p xml:id="sc04-3_10198">The giant firm influences the region's social economy even more
+directly. At the end of October 1981, Weyerhaeuser settled a
+four-year-old suit brought by black employees at its Plymouth
+mill. They had alleged that the company assigned blacks in
+disproportionate numbers to its wood products division rather than the
+higher paying 
+<pb xml:id="sc04-3_10197" n="7"/>
+fiber division. No blacks worked in the nursery, they
+said, and only a handful in salaried positions. Some seventy-eight
+percent of the work force in Plymouth (1,800 persons) was black, and
+the counties from which the firm drew the majority of its workers have
+large black population. Weyerhaeuser agreed to divide $700,000 in back
+pay among approximately 725 workers and pledged no further
+discrimination in job transfers, hiring, or promotions. Discriminatory
+wage patterns--to say nothing of hiring policies--provide a major
+reason why the region's poverty is widespread and enduring and why the
+term "colony" is accurate.</p>
+          <p xml:id="sc04-3_10199">Race has not been openly a part of the current debate about the
+region's economic future. Black participation has been marked by its
+absence. Only after the sixteen-county coalition's preliminary plans
+were well laid were any blacks invited to join what had been an all
+white, mostly male group.</p>
+          <p xml:id="sc04-3_10200">An ad hoc committee of the N.C. Department of Commerce reported on
+March 19, 1979, on "the minority concentration issue." Its authors,
+many of whom lived in the Northeast, sought to "dispel the myth that
+areas populated by high concentrations of minority individuals are to
+be avoided as possible locations in industrial facilities." Some
+potential industrial clients, they noted, spurned the region because
+of its lack of water, sewer services, poor roads, or their low regard
+for its schools, shopping centers, cultural activities and
+recreation. Others frankly balked at the Northeast because of
+race. "Some . . . cite higher minority concentrations in the
+population and labor force as an additional factor adding to the lack
+of client interest . . . Some have stated a firm will not look at an
+area which has over thirty or forty percent minority
+concentration. The explanation is given that, in general, due to the
+lack of economic and educational opportunity, the Southern rural Black
+worker is perceived as having a poorer work ethic and is more easily
+organized by union efforts." According to the 1980 Census, blacks are
+the majority of the population in four of the Northeast's twenty-two
+counties and a third or more in eleven others.</p>
+          <p xml:id="sc04-3_10201">
+            <hi rend="bold">Who Controls the Jobs?</hi>
+          </p>
+          <p xml:id="sc04-3_10202">Long periods of unemployment or long daily commutes for workers are
+another regional characteristic. Sixteen Northeast counties reported
+unemployment rates above the state's average in 1980. Tyrrell County
+had the highest unemployment rate in the state--11.5
+percent. Aggregate figures do not account for seasonal employment in
+the tourist industry (a major factor in Dare, Pamlico and Carteret
+counties) nor farming, making it likely that real unemployment during
+some months may be much higher than official averages reveal. For
+hundreds of persons, the option is commuting. Between 2,200 and three
+thousand North Carolinians drive daily into Virginia to work at
+Tidewater shipyards, or the meat packing and food processing plants in
+Suffolk and Smithfield. As the prices of fuel, autos and vans increase
+more rapidly than general inflation and the real incomes earned at
+these distant jobs, the region's economy is further weakened by
+reducing the actual amount of money available to be spent or saved in
+Northeast.</p>
+          <p xml:id="sc04-3_10203">The work which is available in the Northeast is characteristic of
+jobs to be found in other colonies--apparel sewing and manufacturing,
+timbering, mining, or food processing--which pay the lowest wages and
+characterize first-stage, primitive industrialization.</p>
+          <p xml:id="sc04-3_10204">Even a casual look at available employment in the Northeast
+explains why workers choose to commute such long distances. Jobs are
+scarce. In twelve of the twenty-two counties, less than thirty percent
+of the nonagricultural workforce is employed in manufacturing. The
+state's average is 34.6 percent. In the nine counties where more than
+thirty percent of the work force is employed in manufacturing, jobs in
+food, apparel and lumber dominate. By considering Beaufort, Craven,
+Lenoir and Pitt as "metropolitan centers" among the other
+overwhelmingly rural counties, work in those three categories accounts
+for fifty-six percent of the District's jobs. Across the state, the
+average is twenty percent. These low-paying, low skill industrial
+sector job categories quickly feel the nation's cyclical economic
+lurches. When building permits drop nationally, the Northeast's trees
+do not. When clothing sales decline, sewing machine operators are laid
+off.</p>
+          <p xml:id="sc04-3_10205">In only two of the Northeast's twenty-two counties do average
+weekly wages exceed or approach the statewide average of
+$222.56. Seven counties reported weekly wages of less than two-thirds
+the state's 1979 average. During that year, North Carolina, which
+became the nation's eighth most industrialized state, ranked fiftieth
+in average weekly industrial wages. Hyde County workers labored for
+the lowest wage in the state, if not the U.S.,--$85.66 a week.</p>
+          <p xml:id="sc04-3_10206">There is a parallel scarcity of unions. In nine Northeast counties
+there isn't a union local at all; in the others only three locals are
+listed in telephone directories. Recent efforts by the United Food and
+Commercial Workers, a progressive union with an emphasis on organizing
+among the poorest paid sectors of the labor market, failed to overcome
+widespread fear among poultry processors in two huge, profitable
+factories. Even those unpleasant jobs were precious to people who know
+other work isn't available. One veteran UFCW organizer, a native of
+Williamston who is based in Asheville, says, "Organizing back home is
+as tough as any place in the South I know of."</p>
+          <p xml:id="sc04-3_10208">Low wages, the large number of unemployed, plus the lack of unions
+dull any prospect for immediate change in 
+<pb xml:id="sc04-3_10207" n="8"/>
+wage patterns. When new
+firms do locate in the Northeast, pay levels remain low despite
+increased competition for labor. For example, a British-owned elastic
+manufacturing firm in 1981 took over a Jamesville building which had
+housed a zipper factory also owned by absentee investors. As an
+official from the elastic firm cut a ribbon to reopen the
+once-abandonded plant, he told Martin County boosters, "Pay scales at
+the company will be commensurate at least with those of the region of
+the state."</p>
+          <p xml:id="sc04-3_10209">By subtracting the public sector portion of the non-agricultural
+jobs, an even gloomier picture of the region's real wage level
+emerges. Persons in government employ tend to be paid at higher hourly
+wage rates than persons in the private sector. Government employees
+comprise about twenty-five percent of all jobs in the Northeast and
+thirty-five percent of the non-manufacturing jobs in the
+region. Across North Carolina, the public sector averages only sixteen
+percent of the total work force, and twenty-five percent in
+non-manufacturing. In some Northeastern counties, Gates, for instance,
+public schools are the largest single employer. And while county
+government exercises control over a few jobs, most government workers
+are managed, hired, and fired by policies or regulations set in
+Raleigh, Atlanta, or Washington.</p>
+          <p xml:id="sc04-3_10210">In December 1981, Governor Hunt told a Military Appreciation Day
+ceremony that the armed forces were more important to the state's
+economy than tobacco. "The military pays out about $1.7 billion
+dollars annually in North Carolina," he said, "while tobacco generated
+about $1.3 billion dollars in wages and salaries in 1981--one of the
+best yet for our number one crop." In 1980, the military pumped $230
+million into the Northeast, primarily to run the Cherry Point Marine
+Air Station, the New River Marine Air Corps Station, Camp LeJeune,
+Johnson Air Force Base, the Fifth District Coast Guard Station in
+Elizabeth City, and the demolition training center operated by the
+Central Intelligence Agency outside tiny Hertford. Over 41,000 persons
+are employed at those installations. Higher than average levels of
+government employment, plus the large concentration of military bases,
+further characterize a colony.</p>
+          <p xml:id="sc04-3_10211">
+            <hi rend="bold">Who Controls the Capital?</hi>
+          </p>
+          <p xml:id="sc04-3_10212">Determining the final resting place for profits gained from the
+region's workers and resources helps to explain why the Northeast has
+a severely limited capacity to form a local capital base. According to
+the 1981-1982 N.C. Directory of Manufacturing Firms, there are 103
+manufacturers employing one hundred or more persons in the First
+Congressional District; only thirty-four of these are headquartered
+within the region. The rest make their decisions and count their
+profits elsewhere, usually far from North Carolina. Of these absentee
+firms, thirty-five, or one-half, are either textile, apparel, or
+lumber producers. And while the 103 firms employ nearly 23,000
+persons, sixty-nine of them, or the majority, control the jobs of
+18,000 persons, according to N.C. Department of Commerce figures. <hi rend="italic">Every one of those sixty-nine firms is headquartered
+outside the Northeast. One is a foreign government.</hi></p>
+          <p xml:id="sc04-3_10213">Still another measure of how the region's resources are drained
+away by absentee capitalists is seen in expenditures for new plants or
+machinery. These capital investments translate into tax revenue for
+local government, indicate a firm's solvency, stability, and,
+importantly, potential for additional jobs. They hint of continued
+plans for operation. Only four of the twenty-two counties are within
+ten percent of the state's average per establishment capital
+investment levels. They are the most urban counties--Beaufort, Craven,
+Lenoir and Pitt. In the rest of the Northeast, capital investments
+ranged from seventy-five to five percent below North Carolina's
+average. Industrial development has paid off less than handsomely for
+local tax coffers. When Peat Methanol Associates announced plans to
+build a $250-million plant on forty acres south of Lake Phelps,
+Washington County officials crowed, "It would be a terrific iprovement
+of our tax base," but were unable to tell "how much of the finished
+plant would be subject to county taxes."</p>
+          <p xml:id="sc04-3_10214">The Northeast's low-wage, low-skill manufacturers produce goods
+with low added-value above the costs of raw materials plus
+labor. According to <title>The 1977 Census of Manufacturing</title>,
+only firms in Pitt and Lenoir approached or exceeded the state's
+average value-added statistics. Thus, industrialization has neither
+translated into prosperity for individual workers nor substantial
+additional tax revenue for local governments.</p>
+          <p xml:id="sc04-3_10215">Tax laws add to the region's impoverishment. The property tax is a
+chief source of funds for North Carolina's schools, human services,
+and some local roads. The Northeast's county and municipal governments
+rely on <hi rend="italic">ad valorem</hi> taxes for revenue. These taxes
+are disproportionately paid by small farmers, or homeowners, and
+storekeepers, rather than owners of the superfarms or the forestry
+industry relative to their profits per acre. Farms and forests are
+taxed according to "use values" instead of "market values," the
+measures used to assess homes, trailers, autos or personal
+property. Land used for farm forestry usually carries a lower assessed
+value than residential, commercial or industrial land use.</p>
+          <p xml:id="sc04-3_10217">For years, North Carolina tax law has exempted timber companies
+from paying taxes on cut-over land for ten years after re-seeding or
+replanting. In 1973, the General Assembly went a step further by
+exempting all 
+<pb xml:id="sc04-3_10216" n="9"/>
+standing timber from the tax base. The impact of their
+decision can be seen in tiny Gates County where 165,000 acres, or 75.5
+percent of all its arable 219,300 acres, is used for forestry. Three
+timber companies owned 57,752 acres in Gates the year the exemption
+bill passed. The previous year, they had paid $7,823.73 on standing
+timber alone, and a total of $21,124 to the tax-poor county which had
+no industry at the time, and can boast only of one small sewing
+factory now. In a single legislative stroke, Gates lost nearly a third
+of the taxes paid by the timber companies. Yet the human problems
+faced by county government persisted. According to the 1980 Census,
+over twenty-four percent of the population was poor, twenty-two
+percent of the houses were substandard, and the unemployment rate
+fluctuated between five and eighteen percent annually.</p>
+          <p xml:id="sc04-3_10218">How valuable was the timber harvested in Gates County that year? On
+one seventy-four acre tract the timber sold for over $302,000. Seven
+yers later--as the tax burden grew heavier as a result of the forestry
+exemptions--Gates County farmers sought relief. They claimed four
+hundred farmers, farm laborers and the county's few businesses paid
+for seventy-five percent of the county revenue needs. Nor was Gates by
+itself. Throughout the region, the <hi rend="italic">ad valorem</hi> tax
+rate is higher than the state average. Greene County has the highest
+rate in North Carolina, at $1.39 per hundred dollars of valuation,
+followed closely by Pamlico and Tyrrell with rates of $1.25 per
+hundred.</p>
+          <p xml:id="sc04-3_10219">As tax rates increase, the incentives for industrial development
+decrease. This forces individual property tax rates to continue to
+climb, making it ever increasingly difficult for small property owners
+to hang onto their land. Adding to this self-perpetuating cycle is the
+regressive state sales tax. One cent of every four collected by the
+state in sales taxes is returned to the counties from which the
+revenue derived. Only a handful of the Northeast's counties possess
+significant trading centers. Elizabeth City, Edenton, Williamston,
+Greenville, New Bern and Kinston qualify, as do Little Washington and
+Roanoke Rapids. However, market magnets such as Fayetteville, Raleigh
+and Durham--even Richmond and Tidewater, Virginia--regularly attract
+the Northeast's shoppers. Rural counties with limited retail sales
+fail to benefit from the sales tax revenues to the degree "market"
+counties enjoy, thus increasing the pressure to tax rural county
+property at higher rates.</p>
+          <p xml:id="sc04-3_10220">
+            <hi rend="bold">How are Government Services Delivered in the
+Northeast?</hi>
+          </p>
+          <p xml:id="sc04-3_10221">Consider the following: According to the Eastern Carolina Health
+Systems Agency in Greenville, the region's health planning
+organization which has the largest geographic area to serve of any
+agency of its kind in North Carolina, sixteen counties are "medically
+under-served and have health manpower shortages." Regarding emergency
+medical care only, the agency found that fourteen of the region's
+hospitals had no twenty-four-hour physician coverage. Eight of them
+did not have registered nurses on duty twenty-four hours daily in
+emergency rooms. Only half the region's ambulances--132 of 264--met
+Department of Transportation standards, and the region was short 513
+ambulance attendants. Partly as a result, the agency noted, the
+region's stroke mortality rates are twelve percent above state
+averages. Motor vehicle deaths are ten percent above state
+averages. Heart attack victims run a ten percent greater risk of dying
+before getting medical attention in the Northeast than elsewhere in
+North Carolina. Getting to hospitals is further complicated by the
+fact that nearly a third of the region's roads are unpaved. In eleven
+counties, the average number of miles of unpaved roads outstrips the
+statewide average of 33.8 percent. In sprawling Beaufort County, for
+instance, over 44.3 percent of the roads are unpaved.</p>
+          <p xml:id="sc04-3_10222">In a 1979 study of the Department of Human Resources listing of
+every county's human service agencies, which included sheriffs'
+departments, jails and prison camps, as well as hospitals, Red Cross
+agencies, or Departments of Social Services, a relationship between a
+county's poverty and scarcity of resources appeared. In Camden County,
+where twenty-one percent of the 5,829 citizens were poor, there were
+thirty-one state or federal agencies, the fewest in North Carolina, to
+provide the available range of services open to other North
+Carolinians. Gates County, which had thirty-two listings, the next
+fewest in the state, had, as has been noted, nearly a quarter of its
+8,876 citizens impoverished. In Hyde County, with thirty-four
+agencies, thirty-seven percent of the 5,875 citizens were poor. There
+was no public housing authority listed in these three counties, yet in
+Camden, nineteen percent of the housing was substandard, in Gates,
+twenty-two percent was below par, and in Hyde County, twenty-three
+percent was substandard. By contrast, in Wake County, seat of state
+government and one point in the affluent Research Triangle, and where
+less than ten percent of the citizens are poor, there are 876
+agencies, the state's highest number. In second place was Guilford
+County with 483, then Forsyth with 412 and Mecklenburg with 353.</p>
+          <p xml:id="sc04-3_10223">Schools are often at the core of citizens' expectations from local
+governments, and they frequently reflect the degree to which
+governments can or will finance human services. Across the region,
+dozens of schools have been left in the lurch and are falling to
+pieces. A Raleigh newspaper found that Bertie County's only high
+school held fifty-four classes daily in three World War II quonset
+huts. Classrooms flooded regularly during rains. Two other Bertie
+County schools had been condemned as unsafe but continued to be
+used.</p>
+          <p xml:id="sc04-3_10224">For the region's older citizens, the picture is hardly brighter. In
+North Carolina, an average of sixty-eight dollars per person was spent
+on Medicaid in 1980. Fourteen of the Northeast's counties spent less
+than the state average, and Northampton spent only thirty-eight
+dollars annually. This dismal listing could continue, but the point
+seems clear: Human services are scarce and supported at levels lower
+than available elsewhere in North Carolina.</p>
+          <p xml:id="sc04-3_10225">
+            <hi rend="bold">Some Conclusions and Prospects.</hi>
+          </p>
+          <p xml:id="sc04-3_10227">There is not a single Northeast county in which the per capita
+income equals or exceeds the state's average, which was $7,382 in
+1979. In Hyde County, the figure was one half the state's average; in
+Greene, it reached ninety-five percent. In the decade between 1970 and
+1980, the Northeast's citizens made no real gains in per capita 
+<pb xml:id="sc04-3_10226" n="10"/>
+income
+if their wages were measured against those of fellow North
+Carolinians. In real terms, adjusted for inflation, the gap remained
+about thirty percent lower. Thus, it is not surprising that nineteen
+of the twenty-one counties reported higher-than-average levels of
+poverty, and in four counties, the number of poor was double the state
+average.</p>
+          <p xml:id="sc04-3_10228">The internal colony metaphor provides insights into some aspects of
+reality, distorts others, but forces attention on a set of
+questions. Some of the Northeast's citizens want to know who controls
+development, and how. A growing number want to regain control of their
+jobs and land.</p>
+          <p xml:id="sc04-3_10229">Long before the state's policymakers told black farmers they were
+an endangered species, those farmers were struggling to survive
+despite predictions, policies and practices bent on eliminating their
+way of life. Decades of planning by the state for a unique seafood
+industrial park in Wanchese--at costs estimated at over $100 million
+in state and federal funds--raised fears among Dare County
+fishermen. "I've always said that the project will destroy us," one
+fisherman told a Raleigh newspaper. "We'll have no control over the
+large corporation which can absorb losses our small operation can't
+stand."</p>
+          <p xml:id="sc04-3_10230">Two lines of strategy have characterized official response to the
+plight of the Northeast. One tack, ever since William Byrd set down
+the eighteenth century dividing line, has been to send in missionaries
+to correct deficiencies thought to be inherently a part of the local
+population's own waywardness. Byrd noted in his famous journal, "
+. . . sometimes the Society for Propagating the Gospel has had the
+Charity to send over Missionaries . . . " to Edenton, whose residents,
+he wrote were "too lewd for the Priest . . . ", lacking ambition
+"enough to aspire to a Brick chimney," wanting in religious devotion,
+and without "the least taint of Hypocrisy, or superstition, acting
+very frankly and above-board in all their excesses." Helping people
+get used to or accept their deprivations continues to this day as the
+chief means which many well-intentioned persons use in Northeastern
+North Carolina.</p>
+          <p xml:id="sc04-3_10231">Others, uneasy about blaming the victims but equally concerned
+about regional shortcomings, have substituted the term "progress" for
+the patronizing "backward." To cure ills, these capitalists argue, a
+modernizing corps must be posted to the region to bolster schools,
+lure new industry, build roads, negotiate tax incentives. The
+Northeastern North Carolina Tomorrow coalition would bring into the
+region scores of professionally-trained persons: experts in hog and
+black dirt farming, medicine, community development specialists,
+economists, and lawyers experienced in corporate finance.</p>
+          <p xml:id="sc04-3_10232">These elite approaches ignore the talents, energies and questions
+of the Northeast's citizens who don't own the banks, newspapers, or
+manage the superfarms. Without local, democratic control over the
+region's resources and the capital needed to develop them, the
+colonial circle will go unbroken. Nonetheless, there are things which
+can be done.</p>
+          <p xml:id="sc04-3_10233">In offering the following suggestions, we recognize the resistance
+posed by the visible and active dimensions of power and also those
+which, as Sister Genino suggested at the beginning of this essay,
+result from generations o. powerlessness. Northeastern North Carolina
+awaits a more thorough going analysis than that which we have
+provided. In the absence of such a regional analysis, as the debate
+goes on, we suggest some possible next steps.</p>
+          <p xml:id="sc04-3_10234">First, small scale, labor intensive farming should be fostered,
+particularly for minority farmers or the young who are virtually
+prohibited from entering farming unless land is inherited. A family
+farm development authority similar to one established recently in
+South Carolina should be created by the Legislature for the
+Northeast. The authority would make long-term, low interest loans to
+persons who earn sixty percent or more of their annual income from
+farming, or who have adjusted incomes of less than $25,000. Absentee
+landownership should be halted as one step in a long-range land reform
+program.</p>
+          <p xml:id="sc04-3_10235">Second, markets should be guaranteed for crop alternatives to
+tobacco, peanuts and corn, particularly the wide range of vegetable
+crops which can be grown profitably in the Northeast but which are as
+often as not imported. One U.S. Department of Agriculture study
+reported that North Carolinians import three fourths of all the fresh
+vegetables they consume.</p>
+          <p xml:id="sc04-3_10237">Third, the timber industry, or N.C. State University, should take
+existing forest management programs into Elizabeth City State
+University and East Carolina University or the region's community or
+technical colleges. The aim would be to upgrade the husbandry skills
+of small-tract timberowners, and to search for alternative marketing
+sources for wood products.
+<pb xml:id="sc04-3_10236" n="11"/></p>
+          <p xml:id="sc04-3_10238">Fourth, the managers and employees of small businesses should be
+provided opportunities to upgrade skills in all phases of their
+businesses at state subsidized training centers at no cost to the
+individuals or businesses. No firm with more than one hundred
+employees would be eligible; nor would any absentee-owned firm.</p>
+          <p xml:id="sc04-3_10239">During the past two decades, small businesses have generated
+sixty-six percent of all the region's new jobs. The state should
+abandon its touted industrial recruitment program and concentrate
+instead on development of enterprises directly related to the region's
+economic needs, the skills of its people, and those marketable uses of
+the region's resources. The state should establish a revolving loan
+fund for democratically managed businesses. This would provide working
+capital or start-up funds for small businesses owned and managed by
+workers themselves.</p>
+          <p xml:id="sc04-3_10240">Fifth, state and local governments should re-examine the impact of
+tax policy, law and formulae on timber, farming, fishing, and small
+businesses; absentee ownership of both land or industry should be
+discouraged through higher taxation. The guiding aim of any review
+would be to insure rural counties a fair share of tax revenues, and to
+insure they are not unfairly drained of resources vital to maintain
+schools and human services, while seeking to spur indigenous economic
+activity.</p>
+          <p xml:id="sc04-3_10241">Sixth, the state should encourage the growth of small scale,
+locally control led energy development through continued solar tax
+credits, demonstrations to small farmers of alternative energy
+options, home insulation rebates, or energy efficiency audits at large
+and small industry sites.</p>
+          <p xml:id="sc04-3_10242">Seventh, the state should provide the necessary technical
+assistance for local county officials seeking to adopt industrial
+development policies which take into account appropriate technology,
+small-scale and locally controlled enterprises, or with qualifications
+which include firm size, ownership, waste discharge, energy
+efficiency, and, particularly, production links with local
+resources.</p>
+          <p xml:id="sc04-3_10243">In the final analysis, however, we residents of Northeastern North
+Carolina must ourselves organize the means to autonomy. We should
+apply pressure on absentee owners, state politicians, county
+administrators, and policymakers at every level. We must close the gap
+between the "lost colony" and the state to which we pledge allegiance
+and pay taxes.</p>
+          <div3 xml:id="sc04-3_029" type="About">
+            <p xml:id="sc04-3_10244">Donna Dyer and Frank Adams are natives of eastern North
+Carolina. Ms. Dyer is a principal with Triangle Planners Network,
+Inc., a nonprofit corporation offering planning and technical
+assistance to community groups. Mr. Adams is the author of Unearthing
+Seeds of Fire: The Idea of Highlander and is a community educator who
+now lives in Gatesville. Maps and illustrative materials for this
+article were prepared by Marge Manderson of the SRC
+staff.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc04-3_010" n="4" type="Article">
+          <head>Paying the Price In Pickens County</head>
+          <byline>By 
+            <docAuthor><name type="person"><choice><reg>Dowe, Kelly</reg><sic>Kelly Dowe</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-06">Vol. 4, No. 3, 1982, pp. 13-14</docDate>
+          
+          <p xml:id="sc04-3_10245">When 69-year-old Julia Wilder of rural Pickens County, Alabama, was
+allowed to transfer from the Julia Tutwiler Prison for Women to a work
+release program in Tuskegee last January, she praised God in
+thanksgiving.</p>
+          <p xml:id="sc04-3_10246">"I thank God for opening the minds of the people here to help us. I
+knew he would work in his own way," said the elderly black woman. She
+and her longtime fellow civil rights worker, 51-year-old Maggie
+Bozeman, were imprisoned Jan. 11 for a 1979 conviction on three counts
+of voting fraud. All-white Pickens juries had found them guilty of
+marking ballots for elderly and illiterate blacks in the 1978
+Democratic primary and runoff. Circuit Judge Clatus Junkin sentenced
+Mrs. Wilder to the maximum five years in prison, and Mrs. Bozeman to
+four. It was the stiffest vote fraud sentence in the memory of state
+officials.</p>
+          <p xml:id="sc04-3_10247">After the women failed in their three-year process of appeals to state
+courts and the U.S. Supreme Court, they made an eleventh-hour plea to
+Junkin for probation. When he refused and immediately dispatched them
+to Tutwiler, the state's penitentiary for women, a public outcry by
+civil rights workers and black political leaders reached a
+crescendo. State officials, including Gov. Fob James, hurriedly met
+and came up with the Tuskegee arrangement. On Jan. 22, 11 days after
+entering prison, the women moved from their common cell to a mobile
+home and jobs in Tuskegee. There they remain, living quiet lives under
+the guardianship of Macon County Sheriff Lucius Amerson, no doubt
+comforted, but still incarcerated.</p>
+          <p xml:id="sc04-3_10248">If the women were thankful for this bit of clemency by the state,
+they surely appreciated its irony as well. Convicted and jailed as
+they were under a system which has no standardized mechanism for
+prosecuting voting violators, and which almost never imprisons those
+transgressors it convicts, the Pickens County women grabbed the brass
+ring. They got to serve time for everyone.</p>
+          <p xml:id="sc04-3_10249">Consider:</p>
+          <p xml:id="sc04-3_10250">* In 1979, a federal grand jury indicted sixteen people in Randolph
+County in east Alabama on charges of voting violations in a 1978
+sheriff's election. The charges included conspiracy, vote buying,
+casting false ballots, soliciting illegal absentee ballots, and voting
+more than one time by an individual. Of the sixteen, seven pleaded
+guilty and received fines ranging from $250 to $500 and suspended
+sentences. Two more were found guilty in federal trials and received
+thousand dollar fines and suspended sentences. A tenth person,
+Randolph County Sheriff Charlie Will Thompson, was convicted on seven
+counts of conspiracy and vote buying. His sentence: a thousand dollar
+fine and three months in jail.</p>
+          <p xml:id="sc04-3_10251">* Secretary of State Don Siegelman received more than eighteen
+complaints about municipal elections in 1980. These included charges
+of persons who had moved to other states remaining on the voting rolls
+in Florala; a candidate in Headland having absentee ballots
+distributed and cast illegally; vote buying in Woodville; and misused
+absentee ballots in the towns of Fyffe, Moulton, Double Springs,
+Bridgeport, Hamilton and Haleyville, among other
+allegations. Siegelman said that as far as he knows, none of these
+situations has resulted in convictions.</p>
+          <p xml:id="sc04-3_10252">* An investigator with the Alabama district attorney's office took
+statements from more than twenty Sylacauga area residents after the
+1978 Coosa County election. The statements alleged coercion by elected
+officials, illegal registration of non-residents and vote
+buying. Neither the Alabama district attorney nor the attorney
+general, however, both of whom were given copies of the
+statements. pursued the matter into court.</p>
+          <p xml:id="sc04-3_10253">* Circuit Judge Clatus Junkin of Pickens County gave the police
+chief of nearby Haleyville a sixmonth suspended sentence in a vote
+fraud case recently. Junkin says the circumstances of the case were
+different from those of the Bozeman-Wilder case. Anyway, he said, the
+police chief had admitted his guilt, which Mrs. Bozeman and
+Mrs. Wilder never did.</p>
+          <p xml:id="sc04-3_10254">In the absence of a statewide elections commission or fair campaign
+practices commission in Alabama, the handling of vote law violators
+obviously is as inequitable as it is varied.</p>
+          <p xml:id="sc04-3_10255">Said Siegelman: "Alabama law is so diversified and decentralized,
+it puts the prosecutorial decisions in the hands of local, elected
+officials. The (state) attorney general has been reluctant to get
+involved for political reasons.</p>
+          <p xml:id="sc04-3_10256">"When it gets down to the district attorney level, many of them are
+hesitant to pursue vote fraud cases. They are elected officials and
+they are prosecuting people for election offenses. From a district
+attorney's standpoint, they just don't like election cases."</p>
+          <p xml:id="sc04-3_10257">Siegelman pointed to further limitations imposed by Alabama law.</p>
+          <p xml:id="sc04-3_10258">"You have to take prima facie evidence to a judge, showing there
+were enough illegal votes cast to make a difference in the outcome of
+the election. The judge will order the examination of the ballots, if
+it's a county with paper ballots, or the voting machines, if it's a
+county with machines.</p>
+          <p xml:id="sc04-3_10259">"But to do that, you would either have to have direct knowledge (of
+voting fraud) or a list of voters. Unfortunately, that list is locked
+up and sealed inside the voting machine or ballot box. It's a Catch 22
+situation which deters any cases filed on the basis of vote fraud."</p>
+          <p xml:id="sc04-3_10260">As for the sentences of the hapless Pickens County women, "I think
+they are out of line for the type of crime they are alleged to have
+committed," Siegelman said.</p>
+          <p xml:id="sc04-3_10261">"Obviously any act that results in votes being stolen or thwarting
+of the Democratic process must be punished. But in this case the
+sentences seemed to be out of line with other acts committed by other
+people in other parts of the state."</p>
+          <p xml:id="sc04-3_10263">The convictions of Wilder and Bozeman stemmed from the assistance
+with absentee ballots they gave to thirty-nine elderly and illiterate
+voters in the 1978 Sep-
+<pb xml:id="sc04-3_10262" n="14"/>
+tember Democratic primary and runoff
+elections. Using testimony of local voting officials and thirteen
+absentee voters, the prosecutors tried to show at the trials that the
+women had used the ballots of the old people to vote many times for
+candidates of their own choosing.</p>
+          <p xml:id="sc04-3_10264">The Pickens County circuit clerk testified that many individuals
+requesting absentee ballots asked her to send their ballots not to
+their homes but to the address of either Mrs. Bozeman or
+Mrs. Wilder. All ballots mailed to those addresses were cast for
+precisely the same candidates, an investigator for the county district
+attorney said. He said that applicants whose requests for absentee
+ballots were signed with an "X" often signed the ballot with a legible
+signature, or vice versa. A Tuscaloosa notary public testified that he
+notarized, at his office, many applications for absentee voting that
+Wilder and Bozeman brought him during the two elections.</p>
+          <p xml:id="sc04-3_10265">Prosecutors called to the witness stand thirteen elderly voters for
+whom absentee votes had been cast. The testimony of many was garbled
+and confusing, and several changed their stories back and forth
+depending on whether the questions were being asked by the prosecution
+or the defense. However, four consistently said they had not voted by
+absentee ballot, and the Alabama Court of Criminal Appeals pointed to
+their testimony when it refused to overturn Mrs. Wilder's
+convictions. The most damaging testimony was that of Sophia Spann, 79,
+whose application and ballot were signed with an "X", and who said she
+always voted at the polls and not by absentee ballot. Moreover, she
+testified that she could read and write and did not spell her name as
+it was written on both documents. She testified that she did not know
+Mrs. Wilder, whose signature was on her application to vote
+absentee. Mrs. Spann said Maggie Bozeman had visited her on election
+day to find out if she had voted.</p>
+          <p xml:id="sc04-3_10266">Robert Goines, 87, testified he had applied for an absentee ballot
+and made an "X" on the application, which Mrs. Wilder witnessed. But
+he said that although he had seen the ballot, he never filled it in or
+signed it, because he could not write. He said he didn't give anyone
+permission to vote for him. Mrs. Lucille Harris testified that
+Mrs. Wilder brought her a paper to sign so she wouldn't have to go to
+the polls. But she said she never received a ballot in the mail, and
+that Mrs. Wilder didn't visit her again. Lula DeLoach testified she
+signed an application for absentee ballot, which Mrs. Wilder brought
+to her house, but she d id not mark any ballot. She said Mrs. Wilder
+had told her she could "sign the paper" and "fix the paper for me,"
+which Ms. DeLoach said she did not object to.</p>
+          <p xml:id="sc04-3_10267">Mrs. Wilder and Mrs. Bozeman pleaded innocent to the charges
+against them. Mrs. Wilder testified at her trial she often helped
+people to vote by absentee ballot in the 1978 elections. She said she
+often picked up applications for absentee ballots at the circuit
+clerk's office, which she distributed herself or through her
+workers. But she said she never had the absentee ballots of other
+voters sent to her own box unless the voter requested her to.</p>
+          <p xml:id="sc04-3_10268">She said she would often have an exchange like this with a
+potential absentee voter: "'What kind of election is this?' I would
+say, 'Well, it's the Democratic.' And they would say, 'That's the way
+I want to vote.'"</p>
+          <p xml:id="sc04-3_10269">"You reckon you will be able to be at the polls?"</p>
+          <p xml:id="sc04-3_10270">"They would say, 'No. You know I can't get around."</p>
+          <p xml:id="sc04-3_10271">"And I said, 'Well, would you like for me to show you how you can
+vote without getting down there?'</p>
+          <p xml:id="sc04-3_10272">"' Yeah.'"</p>
+          <p xml:id="sc04-3_10273">She said she would offer to take the application back to the
+clerk's office once the voter filled it out, and that the clerk would
+mail the voter a ballot.</p>
+          <p xml:id="sc04-3_10274">"And most of the time, 'Would you like for the ballot to come to
+you?'</p>
+          <p xml:id="sc04-3_10275">"And they would answer no, that they weren't able to, you know, get
+it back to me or nobody else, and they would say, 'No, I can't get it
+to you.'</p>
+          <p xml:id="sc04-3_10276">"Would you like for me to--What would you like for me to do--let it
+come to my box, or how would you want it done?</p>
+          <p xml:id="sc04-3_10277">"'Let it come to your box.'" She said she would agree to that and
+to get the ballot back to the absentee voter. She said that when she
+or her workers signed names to absentee ballots, it was with the
+permission of the individual and that the voter would "touch their
+hand to the pen." She said in such visits she took along a sample
+ballot fo the Alabama Democratic Conference, the major black political
+organization in the state, but filled out the ballot only as
+instructed by the absentee voter.</p>
+          <p xml:id="sc04-3_10278">The unanswered question is: Why did the state, which turns a blind
+eye to so many accused voting offenders, allow the Pickens district
+attorney to throw the book at these two women? One marvels at the
+state's self-contradiction: First it flings them into confinement, but
+immediately it fishes them out and sets them up in a work release
+program in a town at the other end of the state. And not just to any
+town, but to Tuskegee, the home of Tuskegee Institute, Booker
+T. Washington and George Washington Carver, a town with a politically
+prominent black mayor and a black sheriff, a town which would give
+comfort and even honor to the two women. Did this transfer amount to a
+pardon? Or was it a sort of apology to the women for their having to
+take the stripes for all voting offenders?</p>
+          <p xml:id="sc04-3_10279">Today, Mrs. Wilder works at a senior citizens center, and
+Mrs. Bozeman teaches at a center for retarded children. Their
+attorneys continue to seek post-conviction relief.</p>
+          <p xml:id="sc04-3_10280">It could be argued that in a fifty-eight percent white, rural
+county, where most elected officials are white, the conviction and
+jailing of two black political organizers would not bring that much
+negative political pressure on the white district attorney, the judge,
+or the jury. Many of those who testified against Mrs. Bozeman and
+Mrs. Wilder made it plain they would not have voted at all had it not
+been for the women's efforts. Many did not know what an absentee
+ballot was. Yet they, and other poor, black residents of Pickens
+County, are a likely group from which any opposition to white elected
+officials would logically come.</p>
+          <p xml:id="sc04-3_10281">Attorney Solomon Seay thinks the prospect of this opposition
+becoming organized was the motivation for the vigorous prosecution and
+stiff sentences given the two women. Forty-two percent of the voters
+can't determine an election, he says, but if they're organized they
+can influence the results. In asking for dismissal of the case, Seay
+and the fifteen character witnesses he put on the stand have charged
+that the case was racially motivated and was contrived to halt black
+voter registration in Pickens County.</p>
+          <p xml:id="sc04-3_10282">"I think if black people do not seize upon this opportunity to
+launch a statewide, effective voter registration campaign to register
+every qualified black person in this state to vote, we will have
+missed a golden opportunity," Seay said.</p>
+          <p xml:id="sc04-3_10283">"That's what this is all about--the efforts of two old black women
+to assist functionally illiterate aged and infirmed blacks to cast
+their votes."</p>
+          <div3 xml:id="sc04-3_020" type="About">
+            <p xml:id="sc04-3_10284">Kelly Dowe its a freelance writer who lives in
+Birmingham, Alabama.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

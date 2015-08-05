@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% load template_filters %}
+
+{% block head-extras %}
+<script type="text/javascript"
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script>function showList() {
+   document.getElementById().style.display = "block";
+}</script>
+<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/contents.css">
+{% endblock %}
+
+{% block title %}Browse - Southern Changes Digital Archive{% endblock %}
+{% block content %}
+{{ block.super }} 
+
+<div class="container">
+ 
+<h1 class="browse">Browse Issues</h1>
+
+<div class="panel-group browse" id="accordion" role="tablist" aria-multiselectable="true">
+  {% for group in groups %}
+  <div class="panel panel-default">
+    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{group.0}}" aria-expanded="true" aria-controls="collapse{{group.0}}">
+    <div class="panel-heading" role="tab" id="heading{{group.0}}">
+      <h2 class="panel-title">   
+      {{group.0}}
+      </h2>
+    </div>
+    </a>
+    <div id="collapse{{group.0}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{group.0}}">
+      <div class="panel-body issue-panel">
+	<div class="issue-list">
+          {% with "1:" as items %}
+          {% for issue in group|slice:items %}
+	  <div class="container-fluid">
+          <a href="{% url "issue_toc" issue.id %}">{{issue.head|strip_head}}</a></td></tr>
+	  </div>
+	  <hr>
+          {% endfor %}
+          {% endwith %}
+	  </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+</div>
+
+{% endblock %}
+
+</html>

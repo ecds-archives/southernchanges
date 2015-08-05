@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc17-1_1204">
+  <teiHeader xml:id="sc17-11201"><fileDesc>
+      <titleStmt>
+        <title>Southern Changes. Volume 17, Number 1</title>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>staff</name>
+        <name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address><idno type="ark" n="sc17-1_002">http://pid.emory.edu/ark:/25593/14trt</idno><idno type="ark" n="sc17-1_003">http://pid.emory.edu/ark:/25593/14tsz</idno><idno type="ark" n="sc17-1_004">http://pid.emory.edu/ark:/25593/14tt3</idno><idno type="ark" n="sc17-1_005">http://pid.emory.edu/ark:/25593/14tv7</idno><idno type="ark" n="sc17-1_006">http://pid.emory.edu/ark:/25593/14twc</idno><idno type="ark" n="sc17-1_007">http://pid.emory.edu/ark:/25593/14txh</idno><availability>
+          <p xml:id="sc17-1_101">1996 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety. For inquiries about commercial uses, contact either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
+        </availability><date>2004</date></publicationStmt>
+      <seriesStmt>
+        <title>Southern Changes Digital Archive</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 17</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date when="1995-03">1995</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc17-1_102">This text is produced in conjunction with the Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
+      </projectDesc>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2004</date><label>Staff</label><name>Beck Center</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc17-1_1203">
+    <body xml:id="sc17-1_1202">
+      <div1 xml:id="sc17-1_001" n="Southern Changes 17:1" type="Issue">
+        <head>Southern Changes. Volume 17, Number 1, 1995</head>
+        <p xml:id="sc17-1_103"><title>Southern Changes</title>. Volume 17, Number 1, <date when="1995-03">1995</date></p>
+        <div2 xml:id="sc17-1_002" n="1" type="Article">
+          <head>Affirming the Affirmative</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Bass, Jack</reg><sic>Jack Bass</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995, pp. 1-3</docDate>
+          
+          <p xml:id="sc17-1_104">In the middle of the current debate over affirmative action, a moment taken to revisit recent history turns out to be surprising, ironic, and instructive. Readers with long memories will recall that
+the concept of affirmative action emerged directly from the judicial crucible of civil rights, the old Fifth Circuit Court of Appeals, head-
+quartered in New Orleans. Before it was divided in 1980, the Fifth Circuit's jurisdiction extended from Savannah to El Paso and covered six states of the Confederacy, including the Alabama and Mississippi that George Wallace and Ross Barnett governed.</p>
+          <p xml:id="sc17-1_105">From the bare bones of the Supreme Court's <hi rend="italic">Brown
+v. Board of Education</hi> decision, a handful of Southern judges
+-- most of them Eisenhower Republicans -- fleshed out a broad mandate for racial justice. Their court became the federal judiciary's equivalent of the civil rights movement.</p>
+          <p xml:id="sc17-1_107">The scholar of the Fifth Circuit, Judge John Minor Wisdom, hammered
+out the Constitutional rationale for affirmative action in a 1967
+school desegregation case, <hi rend="italic">U.S. v. Jefferson</hi>. "The Constitution is both
+color-blind and color conscious," Wisdom wrote. "To avoid conflict
+<pb xml:id="sc17-1_106" n="2"/>
+with the equal protection clause, a classification that denies a benefit, causes harm, or imposes a burden must not be based on race. In that sense, the Constitution is color blind. But the Constitution is color conscious to prevent discrimination being perpetuated and to undo the effects of past discrimination. The criterion is the relevancy of color to a legitimate government purpose."</p>
+          <p xml:id="sc17-1_108">Judge Frank M. Johnson, another of those legendary Southern federal judges who shaped civil rights law, declared in a 1979 address to graduating law students at Boston University, "If the life of the law has been experience, then the law should be realistic enough to treat certain issues as special: as racism is special in American history. A judiciary that cannot declare that is of little value."</p>
+          <p xml:id="sc17-1_109">To argue that affirmative action is somehow a perversion of civil rights laws, as do two self-described "staunch conservative" San Francisco-area academics who are leading a movement to place the issue of affirmative action on the ballot next year in California, amounts to historical nonsense. It would be analogous to making a scientific argument that changes in the atmosphere cause California earthquakes.</p>
+          <p xml:id="sc17-1_1010">The objective of Glynn Custred, anthropologist, and Thomas Wood, philosopher, is to "restore true color-blind fairness in the United States." The problem is that the United States has no history of true color-blind fairness.</p>
+          <p xml:id="sc17-1_1011">In the Dred Scott case in 1857, only three years before the election of Abraham Lincoln, Chief Justice Roger Taney characterized even free blacks "as being of an inferior order, and altogether unfit to associate with he white race . . . so far inferior, that they had no rights which the white man was bound to respect."</p>
+          <p xml:id="sc17-1_1012">The concept that the Constitution is "color-blind," an argument
+heard often these days from conservatives attacking affirmative
+action, comes from Justice John Marshall Harlan's dissent in <hi rend="italic">Plessy v. Ferguson</hi>. That 1896 case established the "separate but equal" doctrine, which provided the legal underpinning for government-imposed apartheid in the American South for the next six decades. The lone dissenter in the <hi rend="italic">Plessy</hi> case, Justice Harlan won no support for his "color-blind" argument from his brethren on the Supreme Court, who represented the prevailing national attitude. So much for "restoring" color-blind fairness.</p>
+          <p xml:id="sc17-1_1014">The Supreme Court struck clown "separate but equal" in 1954 with
+<hi rend="italic">Brown</hi>, but a year later left implementation to the lower courts with little direction other than to proceed "with all deliberate speed." How to reconstruct an entire social order became a problem for judges in the South to solve. That the courts successfully prevailed amounts to
+<pb xml:id="sc17-1_1013" n="3"/>
+no less than Judicial Reconstruction, a more lasting achievement than the Congressional Reconstruction that followed the Civil War.</p>
+          <p xml:id="sc17-1_1015">Judge Wisdom provided in <hi rend="italic">Jefferson</hi> more than the intellectual rationale for a Constitutional basis to "undo the effects of past discrimination." He also recognized "the fact that Negroes collectively are harmed" by segregation.</p>
+          <p xml:id="sc17-1_1016">"The unmalleable fact transcending in importance the harm to
+individual Negro children," Wisdom asserted, "is that the separate school system was an integral element in the Southern States' general program to restrict Negroes as a class from participation in the life of the community, the affairs of the State, and the main-stream of American life: Negroes must keep their place."</p>
+          <p xml:id="sc17-1_1017">At the same time that Judge Wisdom was writing this 1967 opinion, Martin Luther King, Jr., was moving into Chicago and exposing racism in the North. It's easy to forget that little more than two decades ago neo-Nazis demonstrated in suburbs of Chicago and the Ku Klux Klan held rallies in Boston.</p>
+          <p xml:id="sc17-1_1018">In the current political battle over affirmative action, its defenders need to strengthen their case by engaging in straight talk. Because he claims the "bully pulpit" of the presidency, Bill Clinton clearly should be the logical leader.</p>
+          <p xml:id="sc17-1_1019">President Clinton could remind the public that affirmative action developed from a recognition by the courts of the need to overcome the effects of past discrimination, that this remedy is necessary to establish a truly just society. The statistics are out there to demonstrate both that affirmative action has been successful (for example, the development of an expanded black middle class and
+the transformation of women in the work force) and that the job clearly isn't over.</p>
+          <p xml:id="sc17-1_1020">At the same time, it is necessary to acknowledge that affirmative action does involve sacrifice and pain -- from beneficiaries who may feel stigmatized as well as white men who feel victimized, that its enforcement requires careful monitoring to prevent or eliminate abuses, and that it is unrealistic to expect to undo in a generation the effects of centuries of past discrimination.</p>
+          <p xml:id="sc17-1_1021">Clinton also could create a Presidential Commission on National Unity, a measure that has received White House consideration. Such a Commission could draw attention to successful programs, including that of the military, which began to integrate well before the court mandate and which has developed an extensive body of research and training to deal with issues related to race.</p>
+          <p xml:id="sc17-1_1022">The President could ex-plain that affirmative action did not emerge as a Democratic political initiative, but as a legal concept developed primarily by a group of widely honored Re-publican judges -- that its history is bipartisan.</p>
+          <p xml:id="sc17-1_1023">The American legacy of racial discrimination remains to be overcome. To defend affirmative action, presidential leadership needs to establish the moral high ground, explain the public interest in working to achieve a just society and make
+the case for persistence and patience.</p>
+          <div3 xml:id="sc17-1_022" type="About">
+            <p xml:id="sc17-1_1024">Jack Bass is professor of journalism at the University of Mississippi and author of two books about Southern judges and civil rights: Unlikely Heroes and Taming the Storm, a biography of Judge Frank M. Johnson, Jr.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc17-1_003" n="2" type="Article">
+          <head>Gone Country: Cecelia Tichi and the Politics of Writing
+About Country Music</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Whisnant, David E.</reg><sic>David E. Whisnant</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995 pp. 4-10</docDate>
+          
+          <bibl>Cecelia Tichi, High Lonesome: The American Culture of Country Music. Chapel Hill: University of North Carolina Press, 1994. xiii, 318 pp., with 23-track CD. $39.95.</bibl>
+          <p xml:id="sc17-1_1025">For a long time I have said, only half-jokingly, that the
+millennium cannot not come until <hi rend="italic">everybody</hi> listens to and plays country music. And since so little serious attention was paid to it before about 1965, I usually welcome each new book--from the slick "as told to" autobiographies and Opryland coffee table books to the scholarly biographies and analytical studies. Even the most superficial books contain some useful information, and the best deepen our understanding of and commitment to the music. Having written some books myself, I am also aware of what a taxing labor of love it is, and of how hopeful and vulnerable one feels once the finished product is out there.</p>
+          <p xml:id="sc17-1_1026">At the same time, the politics of writing about country music are at least as complicated as the politics of the music itself. This is especially so in the current environment of country chic ("gone country, look at them boots") , cultural studies, and blandly tolerant multiculturalism, all of which tend to make country music both more legitimate in the academy and more lucrative in the market-place. So if one sets out to write a book about country music, it behooves one to be careful, and modest in one's claims. But Cecilia Tichi has gone country full-speed ahead, with nary a look back and (one judges) nary a doubt about her competence to bring heretofore unheard-of insight to the subject, never mind that until seven years ago her ignorance of country music was (as she admits) "oceanic" (p. viii).</p>
+          <p xml:id="sc17-1_1027">Well, seven years is quite a spell, actually, and one can learn a
+lot in such a time. So what has she learned? What does she have to say
+that is new, useful, insightful or important about country music?
+Tichi's own estimate is that she has in a single stroke boldly thrust
+herself into the scholarly vanguard, her timid predecessors having
+shunned a music "linked to white poverty--white trash'--and racial
+oppressiveness" for fear of being "found guilty by association."<ref target="#sc17-1003n1">1</ref>Perhaps only a scholar/teacher of American literature" such as herself, she says, "someone steeped in the standard or canonical American texts year in and year out, then transported to Nashville . . . and immersed for five years in its musical traditions, [could] see the connections developed in <hi rend="italic">High Lonesome</hi>" between Dolly and Ralph [Waldo Emerson], Hank and Walt [Whitman], and Emmylou and Mark [Twain]--in a word, between low country and high culture (p. x).</p>
+          <p xml:id="sc17-1_1028">As Tichi claimed to an interviewer from the <hi rend="italic">Cultural Studies Times</hi>, not only is this virtually the first book to do with country music what must be done in order for us mere listeners to truly understand it, but it is also an epochal event in the history of publishing on any subject. By the middle of the twenty-first century, she says, a book like <hi rend="italic">High Lonesome</hi>, combining print, photos, and "an audio CD" will be seen "as an important transition between the traditional book and the computerized one, a way-station between Gutenberg and Bill Gates."<ref target="#sc17-1003n2">2</ref></p>
+          <p xml:id="sc17-1_1029">Well, now, as my favorite down-home comic Jeff Foxworthy says,
+"Wait just a damn <hi rend="italic">minute</hi>!" These are some
+pretty high falutin' claims: a <hi rend="italic">single</hi> book
+jerks the timid academics up by their collars, puts Hank in touch with
+Walt and Dolly in touch with Ralph (what one wouldn't give to see <hi rend="italic">that</hi>!), builds a way-station between Gutenberg and Gates, and establishes belatedly but once and for all that country music is <hi rend="italic">really</hi> about the Great Themes of American Literature and Art. Now, thank God, the rest of us can go on liking it not only without being secretly ashamed of ourselves, but also being both clued in and logged on.</p>
+          <p xml:id="sc17-1_1030">Some critics have agreed. In a Christmas Day review in my hometown
+Raleigh (NC) <hi rend="italic">News and Observer</hi>, Frye Gaillard praised Tichi as an astute scholar and a "sharp-eyed student of American culture" who "sees country in all its breadth" and "illuminates the strains and contradictions of our culture." Instead of being the book's merits, however, these are in fact precisely its major problems: its thin scholarship, its narrowness, its pretentious globalizing of country music into "American" music, and its very tentative grasp of the "strains and contradictions" within the larger culture.</p>
+          <p xml:id="sc17-1_1031">As for scholarship, Tichi apparently hasn't done much on country
+music itself. Her bibliography includes a total of seven of the dozens of serious scholarly books on country music of the past several decades (such as--just for starters--those in the University of Illinois Press's Music in American Life Series), and--except for Doug Green's long <hi rend="italic">Journal of Country Music</hi> (1978) piece on singing cowboys--no serious journal articles out of the hundreds now available. A total of five interviews are listed (Barry Tashian, Holly Tashian, Patsy Montana, Rodney Crowell, Richard Bennett), although several more appear to have been conducted. Hence what Tichi presents as nothing less than a paradigm-challenging set of "new ideas about cultural relations" (p.6) turns out to be something considerably less than new--and scarcely even tenable--to anyone who has read much about or listened to much country music.</p>
+          <p xml:id="sc17-1_1032">Breadth? <hi rend="italic">High Lonesome</hi> is essentially
+ahistorical in its approach and narrow in its coverage. To Tichi,
+"country music" is country music is country music--in all times
+and places, by all performers, regardless of subgenre--and can be endlessly generalized about. Tichi's grasp on either the contributing musical streams (traditional or commercial) or regional cultural differences is minimal. To her, late nineteenth century fiddlers (p. 151) fall neither less nor differently within the rubric than do Johnny Cash or opera singer gone country Kathy Chiavola. A thoughtful comparison between Chiavola in the nineties and Vernon Dalhart in the twenties might have been illuminating, but no such comparison is forthcoming.</p>
+          <p xml:id="sc17-1_1033">This book, it turns out, is for all practical purposes not about the complex past and present of country music at all, but about Cecelia Tichi's short-term, mostly serendipitous, and above all personal encounter with some bits of it--mainly, it appears, the Tashians and Emmylou Harris, Rodney Crowell, and Dolly Parton. The latter three, she asserts, "are a pivot to the past and a touch-stone for the present and future of country music" (p. 18). Harris figures most prominently of all: there are at least seven photographs of her (pp. 14, 96, 97 [two photos], 164, 166). Moreover, Tichi's 184-item discography (pp.279-84) includes one song each by Fiddlin' John Carson, George Jones, Kitty Wells, and Tom T. Hall, two each by the Carter family, Roy Acuff and Bill Monroe, three by Johnny Cash, four by Merle Haggard, Loretta Lynn and Tammy Wynette, a half-dozen or so each by Gene Autry, Jimmie Rodgers and Hank Williams, nine or ten each by Dolly Parton and Rodney Crowell, and twenty-six [sic] by Emmylou Harris.</p>
+          <p xml:id="sc17-1_1034">The best of the book is to be found in its final two chapters, which contain a long interview with Rodney Crowell and some thoughtful profiles of a couple of young producers (Mike Lawler and Richard Bennett), several young newcomers (opera singer Kathy Chiavola, classical violinist Andrea Zonn, bluegrass fiddler Laurie Lewis), and the ever-present Tashians. Some friend or colleague of Tichi's could have done her a favor by advising her to focus her book on such materials--where, it appears, she might actually have constructed a sustainable argument and made a substantial fresh contribution. Such advice might have (mercifully) prevented her from leaping to the embarrassingly premature conclusion that it was up to her to explain in some all-inclusive way what she fancied had never before been dreamt of in anybody's country music philosophy.</p>
+          <p xml:id="sc17-1_1035">But one must take the book as it stands. Tichi's principal thesis
+is that, properly understood, country music is <hi rend="italic">national</hi> music, a quintessentially <hi rend="italic">American</hi> music too long neglected by those whose
+business it is to know and understand things. The book's epigraph
+comes from Chet Atkins: "Country music is our heritage. They oughta
+teach it in the schools." Well, calling country music "our heritage"
+in any global or inclusive way is highly problematic, even if Chet
+himself did it. The assertion is reminiscent of the movement in
+Congress some years ago to declare square dance the "American national
+dance." Understandably, a lot of blacks, Jews, Native Americans, and
+other cultural subgroups not accustomed to bedecking themselves in
+checked shirts and crinolines begged to differ. Country music is a
+very important <hi rend="italic">part</hi> of our national experience, to be sure, and one worth taking seriously. But the leap from there to globalizing it as "our [national] heritage" is a long and risky one, and the means Tichi chose to do it riskier still.</p>
+          <p xml:id="sc17-1_1037">What are the means? Logically, the formula is straight-forward: The
+term "country" in country music, she asserts, "is synonymous with
+nation" (p. 1; an assertion in support of which she would be hard
+pressed to offer one shred of evidence) . This country/national music,
+like the Best of Our Literature and Art, deals with the Great Themes
+of Our National Experience (home, the road, loneliness, the West,
+hillbillies, the spiritual journey, and nature). The music deserves,
+consequently, to be taken
+<pb xml:id="sc17-1_1036" n="6"/>
+as seriously as the standard canonical works, to which it has heretofore not been (properly) understood to bear such a striking resemblance.</p>
+          <p xml:id="sc17-1_1038">Practically, what happens in the book is that Tichi explores a long series of what she considers to be parallels (identities, she usually asserts) between selected themes of country songs ("country" in her indiscriminate, globalized sense) and those of canonical works: this, that, or the other Great Theme in this, that, or the other country song and canonical work (novel, story, painting, poem, statue, whatever). In her search for parallels, Tichi invokes not only the canonical Great Artists one might most expect (Whitman, Sherwood Anderson, Currier and Ives, Edward Hopper--though not Charles Ives, oddly enough), but also a raft of more esoteric and elite others presumably unfamiliar to the average philistine listener (Wallace Stevens, Pablo Picasso, Giacomo Puccini, Maria Callas, Ruggiero Leoncavallo).</p>
+          <p xml:id="sc17-1_1039">But alas, there are serious problems both with this logic, and with
+how it gets implemented in the book. One persistent problem is Tichi's
+apparent unfamiliarity with musical analysis in general. A glaring
+example is her "explanation" of the "Nashville number system" used to
+designate chord progressions (p. xi). Far from having anything in
+particular to do with Nashville, however, that notational system has
+been widely used in musical analysis at least since the eighteenth
+century.<ref target="#sc17-1003n3">3</ref> Other terminological problems abound: "Wayfaring Stranger"
+is "a traditional country-folk song" (p. 173); Hazel Dickens belongs
+to "the so-called 'primitive' country-folk tradition of singers"
+(p. 215), and so on. Even Tichi's title itself is misleading: in its
+conventional usage, "high lonesome" has referred specifically to a
+certain vocal style usually thought of--appropriately or
+not--as Appalachian (as in John Cohen's film on Roscoe Holcomb);
+more loosely, it has been applied to bluegrass vocal style. Using it
+as Tichi does to apply to country music in general conflates vocal
+style with overall musical style and repertoire, and elides the
+enormous differences one hears (vocally and otherwise) between Bill
+Monroe and Jim Reeves, Molly O'Day and Nanci Griffith, and countless
+other individuals, styles, and subgenres one might easily name.</p>
+          <p xml:id="sc17-1_1040">However confused and confusing the terminology, three highly questionable assumptions lie at the base of the book's many problems: (1) the repeated occurrence of a particular motif in country music is evidence that the music is in some deep, pervasive way "about" that motif, and that whenever and wherever the motif occurs, it is treated in the same highly predictable way; (2) if the same root motif (home, road) appears in two cultural artifacts, it means the same thing in both; and (3) the presence in country music of a set of repeated themes also prominent in canonical works certifies it as "our national music."</p>
+          <p xml:id="sc17-1_1042">The first of these assumptions seduces Tichi into innumerable facile and misleading generalizations about country music's complex past and present, and blinds her to the nuances and contradictions wherein much of its expressive interest and power lie. When one reads, for example, of Merle Haggard "with his raw ballads of drifting, drinking, and chip-on-the-shoulder individualism" (p. 12), one wonders whether this is a different Merle Haggard from the one who sings "Hungry Eyes"
+<pb xml:id="sc17-1_1041" n="7"/>
+and "The Way I Am."</p>
+          <p xml:id="sc17-1_1043">The second assumption drives Tichi's dubious project of rehabilitating country music by promoting it to canonical status and by elevating the mere existence of a superficial similarity above the far more important issue of how any particular work (canonical or not) treats any particular motif or theme. And the third assumption is based on a concept of "national" experience long since rendered useless by careful analyses of regional, gender, racial, class, and occupational differences within the body politic.</p>
+          <p xml:id="sc17-1_1044">So how does this scheme work out, chapter by chapter? Limitations of space demand that a few examples stand for a host of problems. Perhaps the
+most pervasive and fatal problem is that of conflation: to Tichi, a
+home is a home is a home, whether it is "The Little Old Log Cabin in
+the Lane," "This Ole House," "Home On the Range," or Tom T. Hall's "Homecoming" (pp. 20-25); all are grist for generalizations about "home songs in country music," for which Tichi invokes Laura Ingalls Wilder's <hi rend="italic">Little House</hi> as the paradigm (pp. 32-35, 79-81) . Thus when Tichi asserts that in country music (as in the culture generally) the "mythic American <hi rend="italic">home</hi>, is fixed and unchanging" (p. 45), one wonders what happened to "The Grand Tour," "Yard Sale," or "Pretty House for Sale."</p>
+          <p xml:id="sc17-1_1045">Similarly, one road is as good a comparative example as another for
+representing your "typical country music road song" (p. 54): the
+National Road, the Chisholm trail, Route 66, the <hi rend="italic">camino real</hi>, the open ocean of <hi rend="italic">Moby-Dick</hi>, Huck Finn rafting on the river (or slaves sold down it), the Trail of Tears (I am not making this up), and the road Frederick Douglass took away from slavery on the eastern shore of Maryland (pp. 58, 61, 63, 70, 71). Within such an analytical framework, Hank Williams "dies on the road to Canton and is reincarnated on the Western road of the cattle drives" (p. 69), if you can believe that.</p>
+          <p xml:id="sc17-1_1046">In the same way, when you get right down to it, all loneliness is pretty much the same--to the Carter Family, to Jimmie Rodgers, to Hank Williams, to all and sundry. Thus Tichi's "high lonesome" chapter--far from illuminating anything about how particular country artists or songs have made particular statements about particular kinds or states of loneliness--is about how the generic loneliness in generic country music is like the generic loneliness of a putatively American national character (p. 102).</p>
+          <p xml:id="sc17-1_1048">These problems of conflation and generalization persist throughout
+the book. Tichi's discussion of the "wild wild West" is nearly
+completely ahistorical both with regard to the West itself and with
+regard to country music (again, undifferentiated as to period,
+performer, or subgenre). Her chapter on the West claims that "From
+this music's earliest years, country artists embraced the West in
+song" (pp. 104, 107). Titles, images and brief phrases intended to
+substantiate her global assertion tumble in undifferentiated
+profusion; only Tex Ritter's "High Noon" and Willie Nelson's "Mama,
+Don't Let Your Babies Grow Up to Be Cowboys" receive more than cursory
+mention. It is as if the complex changes one in fact observes in
+moving from Jule Lane Allen through Gene Autry to the Girls of the
+Golden West and on to
+<pb xml:id="sc17-1_1047" n="8"/>
+Kinky Friedman's "Ride 'em Jewboy," Michael Martin Murphy's "Cosmic
+Cowboy" and the current "hat acts" did not exist. The bulk of the chapter focuses, it turns out, not on country music at all (however defined), but on Fenimore Cooper's Leatherstocking, Ralph Waldo Emerson's "Self Reliance," and Gary Cooper's performance in <hi rend="italic">High Noon</hi>.</p>
+          <p xml:id="sc17-1_1049">Thus when Tichi attempts to generalize from "American" culture to
+country music, the central problem is that country music gets blanded
+out--generic-ed, if I may be permitted the term. But when in her
+newfound enthusiasm she generalizes back from her generic country
+mu-sic to the larger culture, yet other serious problems
+emerge. Discussing loneliness, for example, she asserts that not only
+is country music "about" it, but that outside the music, the "subject
+appears muted, submerged, oblique, absent outright. Print texts and
+visual arts barely seem to register the lonely state of mind." A
+"taboo of denial" surrounds the topic; it is "muted, half-hidden,
+suppressed, treated like a kind of skeleton in the American closet."
+Fortunately, however, country "owns" the theme, which it "has a
+special cultural license" to treat. Country is a "reservoir for the
+expression of the loneliness of this nation," a "secret map" to such a
+state of mind(pp. 82-87). There is no other way to say it: this is
+arrant nonsense. Certainly such assertions would come as a great
+surprise to a host of American writers, from Melville (Ishmael and
+Bartleby, pre-eminently) through Poe and Emily Dickinson to Thomas
+Wolfe's Eugene Gant ("Lost, oh lost, and by the wind grieved, ghost
+come back again!") and onward.<ref target="#sc17-1003n4">4</ref></p>
+          <p xml:id="sc17-1_1050">But conflation and insupportable generalization are not the only
+problems. When the evidence she needs is not available, Tichi
+sometimes fabricates it. She argues, for example, that Hank Williams shows "a reluctance to say outright how profound is the cost of loneliness," and that his listeners collude with him "not to state outright what both know." Thus in "I'm So Lonesome I Could Cry," "<hi rend="italic">cry</hi> is a code word ... [that] drives the real meaning into hiding." So first-time listeners (who "know the essential word is <hi rend="italic">die</hi>") hear "cry" as "die" (p. 101) . Nonsense. In the first place, "die" is clearly articulated two lines earlier ("When leaves begin to die") and the subsequent "could cry" alliteration is perfectly clear. Moreover, if loneliness and its costs are not overt and explicit in Hank Williams, then nothing is. Thus, what Tichi presents to us as dazzling insight comes off as considerably less than that.</p>
+          <p xml:id="sc17-1_1051">The combination of conflation, insupportable generalization, and
+outright fabrication that characterizes much of Tichi's book reaches
+its apogee in her discussion of the "red red rose" motif/theme. In what she implies is an uncommonly illuminative insight, she asserts that the rose "can open up certain American public attitudes to-ward country music" (p. 133), helping us understand the culturally biased politics of its public reception. Specifically, we are given to understand, country music is "about" a "war of the roses": the cultivated American beauty (of the Biltmore House and Gardens, say [pp. 131-32]) vs. the wild rose, which is the "floral symbol" of the hillbilly--ergo, the "hillbilly rose" which is the "central figure" in American "free wildness" (pp. 136-41). So it is Hester Prynne of <hi rend="italic">The Scarlet Letter</hi> vs. Eddie Arnold's "Bouquet of Roses," Notre Dame's rose window vs. Margaret Fuller's <hi rend="italic">Summer on the Lakes, in 1843</hi>, George Vanderbilt's rose garden vs. Dolly's dulcimer (p. 139).</p>
+          <p xml:id="sc17-1_1053">Some pages of this, and one is impelled to say, "Come <hi rend="italic">on</hi>, now!" In the first place, the history of the
+Appalachian region and its status as a complex image and symbol in
+American culture have been carefully re-researched and rewritten
+during the past thirty years, and so far as I know there is not one
+<hi rend="italic">shred</hi> of evidence to support Tichi's contention
+that the wild rose is even a widely <hi rend="italic">recognized</hi>
+(to say nothing of the central) symbol of the hillbilly.<ref target="#sc17-1003n5">5</ref> In the
+second place, Tichi's determination that it <hi rend="italic">shall be
+so</hi>, regardless, leads her to force and even to fabricate
+evidence. Thus Sally Rose of Emmylou Harris's <hi rend="italic">Ballad of
+<pb xml:id="sc17-1_1052" n="9"/>
+Sally Rose</hi> becomes "the backwood . . . wild hillbilly Rose" (p. 158) despite the fact that the first stanza of the title song says she was born "in the Black Hills of South Dakota," and nothing else on the album (save one reference to "the Shenandoah hills") ever links her with anything specifically hillbilly.</p>
+          <p xml:id="sc17-1_1054">Tichi handles some of her high-culture examples in a similarly
+high-handed way: comparing William Merrit Chase's two paintings
+"Portrait of Miss Jessup" (cultivated roses on her dress) and
+"Carmencita" (wild roses dropped by her feet), she asserts that the protagonist of Bizet's opera <hi rend="italic">Carmen</hi> is "a hillbilly wild rose" (pp. 160-61). Never mind that Carmen has consistently been portrayed (and recognized) as a gypsy rather than a hillbilly--between which there are major and important differences--and that the Chase portrait of her looks like every gypsy (and no hillbilly) you ever saw.<ref target="#sc17-1003n6">6</ref> There is in fact no end to it: the rose on Emmylou Harris's guitar marks her as "wild"--"Wild like Thoreau ... Hillbilly wild" (p. 164). <hi rend="italic">Emmylou</hi> as a wild rose? <hi rend="italic">Thoreau</hi> as a hillbilly? Go figure.</p>
+          <p xml:id="sc17-1_1055">There is more (in numerous aspects of her consideration of country
+as "nature's music," for example), but one wearies. Ultimately one
+wonders for whom this book was written. To anyone who knows much about
+country music, the bulk of it will seem silly (the admiring statement
+by my good friend, Country Music U.S.A. author Bill Malone, on the
+dust jacket to the contrary notwithstanding). To the New York
+sophisticates (like reviewer Nicholas Dawidoff), it "glitters like
+rhinestones with Ms. Tichi's enthusiasm but is, alas, something of an
+Arkansas diamond in the reading"; its observations tend to be "mere
+bromides" (as in the long riff on roses). Ultimately it is "a bit
+pretentious--quite a sin when the subject is country music." <ref target="#sc17-1003n7">7</ref> Writing for a less high-toned audience in <hi rend="italic">Time</hi> (July 25, 1994), Malcolm Jones, Jr. is a bit more sensitive to the cultural politics of hillbilly symbolism (the "only minority not protected by the bylaws of political correctness") and country music (which he says "forfeited its soul" when it got rid of "rhinestone suits and beehive hairdos"). Nevertheless, he finds Tichi's treatment "entirely too tasteful," and says her book "raises the suspicion that country will not be done in by friends in low places but by new pals in high culture." Why? Because in his view "a unique American art" of universal appeal like country music emerges only when somebody like Hank Williams can wed "guilty pleasures" to those "great themes" Tichi is interested in. So far, so good. But what is Jones's notion of what country music ought to be doing? Mainly making sure that the idiom "never stray[s] from the rudiments of hillbilly songwriting." In his view, maybe only Bill Monroe among them all retains "that old spit-in-your-eye hillbilly defiance" he contends is the essence of country music. Which, unfortunately, gets us exactly nowhere, since what appears to trouble Jones is precisely that he likes his hillbillies and misses them when they are (apparently) gone.</p>
+          <p xml:id="sc17-1_1056">So where do we go from here to write about country music? We are
+now in at least the third, and maybe the fourth, wave of serious writing about it. In the late 1940s and 1950s pioneers like Archie Green, D. K. Wilgus, Bob Pinson, Eugene Earle and others compiled the first primitive discographies and bibliographies, put out the first newsletters, and wrote the first articles. In the late 1960s and 1970s, Bill Malone, Ed Kahn and others wrote the first serious articles, dissertations, and books, which concentrated mainly on laying out the historical narrative and pinning down crucial details. Still later came more specialized biographies and studies by Mary Bufwack and Robert Oermann, Norm Cohen, Robert Coltman, Richard Peterson, Nolan Porterfield, Neil Rosenberg, Charles Townsend, Ivan Tribe, Charles Wolfe and many others. More recently, a few books and articles have begun to explore more conceptually sophisticated lines of analysis. Pre-eminent among them is Robert Cantwell's <hi rend="italic">Bluegrass Breakdown</hi> (1984), but younger scholars such as Mark Fenster, Aaron Fox, Richard Leppert, and George Lipsitz are also making major contributions.<ref target="#sc17-1003n8">8</ref> All of this constitutes an enormous gain, and much of it was achieved by people working nights after long days on unrelated jobs (Pinson, Green, Earle, and Cohen come especially to mind), or whose conventional academic departments (English, History, Anthropology) couldn't understand why they would want to waste their time writing about country music.</p>
+          <p xml:id="sc17-1_1058">But now we are in a new phase--in the era of fuzzy
+<pb xml:id="sc17-1_1057" n="10"/>
+disciplinary boundaries in the university, cultural studies as a modish orientation for scholars, multiculturalism as a focus in the media, and (above all) everybody and his brother and sister going country (look at them boots). This is a situation both promising and fraught with some peril. Since some of the books that most need to be written to carry serious analysis of country music forward will be unlikely to find commercial publishers, university presses will be called upon to publish them, as they should be. With the notable exception of the University of Illinois Press (with their now extensive Music in American Life series), Kentucky, Tennessee, and Texas, how-ever, university presses have thus far done relatively little with country music.</p>
+          <p xml:id="sc17-1_1059">Unfortunately, the opening to do something significant comes just as the presses find themselves under increasing financial pressure from stingier and stingier state legislatures, smaller university subventions, and declining library sales. Consequently they are scrambling to find a few highly marketable books to pay the way for less marketable ones (North Carolina recently picked up some of the best-selling Foxfire books, for example).</p>
+          <p xml:id="sc17-1_1060">As the economic situation for university presses worsens within the
+current political climate (as it inevitably will), the temptation with regard to books on country music will almost inevitably be to shape and position those books for a niche as money makers in the popular market. Duke University Press has already invited Tichi to edit a special issue of <hi rend="italic">South Atlantic Quarterly</hi> on country music). To the extent that such pressures continue to operate and such choices continue to be made, serious work on country music will suffer. And for that, we will all be the losers.</p>
+          <p xml:id="sc17-1_1061">One might reasonably infer that the handling of Tichi's book by the
+University of North Carolina Press was perhaps conceived at least
+partly to position the Press in this new potential niche. It was in
+any case lavishly designed and produced, and is being aggressively
+promoted. In these straitened times, there are nevertheless nearly 140
+color and black and white photos (all but three of the color ones also
+reproduced in black and white). Pages are generously-sized, margins
+are wide, and typography is elegant. For good measure, a CD is tucked
+into the back; it has "23 tracks," we are promised--double the
+number on your usual run-of-the-mill CD.<ref target="#sc17-1003n9">"9</ref></p>
+          <p xml:id="sc17-1_1062">To return to my opening point: I welcome serious attention to
+country music, from whatever quarter, and applaud the new openings to
+write about it that issue from whatever changes, inside the university
+or out. But one risk of those openings is that scholars may be tempted
+by the presumed analytical power of their method to write about
+subjects about which they in fact know little if anything. As in this
+case, the results are likely to be disappointing.</p>
+          <p xml:id="sc17-1_1063" rend="bold">NOTES</p>
+          <note xml:id="sc17-1003n1" n="1" place="end"> <hi rend="italic">Cultural Studies Times</hi> 1 (Fall 1994), p. A7.</note>
+          <note xml:id="sc17-1003n2" n="2" place="end"> <hi rend="italic">Cultural Studies Times</hi> (Fall, 1994), p. A7.</note>
+          <note xml:id="sc17-1003n3" n="3" place="end"> See for example Stanley Sadie (ed.), <hi rend="italic">The New Grove Dictionary of Music and Musicians</hi> (20 vols., NY: Macmillan, 1980), 8:175-79 ("Harmony--Basic Concepts").</note>
+          <note xml:id="sc17-1003n4" n="4" place="end"> Tichi goes to similar extremes in discussing the West. Country music "gives voice to ... the [individualist] American who otherwise is mute," she asserts (pp. 121-22), leaving one--in the face of overwhelming evidence that individualist Americans (eastern or western) have never, ever lacked a voice--mute with astonishment.</note>
+          <note xml:id="sc17-1003n5" n="5" place="end"> The scholarship generated by this revisionist enterprise is too
+vast even to begin to cite here. One might at least begin with Harry
+Caudill, <hi rend="italic">Night Comes to the Cumberlands</hi> (1963);
+Henry Shapiro, <hi rend="italic">Appalachia on Our Mind: The Southern
+Mountains and Mountaineers in the American Consciousness</hi> (1978);
+Ronald D. Eller,<hi rend="italic"> Miners, Millhands and Mountaineers
+</hi>(1982) ; David E. Whisnant, <hi rend="italic">All That Is Native
+and Fine</hi>: <hi rend="italic">The Politics of Culture in an
+American Region</hi> (1983); Altina Waller, <hi rend="italic">Feud: Hatfields, McCoys and Social Change in Appalachia, 1860-1900</hi> (1988); and J. W. Williamson, <hi rend="italic">Southern Mountaineers in Silent Films: Plot Synopses of Movies About Moonshining, Feuding and Other Mountain Topics, 1904-1929</hi> (1994) and <hi rend="italic">Hillbillyland: What the Movies Did to the Mountains and What the Mountains Did to the Movies</hi> (1995). Shapiro, Whisnant, Waller, and Williamson (1995) were all published by the University of North Carolina Press, which has supported and continues to support revisionist historical writing on Appalachia.</note>
+          <note xml:id="sc17-1003n6" n="6" place="end"> Cf. John Warrack and Ewan
+West, <hi rend="italic">The Oxford Dictionary of Opera</hi> (New York:
+Oxford University Press,1992), p. 118. In Bizet's <hi rend="italic">Carmen</hi>, there is in fact a country girl, but her name is Micaela, not Carmen. Oscar Hammerstein's remake of the opera, <hi rend="italic">Carmen Jones</hi> (1943), was set in Chicago and the South, but not the mountain South; the cast was all Negro.</note>
+          <note xml:id="sc17-1003n7" n="7" place="end"><hi rend="italic"> New York Times</hi>, 30 October 1994, p. 49.</note>
+          <note xml:id="sc17-1003n8" n="8" place="end"> Mark Fenster, "Country Music
+Video," <hi rend="italic">Popular Music</hi> 7:3 (Oct. 1988): 285-302,
+"Buck Owens, Country Music, and the Struggle for Discursive Control,"
+<hi rend="italic">Popular Music</hi> 9 (Oct. 1990): 275-90, and
+"Preparing the Audience, Informing the Performers: John A. Lomax and
+<hi rend="italic">Cowboy Songs and Other Frontier Ballads," American Music 7</hi> (Fall 1989): 260-77; Aaron A. Fox, "The Jukebox of History: Narratives of Loss and Desire in the Discourse of Country Music," <hi rend="italic">Popular Music</hi> 11 (Jan. 1992): 53-72; Richard Leppert and George Lipsitz, "`Everybody's Lonesome for Somebody': Age, the Body and Experience in the Music of Hank Williams," <hi rend="italic">Popular Music 9</hi> (Oct. 1990): 259-74.</note>
+          <note xml:id="sc17-1003n9" n="9" place="end"> The CD is as ill-considered, it turns out, as the book it accompanies: there are seven tracks by Emmylou Harris, two by the Tashians, two by Dolly Parton, one by Robin and Linda Williams, and five by the young musicians--Lewis, Chiavola, Crowell, and prodigy Cody Kilby. That leaves a half-dozen to represent all of the rest of country music about which the book generalizes so pervasively.</note>
+          <div3 xml:id="sc17-1_023" type="About">
+            <p xml:id="sc17-1_1064">David E. Whisnant teaches courses on country music, Appalachia, American literature, folklore, and the politics of culture at the University of North Carolina at Chapel Hill.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc17-1_004" n="3" type="Article">
+          <head>Race and Democracy: The Civil
+Rights Struggle in Louisiana</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Fairclough, Adam</reg><sic>Adam Fairclough</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995 pp. 12-18</docDate>
+          
+          <p xml:id="sc17-1_1065">When I began this study, in 1987, my perceptions of the civil rights movement had been formed during ten years of research into the history of the Southern Christian Leadership Conference and the career of Martin Luther King, Jr. That work both derived from and rein-forced the commonly held perception that the black activism of 1955 to 1965 displayed a unity and momentum that set it apart from what came before and what came after. Here, finally, were a powerful mass movement and a leader worthy of the cause; here, at last, was the decisive breakthrough. Embarking upon a study of Louisiana, I imagined not only that an examination of the civil rights movement at the state and local levels would broaden our understanding of black insurgency, but also that it would confirm rather than challenge the Montgomery-to-Selma framework that seemed self-evidently correct. Like most historians of the movement, I realized that black militancy had quickened in the late 1930s and during the Second World War, but I intended passing lightly over this period, confining it to a chapter, perhaps two, on the "origins" of the civil rights movement. The focus of the book, as with my history of SCLC, was to be on the late 1950s and 1960s.</p>
+          <p xml:id="sc17-1_1066">As I plunged into research, however, it soon became apparent that the contours of the struggle in Louisiana bore little resemblance to the Montgomery-to-Selma story. For one thing, black activism between the late 1930s and the Brown decision was so multifaceted, broadly based, and militant that it seemed to merit the same kind of scholarly attention as the period 1955-65.</p>
+          <p xml:id="sc17-1_1067">The black activism of the Roosevelt-Truman era has not been neglected by historians. There are books and
+articles weighing the impact of the Depression, assessing the influence of the New Deal, studying blacks and the labor movement, and examining how the Second World War changed race relations. In addition, several community studies, notably Robert J. Norrell's book on Tuskegee, Alabama, have argued that the civil rights movement, at the local level, actually got under way in the late 1930s and had already gathered considerable momentum by the 1950s. But although such works have cast doubt on the prevailing interpretation of the civil rights movement, they have often done so implicitly rather than explicitly, and no larger synthesis has appeared to challenge the Montgomery-to-Selma perspective. It is a central thesis of Race and Democracy that black protest between the late 1930s and the mid-1950s constituted more than a mere prelude to the drama proper: it was the first act of a two-act play. It therefore made no sense to begin my analysis in the mid-1950s: the Montgomery bus boycott had an important impact, as did the Greensboro sit-ins, but black activism did not so much escalate to a higher level as change in shape. What Bayard Rustin called the "classical period" of the civil rights movement needs to be placed within the context of a struggle that stretched over three full decades.</p>
+          <p xml:id="sc17-1_1068">Measured in the lifetimes of dedicated individuals, some elements of continuity appear even longer. Alexander Pierre Tureaud, for example, joined the NAACP in 1922 and fought against racial discrimination for fifty years. The dean of civil rights lawyers in Louisiana--and for a time the only black lawyer in the state--his name appeared on virtually every suit filed by the NAACP: working with Thurgood Marshall, he integrated schools, universities, buses, parks, and public buildings; he won voting rights suits; he equalized the salaries of black teachers. In 1960 he represented students arrested in the sit-in movement, arguing the first such case to reach the Supreme Court.</p>
+          <p xml:id="sc17-1_1070">Tureaud's life spanned, almost precisely, the rise and fall of
+white supremacy in post-Reconstruction Louisiana. He was born in 1899,
+three years after the Supreme Court upheld Louisiana's railroad
+segregation law in the Plessy case, one year after a new state
+constitution disfranchised black voters en masse. He died in 1972, the
+same year that the state legislature expunged all its Jim Crow laws,
+the year that black voters helped elect Edwin Edwards governor, and
+one year before a new state constitution,
+<pb xml:id="sc17-1_1069" n="13"/>
+borrowing the language of the once-despised Fourteenth Amendment, outlawed racial discrimination. But his life was more than a mere chronological link between the two periods: Creoles like Tureaud had a consciousness of history and of their place within it. Tureaud's uncle served in the Reconstruction Legislature; his protege and law partner, Ernest N. Morial, became the first black mayor of New Orleans.</p>
+          <p xml:id="sc17-1_1071">Historians can become obsessed with the question of continuity and change. The search for the origins of a social transformation invariably goes further and further back in time, until often one does not know when to stop. Hence the perspective of time, while a useful antidote to present-mindedness, can also distort. Too much stress upon continuity smooths out history's peaks and valleys, producing a bland, featureless landscape. Awareness of continuities, therefore, should not blind us to the shifts, the twists and turns, the periods of retrogression and stagnation.</p>
+          <p xml:id="sc17-1_1072">History may be a seamless web, but we must not mistake fragile threads for sturdy cords. Some
+historians of the Old Left, for example, contend that the radicalism of the Roosevelt-Truman era paved the way for the later civil rights movement. Of course, it is always possible, by a kind of "honor by association," to discover links between 1930s radicals and 1960s activists. But such links were tenuous: McCarthyism smashed the Old Left and marginalized its ideas. One of the most striking aspects of Robin Kelley's fascinating study of Alabama Communists (<title>Hammer and Hoe</title>) is how quickly and completely the Communist Party's influence faded during the 1950s.</p>
+          <p xml:id="sc17-1_1074">Indeed, the impact of McCarthyism was so profound that one could
+argue that a fundamental discontinuity separated the period 1940-54
+from the following decade. The Cold War and the deradicalization of
+organized labor exhausted the possibilities of New Deal liberalism,
+and the movement that arose after 1955 drew its strength from new
+sources: the Southern black church, the ideas of Gandhi, the
+leadership of Martin Luther King and the elan of a younger generation
+of black college students. Many therefore resist the idea that the
+black protest of that period should be lumped together with
+pre-Montgomery activism. As Richard King reminds us, "The freshness of
+the movement should not be underplayed for the sake of an historical
+pedigree." Or as Hugh Murray put it more tartly, "The people who were
+involved in the movement in the 1950s and 1960s called it the civil
+rights movement. Historians in pipe-smoke
+<pb xml:id="sc17-1_1073" n="14"/>
+filled rooms ought not to try to rename it." The very term "movement" implies something new and special: it con-notes not only organization but also mass participation, not only activism but also direct action. It evokes marches, sit-ins, demonstrations--new methods of organization, mobilization, and protest.</p>
+          <p xml:id="sc17-1_1075">The relationship between the pre-1955 and post-1955 phases of the black struggle is a complex one, bur an awareness of discontinuities, and an appreciation of the distinctive characteristics of the Montgomery-to-Selma years does not negate the argument for treating the two periods as equally important and inextricably linked. The laserlike focus with which historians have concentrated on the period 1955-65 has served as an historical blinder. By exaggerating the extent of the mass mobilization that took place during the 1960s, it slights the scope of popular involvement during the 1940s and early 1950s. By high-lighting the role of nonviolent direct action after 1955, it has neglected the importance of litigation and drawn too sharp a distinction between litigation and direct action. By placing Martin Luther King, Jr. at the center of the narrative, it has exaggerated the importance of the black church, placed too much emphasis upon "leadership,"and obscured the crucial importance of local activists. And by highlighting the three organizations most oriented towards direct action--SNCC, CORE, and SCLC--it has neglected the role of the NAACP.</p>
+          <p xml:id="sc17-1_1076">The NAACP is, paradoxically, the most important but also the least
+studied of the civil rights organizations. Most histories of the
+movement give it short shrift, barely mentioning it after the <hi rend="italic">Brown</hi> decision save for an occasional comment disparaging its effectiveness. The reasons for this scant treatment are not hard to fathom. The NAACP lacked a charismatic leader; Roy Wilkins, its executive secretary, was an uninspiring figure. The association also lacked a cadre of action-oriented young field-workers of the kind that gave SNCC its hard-hitting edge and appeal to youth. The NAACP was slow-moving and bureaucratic; local initiatives were too often stifled by committees, hierarchies, and procedural complexities.</p>
+          <p xml:id="sc17-1_1077">The habit of ignoring the NAACP and highlighting the 1960s has been reinforced by the generation gap. Most SNCC workers, for example, were in their teens or early twenties; James Forman, executive secretary of SNCC at the age of thirty-three, was considered an old man. The generation of 1960 tended to be curtly dismissive of older NAACP activists. The words "Uncle Tom" came easily, and too often unthinkingly, to their lips. The CORE workers who fanned out across Louisiana between 1962 and 1965 knew little, and cared less, about the history of the civil rights struggle in the communities to which they were assigned. What had happened in 1956, let alone 1946, was ancient history.</p>
+          <p xml:id="sc17-1_1078">To a great extent our own image of the civil rights movement continues to be shaped by the generation of 1960. The veterans of SNCC and CORE are still relatively young; they are often educated and articulate; many are now quite influential. It is noteworthy that while SNCC alumni, in particular, regularly speak at historical conventions, one rarely if ever encounters a veteran of the NAACP.</p>
+          <p xml:id="sc17-1_1079">The result has been a kind of historical amnesia. In Louisiana (and
+I suspect that the same was true in South Carolina and several other
+states) the NAACP provided the backbone of the civil rights
+struggle. It furnished crucial continuity from the 1940s through the
+1970s. By the time of <hi rend="italic">Brown</hi>, the NAACP's victories had already started to transform the South. In Louisiana, for example, black policemen had been hired, the salaries of black teachers equalized, state colleges integrated, and some 150,000 black people registered as voters. Lynching, at least in its most barbarous form, had been eliminated.</p>
+          <p xml:id="sc17-1_1081">These were monumental achievements. And, as Mark Tushnet and Genna
+Rae McNeil have shown, they testified to the effectiveness of the
+NAACP Legal Defense
+<pb xml:id="sc17-1_1080" n="15"/>
+Fund, which, first under Charles Houston and then under Thurgood Marshall, used the federal courts as a lever for social change at a time when blacks had virtually no political influence. But the advances that black southerners made before Brown did not flow ineluctably from court decisions engineered by NAACP lawyers: they also took agitation, organization, and sheer guts on the part of ordinary people. Indeed, the bedrock strength of the NAACP lay in its local branches; as Ray Gavins has written of North Carolina, studies of the organization at the local level "present a less bureaucratic and more people-oriented NAACP." This observation is equally applicable to Louisiana. In fact, as both Houston and Marshall recognized, legal strategy and grassroots activism were mutually dependent. An accurate history of the civil rights struggle must therefore recognize the differences between the NAACP Legal Defense Fund and the NAACP (after 1939 they were distinct entities, and by 1957 the Legal Defense Fund had complete organizational independence) as well as analyze the complex relationship between the two.</p>
+          <p xml:id="sc17-1_1082">To focus on the glamorous, direct-action phase of the black struggle, then, is to risk overlooking a rich and often continuous history of NAACP activity, not only in local communities but also, from about 1940 on, at the state level. Historians have long recognized the existence of local NAACP activists but have often accorded them significance only insofar as they linked up with CORE, SNCC, or SCLC, enabling those organizations to enter and organize communities. Thus we know about Rosa Parks and E. D. Nixon because of Martin Luther King; we know of Amzie Moore because of Bob Moses. As Julian Bond once put it, these older activists constituted the "prehistory" of the civil rights movement. But they were actually much more than that. Such people could be found throughout the South: men and women of great courage and integrity, whose struggles lasted a lifetime and provided the strong base, the bedrock, of the civil rights movement. They deserve more than footnotes; their stories rightly belong in the mainstream history of the movement.</p>
+          <p xml:id="sc17-1_1083">A reassessment of the NAACP also illuminates the complexity of the social networks that sustained black activism. The NAACP derived its strength not only from the dedication of individuals but also from the fact that such people were part of the fabric of the community; black organizations and institutions provided the social context within which they could accumulate influence. Labor unions, Masonic organizations, insurance companies, newspapers, Catholic societies, and teachers' associations provided the NAACP with important building blocks. The church was only one such unit. The history of the NAACP, in fact, brings into question the belief that the black church furnished the driving force behind the civil rights movement. The church emerged as a distinct force only when the NAACP came under state persecution in the late 1950s, and only in Alabama, where the organization was suppressed altogether, did ministerial leadership entirely supplant that of the NAACP. There were, to be sure, black ministers who became strong leaders, but such men were few and far between. In Louisiana, and perhaps in other states, the civil rights struggle seems to have been a largely secular affair. Ministers were often conspicuously absent from local movements; not only did they fail to provide leadership, often they refused to participate at all.</p>
+          <p xml:id="sc17-1_1084">The fact that men usually monopolized the positions of formal leadership in the NAACP (and later in CORE) has obscured the importance of women. Andrew Young once noted that black women--respected matriarchs, businesswomen, teachers--often wielded more authority than allegedly influential male leaders. As Vicki Crawford has argued, through their churches, sororities, and other community organizations, women provided networks of support and information that nurtured and sustained civil rights efforts. Courageous individual women, moreover, often became "powerful catalysts" in the formation of local movements. When CORE workers first entered West Feliciana Parish, for example, two elderly women housed them when everyone else in the community feared associating with them. And although women rarely headed local NAACP branches, they often occupied the less prominent but equally important office of secretary. In Shreveport women, not ministers, formed the backbone of the branch's voter registration drives. And generally women were often far more willing to attempt to register to vote than men were. Women also provided support for the NAACP through their activities in the teaching unions and the education associations. Indeed, women dominated the teaching profession, ac-counting for two-thirds of all black teachers. Black women also figure prominently in the biracial work of organizations like the Council on Interracial Cooperation and the Southern Regional Council.</p>
+          <p xml:id="sc17-1_1085">Any interpretation that focuses on activists can be accused of exaggerating the extent and durability of black protest. The NAACP never had more than twelve thousand members in the entire state. Even at the height of 1960s militancy, the number of people who took part in demonstrations was tiny, the number who went to jail smaller still. Civil rights lawyer Lolis Elie thought the common image of the civil rights struggle as a "mass movement" a myth. Only a few hundred activists, he believed, underpinned black protest in Louisiana.</p>
+          <pb xml:id="sc17-1_1086" n="16"/>
+          <p xml:id="sc17-1_1087">It would be facile to suggest that blacks in the South were
+continually resisting racial discrimination in overt ways. Before the
+1940s, when lynching was a fact of everyday life and the edifice of
+white supremacy impregnable, to protest meant risking life and
+limb. Outside New Orleans, where city life afforded some degree of
+protection, only the very brave and the very foolhardy raised their
+voices or put their heads above the parapet. Accommodation --
+getting along with the white man -- was an essential survival skill that parents drummed into their children at an early age. And as long as blacks accepted their place in the racial order, whites could be remarkably friendly.</p>
+          <p xml:id="sc17-1_1088">One might justify an emphasis on black protest as a necessary corrective to the reluctance of whites in Louisiana to acknowledge its existence. Between the disfranchisement of blacks in 1898 and the New Orleans schools crisis of 1960, whites who wrote about the state and its history virtually ignored the black community. To read the files of the <title>New Orleans Times-Picayune</title>, for example, one would never realize that blacks constituted a third of the state's population; they were hardly mentioned at all. A recent memoir by a prominent white politician failed to name a single black person, contained no reference to the black population, and neglected even to discuss race as an issue.</p>
+          <p xml:id="sc17-1_1090">There is a more cogent reason for stressing protest rather than
+accommodation, however. Given leadership that inspired confidence and
+a perception that things could change, blacks repeatedly showed
+themselves ready to take assertive action against inequality and white
+supremacy. In the late 1930s they advanced their economic interests
+through collective action in the labor movement. During the Second
+World War they expressed their dissatisfaction with the racial order
+in a thousand different ways. During the 1950s and 1960s they
+sup-ported boycotts that often proved 99 percent effective. After the
+Voting Rights Act of 1965 they flocked to the registration offices and
+lined up outside the polling stations. To admit that black protest was
+sometimes fitful and that overt defiance was not always well supported
+is not to concede that the activists, either in the 1930s or the 
+<pb xml:id="sc17-1_1089" n="17"/>
+1960s, were atypical.</p>
+          <p xml:id="sc17-1_1091">Moreover, as Robin Kelley has argued, historians have often defined resistance and protest far too narrowly. Instead of confining their purview to membership in organizations and to formal political activity, they should recognize that blacks resisted white supremacy in a variety of informal, indirect, and individual ways. A black passenger might dispute a streetcar conductor but never dream of joining the NAACP. A black worker might subtly resist his or her white employer without ever belonging to a union. In the context of the rural South, even the most innocuous act--leading the Pittsburgh Courier, driving a flashy car, failing to yield the sidewalk--represented a subversion of white authority and an assertion of equality.</p>
+          <p xml:id="sc17-1_1092">Organization, nevertheless, proved critical to black progress; if resistance is defined too broadly the concept loses its explanatory power. Organization, formal and informal, provided the vital transmission shaft transmuting individual feelings into the only kind of resistance--purposive and collective--that could force change. This study, then, focuses on the organizations, especially the NAACP and CORE, that advanced the struggle for equality most effectively.</p>
+          <p xml:id="sc17-1_1093">I also analyze organizations that fell by the wayside without bequeathing a tradition of protest or a legacy of tangible change. To state that an organization failed is not to commit the pragmatic fallacy of dismissing its historical significance. It is vital, for example, to grasp the importance of the constellation of forces loosely known as the Old Left. The Communist Party and its satellite organizations, the Louisiana Farmers Union, the Southern Negro Youth Congress, the Civil Rights Congress, the Young Progressives, helped to fertilize the growth of black militancy during the 1930s and 1940s and had a great indirect effect upon the struggle for equality. More-over, even if they failed in their goals, and failed even to survive, those failures had profound repercussions. It is impossible to understand the evolution of the civil rights struggle without examining how anticommunism, in all its various manifestations, affected black protest. An evaluation of anticommunism, moreover, might soften the sometimes harsh judgments that have been rendered on the anticommunism of the NAACP. During the McCarthy years survival became the name of the game; the NAACP survived.</p>
+          <p xml:id="sc17-1_1094">Black resistance, therefore, cannot be properly understood divorced
+from its political context. Emulating the best of the existing
+community studies, I have at-tempted to overcome a major weakness of
+much civil rights historiography: the tendency to segregate history by
+race. Most histories have examined <hi rend="italic">either</hi> white
+actions <hi rend="italic">ora</hi> black actions; only rarely have the twain met. We need to marry the two perspectives. Racial change en-tailed a dialectic between black and white, and in studying this dialectic within particular communities we can discard the crude stereotypes that often reduce the history of the period to a simpleminded morality play. It is absurd to generalize about "whites" without differentiating--to name the most obvious categories--between political factions, business lobbies, trade unions, the Ku Klux Klan, and the Catholic Church.</p>
+          <p xml:id="sc17-1_1095">I am well aware of the pitfalls and difficulties of local
+history. Although no longer the refuge of antiquarians that it once
+was, it still often suffers from narrowness of vision. It conveniently
+limits large subjects, but often dodges large questions. Historians
+face a constant tension between the need to generalize in order to
+make a welter of facts comprehensible and the need to convey a sense
+of history's complexity. Local history tends to stress complexity at
+the expense of comprehension. In his humorous handbook
+<title>One-Upmanship</title>, Stephen Potter recommended a
+conversational ploy that he called "Yes, but not in the South." It
+works in the following way: a listener interrupts a learned discourse
+on a particular country by interjecting, in a knowledgeable but
+slightly irritated tone, "Yes, but not in the South" (of Italy,
+France, India, England, the United States, and so on). Framed
+narrowly, a study of the civil rights movement in Louisiana might
+yield little more than a more refined version of this ploy: "Yes, but
+not in Louisiana," or even, "Yes, but not in <hi rend="italic">south</hi> Louisiana."</p>
+          <p xml:id="sc17-1_1096">Local history must be much more than a vehicle for "local color" or a handy geographical limitation: it should be a constructive analytical tool. Studying the civil rights movement within a particular state offers a fresh approach to the subject, one that avoids the tendency of community studies to fragment our knowledge but retains a sense of the movement's diversity and local roots. One can explore how a state's distinctive political culture affected the responses of local communities to black protest. The state also provides a canvas that is broad enough to contain materials for comparison. By contrasting black activism in rural areas, small towns, and large cities the historian can move from individual case studies to a broader synthesis, achieving breadth as well as depth.</p>
+          <p xml:id="sc17-1_1098">I chose Louisiana because it is the most diverse and unique
+Southern state, with historic differences that provide an
+illuminating counterpoint to the rest of the South. Louisiana's
+singular characteristics include its French-Spanish origins, its
+Creole and Cajun cultures, the influence of the Roman Catholic church,
+the special character of New Orleans, the peculiar ethnic mix of
+places like
+<pb xml:id="sc17-1_1097" n="18"/>
+Plaquemines Parish, and the political influence of Huey and Earl Long. This diversity invites fascinating comparisons between the Protestant north and the Catholic south, between the rural and urban areas, and between New Orleans and the more typically "Southern" cities of Baton Rouge and Shreveport.</p>
+          <p xml:id="sc17-1_1099">A state study is also, of course, an exercise in comparative
+history. The history of the civil rights movement in each state
+departed from the Montgomery-to-Selma narrative. The picture that
+emerges from Louisiana is of a moderate, legalistic, incrementalist
+movement. There seems to have been less class tension than in
+Mississippi and less Black Power militancy than in, for example, North
+Carolina. The federal judiciary was, taking the state as a whole, more
+liberal than that of other Deep South states. Moreover, the tradition
+of bifactional politics bequeathed by Huey Long discouraged the rabid
+racism of those other states. The Catholic church and Latin tradition of race relations also gave the racial struggle in Louisiana its own flavor. As NAACP field secretary Harvey Britton put it, "There was always an underlying feeling in Louisiana of some kind of comradeship between black and whites.... We had worked out our own pace, and things were going to generally get better, but it was not on a national time schedule, it was on Louisiana's time schedule."</p>
+          <p xml:id="sc17-1_10100">Yet the history of Louisiana, for all its peculiarities, also illustrates the force and centrality of race. On balance, Louisiana was more like other Southern states than unlike them; the white population resisted the civil rights movement with as much determination there as it did elsewhere. While throwing light on the nuances and peculiarities of one state, the Louisiana story is also, in important respects, typical of how the civil rights struggle unfolded in the South. </p>
+          <div3 xml:id="sc17-1_024" type="About">
+            <p xml:id="sc17-1_10101">This essay is excerpted from the Preface of <title>Race and Democracy: The Civil Rights Struggle in Louisiana, 1915-1972</title> published this spring by the University of Georgia Press. Adam Fairclough holds the chair of modern American history at the University of Leeds. He is author of two other books published by the University of Georgia Press: <title>Martin Luther King, Jr</title> (1995) and <title>To Redeem the Soul of America: The Southern Christian Leadership Conference and Martin Luther King, Jr.</title> (1987).</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc17-1_005" n="4" type="Article">
+          <head><title>Ayers v. Fordice</title>: An Update</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Smith, Faye McDonald</reg><sic>Faye McDonald Smith</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995 p. 19</docDate>
+          
+          <p xml:id="sc17-1_10102">In our last issue, (Winter '94), we ran a detailed article about the twenty-year-old Ayers desegregation case of higher education in Mississippi. In March 1994, U.S. District Judge Neal Biggers, Jr. issued the much-anticipated ruling. Here's an update:</p>
+          <p xml:id="sc17-1_10103">Neither the plaintiffs (representing the interests of Mississippi
+black students and black colleges) nor the defendants (representing
+the Board of Trustees of the Institutions of Higher Learning), can
+claim an outright victory from Judge Neal Biggers's March '95 ruling
+in the Ayers case. Both sides expressed a mixed reaction to the
+188-page decision -- supporting some elements, while objecting to others.</p>
+          <p xml:id="sc17-1_10104">The court ordered that the 1995 admissions standards proposed by the Board for first-time freshmen, should be implemented at all eight public colleges and universities. This ruling is perhaps one of the most disappointing to the plaintiffs, since attorneys for the black colleges have argued that due to a history of inferior elementary and secondary schools in predominantly black and poor communities, fewer black students would be eligible to enter any Mississippi college under the higher ACT standardized test score that the Board can now impose throughout the system.</p>
+          <p xml:id="sc17-1_10105">The court concurred with the Board's proposal that, beginning in 1996, predominantly black Jackson State University will offer allied health programs, plus advanced degrees in social work, urban planning, and business. The court ordered the Board to conduct a feasibility study on establishing an engineering school, a public law school, and a five-year pharmacy program at JSU.</p>
+          <p xml:id="sc17-1_10106">The court ordered the State to allocate special funds totaling $20 million for educational and facility enhancement at Jackson State, as well as recruitment and scholar-ships for white applicants; plus $9 million to historically black Alcorn State University for the Small Farm Development Center and an endowment trust for educational enhancement and racial diversity. The court also ordered the State to provide funding for an MBA program and capital improvement at Alcorn.</p>
+          <p xml:id="sc17-1_10107">To the relief of the plaintiffs, the judge rejected the Board's
+proposal to consolidate predominantly white Delta State University and overwhelmingly black Mississippi Valley State University, citing that the relative success of
+Delta State in educating both white and black students, and the significant nurturing that Mississippi Valley provides to under-prepared blacks would likely be substantially mitigated under a merger. However, the judge left the door ajar for a merger, stating that if in good faith the Board decides that consolidation is the only education-ally feasible solution, the court would reconsider.</p>
+          <p xml:id="sc17-1_10108">Judge Biggers also ruled against the Board's pro-posed merger of
+Mississippi University for Women with Mississippi State University,
+both historically white institutions. The ruling stated that the
+Board's theory of "sharing the pain" -- i.e., if black colleges
+are merged, then predominantly white colleges should too -- "... is an inadequate justification for so drastic a measure with practically nothing to be gained relative to the ends of desegregation." It also pointed out that presently MUW plays a major role in the desegregation process, since it has the highest percentage of black students among the State's majority white institutions.</p>
+          <p xml:id="sc17-1_10109">In essence, the Court found that the Board's pro-posed mergers or
+consolidations among the State's eight colleges and universities would
+not resolve the core problem of eliminating the remaining vestiges of
+de jure segregation, and that the Board needed to address other
+matters -- unified admissions, coordination of community colleges, and
+more racially diverse faculties and administrations -- in order to fully desegregate its system and provide equal access to Mississippi higher education, regardless of race.</p>
+          <p xml:id="sc17-1_10110">To some observers, the judge's ruling leaves many questions unanswered, and sets the stage for another round of contentious litigation. Initially threatening to appeal, the Board has since indicated that it will not embark on yet more costly litigation and will comply with the court-ordered remedies. Attorneys for the plaintiffs are in the process of deciding if an appeal is feasible. The judge ordered the establishment of a three-person Monitoring Committee to review court-ordered remedies, and the plaintiffs intend to ask the Committee to expand the decree in areas where they think it doesn't go far enough.</p>
+          <p xml:id="sc17-1_10111">It is not yet clear what impact the ruling will have on several other states which are also embroiled in desegregation lawsuits.</p>
+          <div3 xml:id="sc17-1_025" type="About">
+            <p xml:id="sc17-1_10112">Atlanta writer Faye McDonald Smith frequently covers education and business issues.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc17-1_006" n="5" type="Review">
+          <head>A Day Late?</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Garrow, David J.</reg><sic>David J. Garrow</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995 pp. 20-23</docDate>
+          
+          <bibl><title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title> by John Egerton (New York: Alfred A. Knopf, 704 pp. $35.).</bibl>
+          <p xml:id="sc17-1_10113">John Egerton's group portrait of Southerners who opposed virulent white racism in their region during the period from 1932 to 1954 is a rich and impressive book, but all too often--as Egerton himself realizes--his narrative bestows excessive praise on white "liberals" who could never quite bring themselves even to publicly denounce racial segregation.</p>
+          <p xml:id="sc17-1_10114"><title>Speak Now Against the Day</title>--Egerton's title comes from a phrase used by Mississippi novelist William Faulkner in a 1955 speech--is a tremendously valuable book, bringing together into one volume a cast of characters and organizations whose efforts heretofore have been memorialized largely in specific scholarly mono-graphs. Egerton, however, a sixty-year-old white Kentuckian who has long written about the South, is not as tough-minded as he might be in portraying Southern "liberals" limited and often hesitant efforts in the twenty-plus years from the election of Franklin Roosevelt to the revolutionary <title>Brown</title> desegregation decision by the U.S. Supreme Court. Egerton's subjects were more completely bound and blindered by their times and places than Egerton can bring himself to fully admit, and one must read <title>Speak Now</title> with some care in order to appreciate that Egerton's bottom-line judgment of his subjects is considerably less glowing than a casual reader might conclude.</p>
+          <p xml:id="sc17-1_10115">Intentionally or not, Egerton's title highlights both his book's somewhat excessive attention to writers as well as those writers' often-ambivalent stances concerning racial justice. William Faulkner's best statements notwithstanding, the Nobel Prize novelist was anything but an outspoken or committed integrationist, and Faulkner's uncertainties and inconsistencies with regard to race were fully representative of the other writers, academicians and journalists upon whom Egerton focuses his attention. Georgia's Lillian Smith may have been a more complete opponent of white racism than any
+other well-known white Southern writer of her age, but Smith's somewhat isolated life left her political judgments--such as a 1949 prediction that "in five years there will be little legal segregation left in the South"--dangling far off base.</p>
+          <p xml:id="sc17-1_10116">More regrettably, Egerton time and again accords excessive stature
+to professors and newspaper editors whose full records, in the long
+eye of history, merit little positive comment. North Carolina
+sociologist Howard Odum was certainly a cut above most Southern
+academicians, but Egerton errs grievously in terming the cautious
+Odum-- a man who could never bring himself to attack segregation--"one of the pivotal figures of the twentieth-century South." However, even much more justly-celebrated University of North Carolina president Frank Porter Graham, whose 1950 defeat in a U.S. Senate race marked North Carolina's mid-century low point, had refused to support desegregation of his institution when the superbly qualified Pauli Murray, later a well-known lawyer and writer, applied for admission to UNC's graduate school in 1938.</p>
+          <p xml:id="sc17-1_10118">Egerton writes correctly--and revealingly--that questions involving
+desegregation "were hardly in the fore-front of any [WHITE!]
+Southerner's thinking in the late 
+<pb xml:id="sc17-1_10117" n="21"/>
+1930s," but only in passing does he acknowledge the reticence and hesitancy that marked Southern white liberals' responses to even the most modest racial reforms, such as the U.S. Supreme Court's 1944 ruling in <title>Smith v. Allwright</title> striking down exclusionary Democratic party "white primaries" all across the South. Not even the most "progressive" of Southern U.S. Senators welcomed <title>Smith</title>, and, Egerton's repeated commendations for various editors and publishers notwithstanding, "not one newspaper in the region editorialized against Jim Crow segregation laws until after" the Supreme Court's 1954 decision in Brown.</p>
+          <p xml:id="sc17-1_10119">Egerton throws his net <hi rend="italic">so</hi> widely that those
+truly rare Southern whites who actually and explicitly attacked
+segregation and discrimination head-on, such as South Carolina
+U.S. District Court Judge J. Waties Waring, come across to the reader
+as simply one more tree in a very heavily wooded forest rather than as
+the especially courageous and morally commendable figures they
+were. History should--and does--judge Waties Waring and
+Howard Odum <hi rend="italic">very</hi> differently, and if readers of <title>Speak Now</title> were to come away from the book believing that what these two men represented was one and the same, that would be very regrettable indeed.</p>
+          <p xml:id="sc17-1_10120">On occasion, when his judgment is most acute, Egerton fully acknowledges the shortcomings that threaten to permeate his approach to the mid-century South. "[I]t is probably an overstatement to call the writers and the rest of the intelligentsia influential, though I have characterized them as such more than once in this narrative," Egerton rightfully confesses. In truth, he admits, "there is not much evidence that they ever persuaded" anyone to do much of anything, and "Nobody who had the power to lead, as far as I can tell, was truly influenced by the South's writers to depart from" the old order of heavy-handed racism and explicit segregation.</p>
+          <p xml:id="sc17-1_10121">Egerton's most powerful conclusion is his repeated judgment that "What the region lacked most grievously was honest, dedicated leadership," and that the "vacuum of responsible moral and political leadership at the state and local levels" continued right on up through the tumultuous aftermath of <title>Brown</title>.</p>
+          <p xml:id="sc17-1_10122"><title>Speak Now</title>'s other most frequent assertion is
+Egerton's less persuasive contention as to "how favorable the
+conditions were for substantive social change in the four or five
+years right after World War II" in the South. Egerton correctly argues
+that it was indeed World War II, rather than either the Great
+Depression or the New Deal, that really "ushered in the modern age" in
+the South, but his desire to believe that the South in 1945-1946 had
+some significant prospect of substantively reforming its racist
+superstructure <hi rend="italic">from within</hi> is simply not
+convincing. Egerton asserts that those years represented "a narrow window of opportunity through which the South might have reached both internal social reform and external parity with the rest of the nation," but Egerton fails to make even the beginnings of a compelling case for this wishfully optimistic view of the South's post-war prospects.</p>
+          <p xml:id="sc17-1_10123">Egerton's pronounced desire to imagine <hi rend="italic">some</hi>
+chance that the South <hi rend="italic">could</hi> have transformed itself prior to national intervention in the form of federal judicial action does his history little if any harm, however, though it does lead him to further bemoan the dramatic shortcomings of the white South's civic leadership and to highlight how the exceedingly modest efforts of Southern white dissenters were further hamstrung by their own small-minded personal and organizational divisions.</p>
+          <p xml:id="sc17-1_10124">But Egerton's focus upon "Why was the moment of opportunity after
+the Second World War not realized and captured and converted to the
+South's advantage?" unfortunately again betrays his imbalanced
+over-concentration upon the small and largely impotent world of white
+Southern writers, journalists, and academicians. True, neither Judge
+Waring nor the most interesting of the region's elected officials from
+the 1940s, such as Georgia Governor Ellis Arnall, are by any means
+absent from Egerton's story, but Egerton's over-emphasis upon white
+word-smiths does his story a double-barrelled disservice: first in
+understating how the most important and influential developments in
+the South between 1945 and 1954 involved what was happening (often
+locally and quietly) among <hi rend="italic">black</hi> Southerners, and, second, in further pushing to the narrational sidelines those citizens who weren't busy leaving behind a record of books, articles, and columns that forty years later could be unearthed in library stacks and newspaper microfilms.</p>
+          <p xml:id="sc17-1_10125">Egerton is by no means blind to these issues and dangers, and especially with regard to South Carolina, where he pays valuable and important attention to such largely unheralded black activists as Osceola McKaine and newspaper publisher John H. McCray, Egerton makes a significant contribution to future historiography. But the question of proportion remains, and in that context, as Egerton himself certainly knows, <title>Speak Now Against the Day</title> devotes more time and effort to the writings of a favored few and considerably less to the thoughts and hopes of the relatively unlettered segments of the Southern populace, both black and white.</p>
+          <p xml:id="sc17-1_10127"><title>Speak Now Against the Day</title> is a considerable achievement, one which
+to large degree probably--and properly--"closes the books" on a certain
+segment of privileged white Southerners whom scholars and writers have
+favored with much--perhaps too much--attention. But, 
+<pb xml:id="sc17-1_10126" n="22"/>
+just as properly, in the months and years ahead the spotlights of pre-
+as well as post-1954 Southern history scholarship will turn more and
+more toward the words and deeds of those citizens--<hi rend="italic">black</hi> citizens--whose efforts DID bring about the racial and political revolution that most Southern white liberals before 1954 could only uncertainly imagine.</p>
+          <p xml:id="sc17-1_10128" rend="bold">John Egerton Responds:</p>
+          <p xml:id="sc17-1_10129">It is an occupational hazard among writers that we all tend to like our own books, and earnestly hope that others will like them too. We anxiously await the reaction of critics, and when those of the highest reputation pass judgment, we are sometimes filled with apprehension.</p>
+          <p xml:id="sc17-1_10130">So it was that I read
+David I Garrow's review
+of <title>Speak Now Against the Day</title> with deeply mixed feelings of pride and disappointment. Pride, first, that a writer of his stature would devote as much attention and space as he did to a critical assessment of my book--and then disappointment that he would find it as one-dimensional and flawed as he did.</p>
+          <p xml:id="sc17-1_10131">The weight of his criticism concerns my treatment of Southern white liberals, particularly writers and scholars, in the
+quarter-century before the mid-1950s. In Garrow's judgment, my narrative "bestows excessive praise" on these "privileged" and "largely impotent" Southerners, when in his view their "limited and often hesitant efforts...merit little positive comment."</p>
+          <p xml:id="sc17-1_10132">It is good that I included U.S. District Court Judge J.
+Waties Waring of South Carolina in my account, Garrow
+writes, but this "courageous and morally-commendable"
+jurist was a singular figure--not, as I presented him,
+"simply one more tree in a very heavily-wooded forest."</p>
+          <p xml:id="sc17-1_10133">I did also call attention to "such largely-unheralded
+Black activists" as Osceola McKaine and newspaper publisher John H. McCray in South Carolina, says Garrow.
+"But the question of proportion remains, and...<title>Speak Now
+Against the Day</title> devotes more time and effort to the
+writings of a favored few and considerably less to the
+thoughts and hopes of the relatively unlettered segments
+of the Southern populace, both Black and white."</p>
+          <p xml:id="sc17-1_10134">The point is well taken that public figures who compile a voluminous written record stand a much better chance of being "found" by historians than those who seldom if ever leave a paper trail. Garrow correctly notes that my book draws extensively from this deep well of letters. He names only two or three of the writers (journalists, novelists, scholars) in my narrative, and implies that virtually all of the others I mention are white. Actually, a large number are black, among them W.E.B. Du Bois, James Weldon Johnson, Zora Neale Hurston, Charles S. Johnson, Robert Vann, Langston Hughes, J. Saunders Redding, Richard Wright, Frank Marshall Davis, Ralph Ellison, and Ted Poston.</p>
+          <p xml:id="sc17-1_10135">It is not just writers by any means who make up the "cast of characters" in my book--and it is not just white
+males who fill the ranks in other fields. The New Deal brought many white women and blacks, both men and women, into public service for the first time, and I include a number of them in this story. In the fields of religion, law, journalism, labor, and academia, many more came upon the Southern stage, and even in the area of social activism--suppressed as it was by the all-white, all-male power structure--there were men and women, black and white, who took the
+first halting steps toward reformation during these years.</p>
+          <p xml:id="sc17-1_10136"><title>Speak Now Against the Day</title> identifies more of these
+individuals and connects them with one another and with
+this "pre-movement" period than any previous account of
+the times that I have seen. Admittedly, they add up to only
+a small fraction of the Southern populace--too few in
+number, too lacking in boldly radical resolve, and too
+divided among themselves to take the South in a new
+direction when the moment of opportunity was at hand
+after World War II.</p>
+          <p xml:id="sc17-1_10138">But these Southerners--black men such as Benjamin Mays and
+Ira De A. Reid, black women such as Mary McLeod Bethune and Charlotte
+Hawkins Brown, white men such as Howard Kester and Aubrey Williams,
+white women such as Lucy Randolph Mason and Dorothy
+R. Tilly--did stand publicly in opposition to segregation and
+the crippling myth of white supremacy, and they
+<pb xml:id="sc17-1_10137" n="23"/>
+and the others who spoke out with them deserve to be remembered. They are due more space in the history books than they have yet been given--by me, by David Garrow, or by any others seining for truth in the rocky streams of the twentieth-century South.</p>
+          <p xml:id="sc17-1_10139">I do acknowledge, both here and in the pages of <title>Speak Now</title>, that my 1990s speculation about the tantalizing prospect for social change in the South right after World War II was not a reality that ever materialized. My primary motivation in writing the book was to better understand this failure to seize the time. But it seems to me more critical to say the South missed a golden opportunity, as I do, than to suggest, as Garrow does, that the opening never existed at all.</p>
+          <p xml:id="sc17-1_10140">The other principal theme of the book--the failure of leadership--is seen by Garrow as "Egerton's most powerful conclusion," and I am glad that he found it ex-pressed time and again in the book. To my disappointment, though, he appears to make no distinction between the political demagogues who enforced the rule of white supremacy and some of the more far-sighted leaders in other fields--men and women of both races who wrote and spoke and acted from a larger and more inclusive vision.</p>
+          <p xml:id="sc17-1_10141">What I think I have said in this book is that some people had this broader vision, that their efforts to give it life were commendable but insufficient, that the demagogues prevailed, and that it took a revolution in the courts and in the streets to bring about substantive change. All of the players in this drama showed human imperfections, but they were not equally flawed; some were courageous and prophetic at times--and by 1954, all of the dissenters, the bold and the meek, had been tagged as the common enemy of the racist white power bloc that reigned in Congress and in the statehouse of the South.</p>
+          <p xml:id="sc17-1_10142">What happened after that is a story already well told by David Garrow and others, and now is being told again in even richer detail by such writers as John Dittmer, Henry Louis Gates, Connie Curry, Clayborne Carson, and Adam Fairclough. My book ends where these others begin. <title>Speak Now Against the Day</title> is a synthesis, a broad and shallow canvass of hundreds of institutions and more than a thousand individuals in the generation before <title>Brown v. Board of Education</title> and the Montgomery bus boycott. All of them--the good, the bad, the ugly--need more examination than I have given them, and I hope the little bit of hoeing I have done will stir others to plow deeper.</p>
+          <p xml:id="sc17-1_10143">As much as I would have welcomed a strongly favor-able assessment
+from David Garrow, I must acknowledge with appreciation his
+seriousness of purpose, his skill as a critic, and--certainly
+not least--his balancing assertions that <title>Speak Now</title> is "a tremendously valuable book...rich and impressive." I could hardly be disappointed with that. Moreover, it is surely a good and healthy development in the sometimes fractious discussion about race in the national experience for people to express their differing views honestly, without being rancorous or personally insulting. I am pleased and honored to join my esteemed critic in this serious and substantive exchange of views. </p>
+          <p xml:id="sc17-1_10144">John Egerton's book <title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title>, excerpted in the Fall 1994 <title>Southern Changes</title> has been chosen for the 1995 Robert F. Kennedy Award.</p>
+          <div3 xml:id="sc17-1_026" type="About">
+            <p xml:id="sc17-1_10145">David J. Garrow is the author of <title>Liberty and Sexuality: The Right to Privacy and the Making of Roe v. Wade</title> (1994) and <title>Bearing the Cross</title> (1986), a biography of Martin Luther King, Jr., which won the Pulitzer Prize and the 1987 Robert F. Kennedy Award.</p>
+          </div3>
+        </div2>
+        <div2 xml:id="sc17-1_007" n="6" type="Article">
+          <head>'Walking from the
+Tombigbee'
+An Introduction to
+Minnie Bruce Pratt</head>
+          <byline>By <docAuthor><name type="person"><choice><reg>Whitehead, Kim</reg><sic>Kim Whitehead</sic></choice></name></docAuthor></byline>
+          <docDate when="1995-03">Vol. 17, No. 1, 1995 pp. 23-27</docDate>
+          
+          <p xml:id="sc17-1_10146">In the mid-1950s, Minnie Bruce Pratt's mother worked as a social worker and sometimes took her daughter along when she visited the homes of impoverished, mostly African-American, women and children in rural south Alabama just outside Selma. Pratt's father, a sawmill clerk, often spent his evenings reading John Birch news-papers and railing against the Catholic-Communist-Jewish conspiracy he believed was attempting to overthrow segregation. On summer afternoons, the young girl herself rummaged through closets and attics, looking for books that would explain the tangle of freedoms and oppressions she witnessed and experienced in her deeply racist and sexist Southern society. In the end, the best solution seemed to be to get out.</p>
+          <p xml:id="sc17-1_10148">Over the years, however, in her own writing, Minnie Bruce Pratt has
+always gone back home. Her poetry--the chapbook <title>The Sound
+of One Fork</title> (1981), and the volumes <title>We Say We Love Each
+Other</title> (1985) <title>and Crime Against Nature</title> (the
+Lamont Poetry Selection for 1989)--and her collection of essays
+<title>Rebellion</title> (1991) serve both as profoundly
+autobiographical revelations about the life of a self-defining lesbian
+feminist who defies Southern custom only to have her children taken
+from her and remark-ably complex forays into the hidden recesses of
+Southern
+<pb xml:id="sc17-1_10147" n="24"/>
+attitudes toward race, gender, and sexuality. She traces her personal
+transformations through her journey around the South: from the
+University of Alabama, where she wrote briefly only to give it up when
+she married a young poet who emulated the Fugitives, to North
+Carolina, where she received her Ph.D at Chapel Hill, taught at a
+historically black college, and bore two sons, to Washington, D.C.,
+where she lives after discovering her love for another woman, losing
+the right to live with her children, and finally claiming her writing
+self.</p>
+          <p xml:id="sc17-1_10149">Pratt has in many ways found herself exiled as a Southern writer, whether because of fear of the challenges she poses or critics' tendency to assign one label per writer (one may be "lesbian" or "feminist" or even "African-American," but then not also "Southern"). How-ever, while she is clear about the discrimination she has faced as a lesbian mother, she never refuses to deal with her own heritage of racism and the ways that the op-pressed woman can also be an oppressor. She claims as ancestors white Christian-raised feminists like Nelle Morton, Anne Braden, and Lillian Smith, whose <title>Strange Fruit</title> Pratt came across as a child but did not read be-cause she somehow knew "it was too dangerous to pick up and read that book and be the one alone with the secret: that there was another way to live" (<title>Rebellion</title> 155). At the same time, Pratt reveals both the suffering and the blindness of the women in her own family. She both commemorates the work and vision of Ida B. Wells and explores the contradictions inherent in her own relation-ship to the African-American domestic worker who helped raise her. While she reexamines the history of the KKK to discover that its policies of hatred extend to any white women (and especially lesbians) like Pratt who refuse to act the role of obedient, chaste wife and mother, she also deals straightforwardly with the history of her predecessors, who took land from the Creeks and later interacted with African-Americans only across the lines of Jim Crow.</p>
+          <p xml:id="sc17-1_10150">While Pratt is an eloquent essayist, she carries out these cultural explorations most daringly in her poetry, where her concerns with race, gender and sexuality, autobiography and history, and lyric and narrative con-verge. She alternates between long, prosaic lines that indicate her desire to simply get the story told, and more lyrical passages, swollen with her reflections on the powers by which cultural meanings are assigned.</p>
+          <p xml:id="sc17-1_10151">She relentlessly searches through her history--her family's, rooted in pre-Civil War Alabama, and the official history of the South, as well as the bounty of untold stories--in her effort to understand how these heritages have shaped her experience and how she might in turn transform them. In the poem "Reading Maps: Two," Pratt tries to reach back into the past, looking for the buried stories of the women in her family and Native Americans and African-Americans trying to survive in the Southern context. She longs to know what the women in her family thought about the roads leading to and from their houses and the now hidden roads crisscrossing their property, roads that carry the histories of the Native Americans who once occupied the land and the African-Americans who traversed it during slavery and segregation. She remembers that as a child sitting with these women in their communal space on the front porch, she herself did not see
+
+<q><lg type="stanza"><l rend="right">the one made</l><l>by the feet of Choctaw people walking from the Tombigbee</l><l>to the mound of the great mother, walking to the west</l><l>with the little cry yaiya ishkitini, with the big cry</l><l>yaiya chito, driven out of their woods;</l></lg><lg><l rend="right">the road</l><l>made by the feet of Ibo people stolen</l><l>from the land where they hoed their sweet yams, beans,</l><l>walking to shop cotton in strange fields at dawn...</l></lg></q>
+
+As an adult, Pratt longs to believe these older women had "hidden
+ways / that they used to change how things were"; she longs to "tell
+them I want / to alter the pattern we were born into, to ask them / to help me...," but they
+are all now buried at the end of their own "unwinding grey thread" of a road, unable to divulge their secrets (<title>We Say We Love Each Other</title> 38-39).</p>
+          <p xml:id="sc17-1_10153">Pratt most fruitfully confronts the past by seeking
+self-understanding, by relentlessly exploring and fearlessly
+recharting not only the literal and symbolic terrain of her homeland
+the South, but also the landscapes of her own body and the impact of
+cultural configurations of gender, sexuality, and the "natural." In
+her poem "Down the Little Cahaba," images of a river's force, sexual
+plea-sure, and the sensuality of childbirth merge in the poet's
+imagination as she and her two young sons float in inner tubes on a
+hot August day. In this and other poems throughout <title>Crime
+Against Nature</title>, Pratt furnishes a new map of these landscapes
+to resist the cultural and legal
+<pb xml:id="sc17-1_10152" n="25"/>
+dictum that lesbianism constitutes a crime against nature, and therefore that the "unnatural" expression of lesbian desire cannot coincide with the "natural" expression of maternal love.</p>
+          <p xml:id="sc17-1_10155">Pratt's story resonates with the meanings of woman, wife, and
+mother that have deeply informed Southern culture. As Pratt
+maintains, poets and apologists for the Old South "named Woman and the
+Land as the same" (<title>Rebellion</title> 43). They believed that the land, the
+slaves who worked it, and Southern women were at base potentially
+uncivilized, "wild," if not controlled and led toward what landowners
+and ministers called their higher instincts. Southern women were
+thought to reach a higher natural state only through serving as
+obedient wives and focusing all their energies on the maintenance of
+their husbands' power, the order of the household, and the passing of
+this order to their children. As the planters understood it,
+civilization could survive only if women accepted their rightful
+positions. As Pratt understands it a century later,
+<q><p xml:id="sc17-1_10154">I had expected to have that protected circle marked off for me by the men of my kind as my "home." I had expected to have that place with my children. I expected it as my right. I did not understand I had been exchanging the use of my body for that place. (<title>Rebellion</title> 44)</p></q></p>
+          <p xml:id="sc17-1_10156">Of course, though patriarchs adopted and enforced this ideology on
+the Southern woman, and though the wives of wealthy landowners across
+the region attempted to live up to this "ideal," as the historian Anne
+Firor Scott has pointed out, the everyday realities of women's lives
+belied the myth in numerous ways.<ref target="#sc17-1007n1">1</ref> Certainly, African-American women and the wives of yeoman and poor farmers did not even have the opportunity to pursue the myth. But nevertheless, as Pratt asserts, the ideal of the Southern "lady" and her hallowed relationship to the land has persisted. Living under the vestiges of the myth, Pratt recalls, "I...learned that I could be either a lesbian or a mother of my children, either in the wilderness or on holy ground, but not both" (<title>Rebellion</title> 43).</p>
+          <p xml:id="sc17-1_10157">Against this configuration of the land as either sacred or wild and corrupt, Pratt reckons with traditional images of "wild" women and challenges these through her own body and the landscapes of the South itself. But this first involves confronting the images of the lesbian, and especially the lesbian mother, which circulate in Southern culture. After she asserts her lesbianism, her mother refuses to assist her, her ex-husband uses legal statutes against her, and Pratt finds herself cast as the serpent, the unredeembable creature of the earth according to Christian tradition: ". . .a thing, scaly sin, needle teeth / like poison knives, a monster in their lives who'd run / with the children in her mouth, like a snake steals / eggs." She understands that her ex-husband and her mother abhor her, her "inhuman shimmer, the crime of moving back and forth / between more than one self, more than one end to the story." But she also realizes that they are culturally privileged to name her--"the one who tells the tale gets to name the monster..."--and that she really threatens the cultural order by insisting that she does not have to live by the duality that structures gender relations, at least partly through telling her own story (<title>Crime</title> 114-115).</p>
+          <p xml:id="sc17-1_10158">In the poem "No Place," Pratt's husband demands that she choose her family or life as a lesbian:
+
+<q><l>One night before I left I sat halfway down,</l><l>halfway up the stairs, as he reeled at the bottom</l><l>shouting Choose, choose. Man or woman, her or him,</l><l>me or the children. There was no place to be simultaneous, or between...</l> (<title>Crime</title> 18)</q></p>
+          <p xml:id="sc17-1_10159">After her husband discovered her relationship with another woman and threatened to take Pratt to court to gain full custody of their children, a lawyer advised her that under North Carolina sodomy laws she would not stand a chance in court, so she knew leaving her children was actually her only hope for seeing them at all. Nevertheless, neither in "No Place" nor in any other of her poems about her separation from her husband does Pratt succumb to any kind of domestic panic; even though she deals with turbulent feelings of grief and shame that she had to leave her sons behind, she does not mourn losing the privilege of the white heterosexual woman in the South, nor does she posit herself purely as victim or victor. Instead she develops a vocabulary of loss and anger to speak of what she calls the "in-between," the sites from which she can challenge the strict division between the "natural" and the criminal which has seemingly guaranteed stability to the identity of the white, Southern mother. Pratt refuses to be a "mother-woman," the figure Kate Chopin used in her classic novel <title>The Awakening</title> (1895) for Southern women, who are expected to be mothers first and foremost.</p>
+          <p xml:id="sc17-1_10161">Ironically, natural environments serve as these in-
+<pb xml:id="sc17-1_10160" n="26"/>
+betweens from which Pratt can question these essentialist positions--not only the equation of maternality with moral virtue enforced in the South, but any complete or valorized version of lesbian identity. In the poem "No Place," Pratt and her sons travel on weekend visits because her husband won't let them stay at her house; they cross creeks and rivers, caught between their old life and an uncertain future (<title>Crime</title> 18). However, they soon identify these natural settings as a kind of free territory where the old definitions no longer apply and Pratt can relate to her sons freely as she attempts to invent a surviving self. For example, while with her sons on the bank of a river, Pratt points out a "...snake, with a silver fish crossways in its mouth, / just another one of the beautiful terrors of nature, / how one thing can turn into another without warning" (<title>Crime</title> 119) . Rather than threatening ordered society with death, the "serpent" here points to the ability to cross and recross patterns of self-definition and to the value of difference. In the in-between of natural environments, Pratt both inscribes the "wilderness," undoing the heterosexual domestic arrangement in order to proclaim her lesbian body, and travels through and exceeds it, so that "lesbian" evades categories of good and evil and "mother" may be heterosexual or lesbian.</p>
+          <p xml:id="sc17-1_10162">Inevitably, this exploration of how "woman" and "mother" may surpass traditional Southern definitions leads Pratt back to the women, the mother figures, in her past. In "The Mother Before Memory," she writes of both her birth mother and the African-American woman who took care of her from infancy through early childhood. In the first section of this poem, she remembers being close to the domestic worker:
+
+<q><l>No story, no picture of the first memory,</l><l>what I'm not supposed to remember: being held</l><l>by her, dark in a darkening room, face unseen,</l><l>but it is her. I am safe. I never called her my mother...</l> (56)</q></p>
+          <p xml:id="sc17-1_10163">More than a few writers have tried to describe this kind of memory only to succumb to the temptation to portray the nurturing caretaker without acknowledging the brutal forces of racism that separate woman and child. But Pratt is aware that this is something she is "not supposed to remember": she should hide such a strong attachment to this woman, for in the racist ideology of the South it potentially erases the rightful place of the white mother. In fact, as Pratt reckons with her memories of her birth mother in the poem's second section, she places the two women side by side, undoing the expected separation between tributes to the white mother and recollections of the African-American mother figure.</p>
+          <p xml:id="sc17-1_10164">And in another section of the poem, Pratt recognizes the ways both she and the domestic worker have been abused by their culture--precisely because as women, one African-American, one lesbian, they have been stripped of the right to motherhood. When she and her sons visit the now elderly woman, whose personal narrative and racial history is marred by the loss of children by force,
+
+<q><l>She inclines her head to signify us two</l><l>in the long story of women and children</l><l>severed. With a nod she declares us</l><l>not guilty, and begins to give advice.</l></q></p>
+          <p xml:id="sc17-1_10165">Pratt understands the history they share, and takes words of wisdom and help from the old woman: "Bind them to you, bind them while you can" (<title>Crime</title> 57).</p>
+          <p xml:id="sc17-1_10166">In the whole of Pratt's work, however, she never
+represents this connection with other oppressed women as an easy
+affiliation, for indeed she does always again return home. She
+understands that the in-between that frees her also means she can
+never finally assert her difference from her white father which, in
+the words of Biddy Martin and Chandra Mohanty, "would (and in much
+feminist literature does) exempt the daughter from her implication in
+the structures of privilege/oppression, structures that operate in
+ways much more complex than the male/female split itself."<ref target="#sc17-1007n2">2</ref> She always acknowledges her own feelings of loss only within the larger context of racist violence that has pervaded her native region. When one of her sons asks about Southern history, her thoughts immediately go to the lynching of young African-American men in south Alabama, and she says of her son, "I am ready to / tell him all I know" (<title>Crime</title> 75).</p>
+          <p xml:id="sc17-1_10167">Indeed, one of Pratt's chief revisions of Southern motherhood lies in her desire to pass on to her sons a different vision of what it means to be a man or a woman, what it means to be a Southerner. She speaks to them, hoping "..you'll remember / you come from dirt and history; that you'll choose / memory, not anesthesia..." (<title>Crime</title> 14), hoping they will participate in her story of who a Southern woman may be: self-defining, lesbian, unafraid to challenge racism and sexism at every turn. And, as she relates in the poem "Another Question," they do. When her youngest son reads her poems, Pratt writes, he likes "that I get in the middle and tell it all, / grab people and tell them, just say it" (Crime 98). In his tribute to his mother's defiance, Pratt's son himself becomes a sign of the immense possibilities for reconfiguring the
+mother-child relationship and the place of women in the South.</p>
+          <p xml:id="sc17-1_10168" rend="bold">Notes</p>
+          <note xml:id="sc17-1007n1" n="1" place="end"> Anne Firor Scott, <hi rend="italic">The Southern Lady: From Pedestal to Politics, 1830-1930</hi> (Chicago: University of Chicago Press. 1970), 16, 27ff. See also Sally G. McMillen, <hi rend="italic">Southern Women: Black and White in the Old South</hi> (Arlington Heights, Illinois: Harlan Davidson, 1992).</note>
+          <note xml:id="sc17-1007n2" n="2" place="end"> Biddy Martin and Chandra Talpade Mohanty, "Feminist Politics:
+What's Home Got to Do with It?," in<hi rend="italic"> Feminist Studies/ Critical
+Studies</hi>, ed. Teresa de Lauretis (Bloomington: Indiana University
+Press, 1986), 191.</note>
+          <div3 xml:id="sc17-1_027" type="About">
+            <p xml:id="sc17-1_10169">Kim Whitehead graduated last May from the Graduate Institute of Liberal Arts at Emory University in Women's Studies and American literature.</p>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

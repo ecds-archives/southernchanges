@@ -22,13 +22,11 @@ class Fields(_TeiBase):
     type = StringField("@type") 
     num = StringField("@n")
     pages = StringField("tei:docDate")
+    head = StringField('tei:head')
     ana = StringField("@ana")
-    
-class TeiDoc(Tei):
-    divs = xmlmap.NodeListField('//tei:div2', Fields)
 
 
-class Issue(XmlModel, Tei):
+class Issue(XmlModel):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
     id = StringField('@xml:id')
@@ -38,7 +36,6 @@ class Issue(XmlModel, Tei):
     head = StringField('//tei:div1/tei:head')
     year = StringField('//tei:div1/tei:p/tei:date')
 
-    site_url = 'http://beck.library.emory.edu/southernchanges'
     source = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl')
     issued_date = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date')
     created_date = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
@@ -51,54 +48,58 @@ class Issue(XmlModel, Tei):
     project_desc = StringField('tei:teiHeader/tei:encodingDesc/tei:projectDesc')
 
 
-    @property
-    def dc_fields(self):
-        dc = DublinCore()
-        dc.title = self.title
-        dc.creator = self.author
-        dc.identifier = self.identifier_ark
-        dc.publisher = self.header.publisher
-        dcterms.issued = self.issued_date
-        dcterms.created = self.created_date
-        dc.rights = self.header.rights
-        dcterms.isPartOf = self.series
-        dc.source = self.source
-        dcterms.description = self.divs
-        dcterms.hasPart = self.pids
-
-class Article(XmlModel, TeiDiv):
+class Article(XmlModel):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager("//tei:div2")
     article = NodeField("//tei:div2", "self")
     id = NodeField('@xml:id', 'self')
-    # pid = NodeField('ancestor::tei:TEI//tei:idno[@n=%s]' % id, Issue)
+    pid = NodeField('ancestor::tei:TEI//tei:idno[@n=%s]' % 'self', Issue)
     date = StringField('tei:docDate/@when')
     head = StringField('tei:head')
     author = StringField("tei:byline//tei:sic")
     type = StringField("@type")
     pages = StringField("tei:docDate")
+    ana = StringField("@ana", "self") 
 
+    # TODO: DRY this out
     issue = NodeField('ancestor::tei:TEI', Issue)
     issue_id = NodeField('ancestor::tei:TEI/@xml:id', Issue)
     issue_title = NodeField('ancestor::tei:TEI//tei:div1/tei:head', Issue)
+    next_id = NodeField("following::tei:div2[1]/@xml:id", "self")
+    next_title = NodeField("following::tei:div2[1]/tei:head", "self")  
+    previous_id = NodeField("preceding::tei:div2[1]/@xml:id", "self")
+    previous_title = NodeField("preceding::tei:div2[1]/tei:head", "self")
 
-    nextdiv = NodeField("following::tei:div2[1]", Fields)
-    prevdiv = NodeField("preceding::tei:div2[1]", Fields)
-     
 
+class ArticlePid(XmlModel):
+    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
+    objects = Manager("//tei:idno") 
+    id = NodeField('@n', 'self')
+    pid = StringField("//tei:idno", "self")
     
-    ana = StringField("@ana", "self") 
-   
-class Topics(XmlModel):
+
+class Topic(XmlModel):
     objects = Manager("//interp")
     id = StringField('@xml:id')
     name = StringField("//interp", "self")
+
     
-class Topic(XmlModel, Tei):
+class TopicArticle(XmlModel):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('//tei:certainty')
-    ana = StringField("@ana")
+
+    interp = NodeField('ancestor::tei:interp', Topic)
     degree = StringField("@degree")
-    article = NodeField("ancestor::tei:div2", Article)
+    topic_id = StringField("@ana")
+    
+    # TODO: DRY this out
+    date = NodeField('ancestor::tei:TEI//tei:div1/tei:p[1]/tei:date', Issue)
+    issue_id = NodeField('ancestor::tei:TEI/@xml:id', Issue)
+    article_id = NodeField('ancestor::tei:div2/@xml:id', Article)
+    article_title = NodeField('ancestor::tei:div2//tei:head', Article)
+    article_author = NodeField('ancestor::tei:div2//tei:byline//tei:sic', Article)
+    article_type = NodeField('ancestor::tei:div2/@type', Article)
+
+
 
    

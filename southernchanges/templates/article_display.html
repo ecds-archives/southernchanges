@@ -1,33 +1,74 @@
 {% extends "base.html" %}
 
 {% block head_extras %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button#highlighter").click(function(){
+        $("span.match").toggleClass("highlight-off");
+        $("button#highlighter").toggleClass("highlight");
+    });
+});
+</script>
 {# Dublin Core metadata for this article #}
-{% with article as dc_fields %}{% include 'article_dc_meta.html' %}{% endwith %}
+{% with article as dc_fields %}{% with pid as pid %}{% include 'snippets/article_dc_meta.html' %}{% endwith %}{% endwith %}
 {% endblock %}
 
 {% block title %}Article{% endblock %}
 {% block content %}
+{{ block.super }} 
+
 <div class="container">
   
+<div class="btn-group top-buttons">
+  
+    {% if search_terms %}
+    <button id="highlighter" title="Toggle Highlighing" type="button" class="btn btn-default highlight">
+    <span class="glyphicon glyphicon-tint" aria-hidden="true"></span>
+    </button>
+    {% endif %}
+      <a href="{% url "issue_toc" article.issue_id %}">
+<button title="Article List" type="button" class="btn btn-default" aria-label="Center Align">
+  <span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+  </button>
+</a>
+</div>
+
+<div id ="article" class="article">  
 {% if article %}
   {{ body|safe }}
 {% else %}
   <p>No article</p>
 {% endif %}
+</div>
 
- <p>Go to Article List for <a href="{% url "issue_toc" article.issue_id %}">{{article.issue_title}}</a></p>
-  
-<table width="75%">
-  <tbody>
-    {% if article.prevdiv_id %}
-    <tr>
-      <th style="text-align:left">Previous: </th><td><a href="{% url "article_display" article.issue_id article.prevdiv_id %}">{{article.prevdiv_title}}</a></td><td>{{article.prevdiv_type}}</td><td>{{article.prevdiv_pages}}</td><tr>
-    {% endif %}
-    {% if article.nextdiv_id %}
-    <tr>
-      <th style="text-align:left">Next: </th><td><a href="{% url "article_display" article.issue_id article.nextdiv_id %}">{{article.nextdiv_title}}</a></td><td>{{article.nextdiv_type}}</td><td>{{article.nextdiv_pages}}</td><tr>
-    {% endif %}
-    </tbody>
-     </table>
+
+<div class="container prev-next">
+{% if article.previous_id %}
+  <a href="{% url "article_display" article.issue_id article.previous_id %}">
+  <button type="button" class="btn btn-default previous" aria-label="Left Align">
+  <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+Previous Article
+  </button>
+  </a>
+{% endif %}
+
+{# TODO: align in center #}
+  <a href="{% url "issue_toc" article.issue_id %}">
+<button title="Article List" type="button" class="btn btn-default issue-toc" aria-label="Center Align">
+  <span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+  </button></a>
+    
+{% if article.next_id %}
+  <a href="{% url "article_display" article.issue_id article.next_id %}">
+  <button type="button" class="btn btn-default next" aria-label="Right Align">
+  Next Article
+  <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+  </button>
+  </a>
+{% endif %}
+ </div>
+
+ </div>
 
 {% endblock %}

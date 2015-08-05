@@ -1,104 +1,79 @@
 {% extends "base.html" %}
-{% load get_item %}
+{% load template_filters %}
 
 {% block title %}Search{% endblock %}
 {% block content %}
-{% include "browse-head.html" %}
+{{ block.super }} 
+
 <div class="container">
 
-<p><b>Search results for texts where:</b></p>
-{% if keyword %}
-<li>document contains keywords '{{keyword}}'</li>
-{% endif %}
-{% if author %}
-<li>author matches '{{author}}'</li>
-{% endif %}
-{% if title %}
-<li>title matches '{{title}}'</li>
-{% endif %}
-{% if article_date %}
-<li>date matches '{{article_date}}'</li>
-{% endif %}
-
-<hr>
+<h1>Search Results</h1>
 
 {% if server_error %}{{ server_error }}{% endif %}
-
 {% if searchform.is_valid %}
-    
-<table class="searchnav">
-  <tr>
-      <td width="25%">
-    {% if articles_paginated.number >= 3 %}
-        <a href="?page=1&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">&lt;&lt;First</a>
-    {% endif %}
-    </td>
-    <td width="25%">
-    {% if articles_paginated.has_previous %}
-        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">&lt;Previous</a>
-    {% endif %}
-    </td>
-    {% if articles_paginated.has_next %}
-    <td width="25%">
-        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">Next&gt;</a>
-    </td>
-    <td width="25%">
-        <a href="?page={{ articles_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}&article_date={{date}}">Last&gt;&gt;</a>
-    </td>
-    {% endif %}
-  </tr>
-</table>
+  
+<div class="results">
+ <h2>{{ items.paginator.count }} articles found where:</h2>
+{% if keyword %}
+<li class="lead">document contains keyword(s) '{{keyword}}'</li>
+{% endif %}
+{% if author %}
+<li class="lead">author matches '{{author}}'</li>
+{% endif %}
+{% if title %}
+<li class="lead">title contains '{{title}}'</li>
+{% endif %}
+{% if article_date %}
+<li class="lead">date matches '{{article_date}}'</li>
+{% endif %}
 
-<form align="right" id="jumpnav" action="{% url "search" %}">
-<select name="page" onchange="submit();">
-  {% for page in articles_paginated.paginator.page_range %}
-  {% if page == articles_paginated.number %}
-  <option value="{{page}}" selected="selected">{{ range_lookup|get_item:page }}</option>
-  {% else %}
-    <option value="{{page}}">{{ range_lookup|get_item:page }}</option>
-  {% endif %}
-    {% endfor %}
-</select>
-<input name="keyword" type="hidden" value="{{keyword}}">
-<input name="author" type="hidden" value="{{author}}">
-<input name="title" type="hidden" value="{{title}}">
-<input name="date" type="hidden" value="{{article_date}}">
-</form>
+<p class="lead">displaying {{ range_lookup|get_item:items.number }} </p>
+<hr>
+</div>
 
+{% if items.paginator.page_range|length > 1 %}
+{% include 'eultheme/snippets/pagination_dropdown.html' with results=items %}
+{% endif %}
+  
 
+<p>Click on the title to view the whole article. Click on the author name to view more articles by that author.</p>
 
-<p>{{ articles_paginated.paginator.count }} matches found</p>
-<p>Click on the number of hits to see your search terms in context. Click on the title to view the whole article. Click on the author name to view more articles by that author.</p>
-
-<table class="browse">
-  <thead style="font-size:small;">
+<table class="table">
+  <thead>
     <tr>
-      <th class="num" style="text-align:left">#</th>
-      <th style="text-align:left">Title</th>
-      <th style="text-align:left">Author</th>
-      <th style="text-align:left">Date</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Issue</th>
+      {% if keyword %}
+      <th>Relevance</th>
+      {% endif %}
     <tr/>
   </thead>
-  <tbody align="left" valign="top" style="font-size:small;">  
-  {% for article in articles_paginated.object_list %}
+  <tbody>  
+  {% for article in articles %}
     <tr>
-      <td class="num" width="4%">{{forloop.counter|add:articles_paginated.start_index|add:-1}}.</td>
-
-
       <td class="title">
 	<a href="{% url "article_display" article.issue_id article.id %}{% if keyword %}?keyword={{ keyword }}{% endif %}">{{article.head}}</a>
       </td>
-
-
       <td class="author" width="20%">
 	<a href="{% url "search" %}?author={{article.author}}">{{article.author}}</a>
       </td>
       <td class="date" width="25%">{{article.pages}}</td>
+      {% if keyword %}
+      <td class="relevance" width="7%">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" aria-valuenow="{{article.fulltext_score|x100}}" aria-valuemin="0" aria-valuemax="100" style="width: {{article.fulltext_score|x100}}%;">
+      </td>
+      {% endif %}
     </tr>
   {% endfor %}
     </tbody>
 </table>
- 
+
+{% if items.paginator.page_range|length > 1 %}
+{% include 'eultheme/snippets/pagination_all_pages.html' with results=items %}
+{% endif %}
+
 {% endif %}
 </div>
 {% endblock %}

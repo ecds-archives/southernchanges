@@ -1,39 +1,77 @@
 {% extends "base.html" %}
-{% load get_item %}
+
+{% load template_filters %}
 
 {% block title %}{{topic.name}}{% endblock %}
 
 {% block content %}
-<div class="container">
-<h2>{{topic.name}}</h2>
+{{ block.super }} 
 
-{{article_ids}}
+<div class="container">
+<h1>Topic: "{{topic.name}}"</h1>
+
+<!-- Button trigger modal -->
+  <div class="container topic-header">
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+<span class="glyphicon glyphicon-cloud" aria-hidden="true"></span>
+  Word Cloud
+</button>
+    </div>
   
-  
-<div class="wordcloud">
-<img src="{{STATIC_URL}}topics/wordclouds/cloud_{{topic.id}}.png" width="300" height="300">
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">{{topic.name}}</h4>
+      </div>
+      <div class="modal-body">
+        <img class="img-responsive center-block" src="{{STATIC_URL}}topics/wordclouds/cloud_{{topic.id}}.png" width="600" height="600">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
 </div>
-  
-<table class="containers">
-  <tbody>
-    <tr>
-      <th>Author</th>
-      <th>Title</th>
-      <th>Type</th>
-      <th>Pages</th>
-    <tr>
-  {% for article in articles %}
-<tr>
-       <td width="15%" valign="top">{{ article.author }}</td>
-      <td valign="top"><a href="{% url "article_display" article.issue.id article.id %}">{{ article.head }}</a></td>
-       <td width="10%" valign="top">{{ article.type }}</td>
-       <td width="25%" valign="top">{{ article.pages }}</td>
-       
-     </tr>
+
+
+
+<table class="table">
+    <tbody>
+      <tr>
+	<th>Author</th>
+	<th>Title</th>
+	<th>Type</th>
+	<th>Year</th>
+	<th>Topic %</th>
+      </tr>
+  {% for result in results %}
+      <tr>
+	<td>{{ result.article_author }}</td>
+	<td><a href="{% url "article_display" result.issue_id result.article_id %}">{{ result.article_title }}</a></td>
+	<td>{{ result.article_type }}</td>
+	<td style="width:5%;">{{ result.date }}</td>
+	<td style="width:8%;">
+	 <div class="progress topic">
+  <div class="progress-bar topic" role="progressbar" aria-valuenow="{{ result.degree }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ result.degree }}%;">
+ <div class="topic-percent">{{ result.degree|floatformat:0 }}</div>
+  </div>
+</div>
+</td> 
+      </tr>
   {% endfor %}
-     </tbody>
-     </table>
-     
+    </tbody>
+  </table>    
 </div>
+
+<script>
+
+function showCloud(img_url) {
+window.open(img_url, width=500, height=500);
+}
+
+</script>
 
 {% endblock content %}

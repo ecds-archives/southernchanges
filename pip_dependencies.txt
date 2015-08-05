@@ -1,4 +1,7 @@
-django==1.5.1
+Django>=1.7,<1.8
+mysql-python
+django-widget-tweaks
+django-downtime
 python-dateutil
 soaplib==0.8.1
 rdflib>=3.0
@@ -6,3 +9,4 @@ ply
 -e git://github.com/emory-libraries/eulxml.git#egg=eulxml
 -e git://github.com/emory-libraries/eulexistdb.git#egg=eulexistdb
 -e git://github.com/emory-libraries/eulcommon.git#egg=eulcommon
+-e git://github.com/emory-libraries/django-eultheme.git#egg=django-eultheme

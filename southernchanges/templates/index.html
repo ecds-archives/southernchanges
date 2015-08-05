@@ -1,92 +1,65 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
-<title>Southern Changes Digital Archive</title>
-<meta http-equiv="Content-Type" content="text/html;" charset="iso-8859-1">
-<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/schanges.css">
-<!-- dublin core metadata about the project -->
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
-<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
-  <meta name="DC.title" content="Southern Changes Digital Archive"/>
-  <meta name="DCTERMS.alternative" content="Southern Changes"/>
-  <meta name="DCTERMS.alternative" content="Southern Changes Online"/> 
-  <meta name="DCTERMS.alternative" content="Southern changes: the journal of the Southern Regional Council, 1978-2003"/>
-  <meta name="DC.creator" content="Lewis H. Beck Center for Electronic Collections"/>
-  <meta name="DC.publisher" content="Lewis H. Beck Center for Electronic Collections"/>
-  <meta name="DCTERMS.issued" content="2000-"/>
-  <meta name="DC.description" content="Searchable database of Southern
-Changes, the quarterly journal of the Southern Regional
-Council. Coverage begins with 1978 issues. This digital archive
-contains full-length original articles, reviews, interviews, essays,
-and reports that explore the variety of social conditions and cultural
-issues affecting the South."/>
-  <meta name="DC.description" content="&quot;A chronicle of the
-ongoing struggle for equality&quot;"/>
-  <meta name="DC.source" content="Southern changes. v. 1-26; Sept. 1978-2004. Atlanta, Ga. : Southern Regional Council."/>
-  <meta name="DC.subject" scheme="DCTERMS.LCSH" content=" Civil rights--Southern States"/>
-  <meta name="DC.subject" scheme="DCTERMS.LCSH" content="Southern States--Social conditions"/>
-  <meta name="DC.subject" scheme="DCTERMS.LCSH" content="Southern States--Economic conditions"/>
-  <meta name="DC.subject" scheme="DCTERMS.LCSH" content="African Americans"/>
-  <meta name="DC.type" scheme="DCTERMS.DCMIType" content="text"/>
-  <meta name="DC.type" scheme="marcgt" content="periodical"/>
-  <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
-  <meta name="DC.identifier" content="http://beck.library.emory.edu/southernchanges/"/>
-</head>
+{% extends "base.html" %}
+{% load template_filters %}
 
-<body>
-<div class="headimage">
-<img class="headimage" src="{{ STATIC_URL }}images/title-covers-trans.gif"  width="743"  height="173" alt="Southern Changes Online"/>
-<h2 class="subhead">The Journal of the Southern Regional Council, 1978-2003</h2>
+{% block head_extras %}
+{# Dublin Core metadata for site #}
+{% include 'snippets/site_dc_meta.html' %}
+{% endblock %}
+
+{% block title %}Southern Changes Digtial Archive{% endblock %}
+{% block content %}
+{{ block.super }} 
+
+<div class="container about">
+<h1>The <em>Southern Changes</em> Digital Archive</h1>
+
+<blockquote>
+<p>"...it is not simply final outcomes but processes of change which are significant to people's experience of their
+world."</p>
+  <footer>Doreen Massey</footer></blockquote>
+  
+<div class="container about-image">
+<img class="img-responsive center-block" src="{{ STATIC_URL }}images/teens_blacknwhite.jpg" width="350" height="225"/>
+<p>Photo &#x00A9; David Zeiger</p>
 </div>
 
-<div class="nav">
+<p>Between 1978 and 2003, the Atlanta-based Southern Regional Council
+  published <em>Southern Changes</em>, a journal featuring social
+  research,cultural analysis, reportage, commentary, reviews, and
+  interviews by an extraordinary list of writers, scholars, and activists.  The
+<em>Southern Changes Digital Archive</em> is a searchable
+database that provides full-text versions of each issue of Southern
+Changes over this twenty-five year period.  The articles in
+<em>Southern Changes</em> range across many subjects:  racial
+justice and the freedom struggle, voting rights, educational
+opportunity, economic democracy, social equality and inclusion,
+women's rights, environmental justice, critical regional studies,
+regional-global issues, and popular culture.</p>
+<p>Users of this digital
+archive have several ways to access <em>Southern Changes</em>
+content.  You may Browse from a list of the
+journal's issues, by volume and number.  You can then choose a
+particular issue to review a list of its articles; you can select an
+article to read in full text. Users can easily navigate from article
+to article and from issue to issue.  You can also use the Search
+feature linked from the Home page to enter key words and phrases
+(e.g. "voting rights," "desegregation," "poverty"), author, and dates,
+to locate and retrieve articles from <em>Southern Changes</em>.
+This digital archive contains the complete text of articles, but
+without photographs or images.</p>
+<p>The <em>Southern Changes Digital Archive</em> is produced in collaboration
+with the Beck Center for
+Electronic Collections at Emory
+University and the Southern Regional
+Council.</p>
 
-<p class="navlinks" id="about"><a href={% url "about" %}><span id="ov">Overview</span></a>
-<a href={% url "issues" %}><span id="br">Browse</span></a>
-<a href={% url "search" %}><span id="se">Search</span></a></p>
+<p>Prof. Allen Tullos <br>Editor of <em>Southern Changes</em>, 1982-2003.  <br><em>SC</em>DA Project Director.</p>
+<p>Alice Hickcox <br>Electronic Text Specialist <br>Beck Center,
+Woodruff  Library <br>Emory University</p>
+<div class="acklink">
+  <a href="{% url "acknowledgments" %}">Acknowledgments</a>
+</div>
 </div>
 
-<div class="teenimage">
-<img class="teenimage" src="{{ STATIC_URL }}images/teens_blacknwhite.jpg" width="300" height="225" align="top"/>
-<p class="credit">Photo&#x00A9;David Zeiger</p>
-</div>
 
-<div id="headersearchbox">
-<!-- include this file for searchbox -->
-<form name="keywordsearch" action="{% url "search" %}" method="get"><p
-     class="searchbox"><b>keyword search:</b><input id="key" type="text" size="20" name="keyword"/><input id="go" type='submit' size="20" value='Go'/></p></form>
-</div>
-
-<div class="externalnav">
-<p class="links" id="beck">
-<a href="http://beck.library.emory.edu/"><span id="bc">The Beck Center</span></a>
-<a href="http://www.southerncouncil.org/"><span id="src">Southern Regional Council</span></a>
-</p>
-</div>
-
-<div class="foot">
-<hr class="foot">
-<p class="footnav"><span id="con"><script language="javascript">
-<!--
-var username = "beckctr";
-var hostname = "emory.edu";
-var linktext = "Contact the Beck Center";
-document.write("<a href=" + "mail" + "to:" + username +
-"@" + hostname + ">" + linktext + "</a>")
-//-->
-</script>
-<noscript>Contact the Beck Center: beckctr<img src="{{ STATIC_URL }}images/at.gif" alt=" at "/>emory.edu</noscript></span> | <span id="euc"><a href="http://www.library.emory.edu/">Euclid</a></span> | <span id="ul"><a href="http://www.emory.edu/libraries.cfm">University Libraries</a></span> | <span id="univ"><a href="http://www.emory.edu/">Emory University</a></span>
-<p><a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a></p>
-</div>
-<div class="tracking">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11023816-3");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-</div>
-</body> </html>
- 
+{% endblock %}

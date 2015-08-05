@@ -1,13 +1,71 @@
 {% extends "base.html" %}
 
+{% block head_extras %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button#show-desc").click(function(){
+        $("span.match").toggleClass("highlight-off");
+        $("button#highlighter").toggleClass("highlight");
+    });
+});
+</script>
+{% endblock %}
+
+
 {% block title %}Topics{% endblock %}
 
 {% block content %}
-<div class="container">
-<h2>Browse the articles by topic.</h2>
+{{ block.super }} 
 
-{% for topic in topics %}
-  <p><b><a href={% url 'topic_toc' topic.id %}>{{topic.name}}</a></b></p>
-{% endfor %}
+<div class="container">
+<h1>Topics</h1>
+
+<!--<div class="container">-->
+<p>PLACEHOLDER: Description of how these topics were generated</p>
+
+<!--<button idclass="btn bt-default">Click here to learn more</p> -->
+<!-- <div class="topic-desc" -->
+<!-- <p>Here's a lot more detail about what I did.</p> -->
+<!-- <p><a href="send-file"><button class="btn btn-default">Download</button></a> -->
+<!-- </div> -->
+<!-- </div> -->
+
+  
 </div>
+
+<table class="table topic-table">
+  {% for row in rows %}
+  <tr>
+  {% for topic in row %}
+  <td>
+    <a href={% url 'topic_toc' topic.id %} class="btn btn-default" role="button">
+      <span class="topic-name">{{topic.name}}</span>
+    </a>
+  </td>
+  {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
+
+
+
+<!--Old layout, delete when ready-->
+<div class="container topic-list topic-table">
+  {% for row in rows %}
+  <div class="btn-toolbar topic-toolbar" role="toolbar">
+    <div class="btn-group btn-group-lg btn-group-justified
+  btn-group-fill-height">
+      {% for topic in row %}
+      <a href={% url 'topic_toc' topic.id %} class="btn btn-default topic-button" role="button">
+      <span class="topic-name">{{topic.name}}</span>
+      <!--<img class="img-responsive" src="{{STATIC_URL}}topics/wordclouds/cloud_{{topic.id}}.png" width="800" height="800">-->
+      </a>
+      {% endfor %}
+      </div>
+      </div>
+      {% endfor %}
+</div>
+      
+ 
 {% endblock content %}
