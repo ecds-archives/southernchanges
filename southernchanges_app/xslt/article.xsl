@@ -5,12 +5,19 @@
                 xmlns:html="http://www.w3.org/TR/REC-html40"
                 xmlns:exist="http://exist.sourceforge.net/NS/exist">
 
+<xsl:include href="footnotes.xsl"/>
 
 <xsl:output method="html"/> 
+
+<xsl:template match="/"> 
+    <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
+    <xsl:apply-templates select="//TEI"/>
+</xsl:template>
 
 <xsl:template match="/">
     <div>
       <xsl:apply-templates select="//tei:div2" />
+          <xsl:call-template name="endnotes"/>
     </div>
 </xsl:template>
 
