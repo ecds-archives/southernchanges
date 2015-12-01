@@ -17,6 +17,7 @@ sitemaps = {
 from southernchanges_app.views import index, acknowledgments, searchform, browse, issue_toc, issue_tei, article_display, topics, topic_toc, send_file
 
 urlpatterns = patterns('southernchanges_app.views',
+    url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'index', name='site-index'),
     url(r'^acknowledgments$', 'acknowledgments', name='acknowledgments'),
     url(r'^browse$', 'browse', name='browse'),
