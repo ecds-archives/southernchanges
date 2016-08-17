@@ -10,10 +10,12 @@ from django.conf import settings
 from django.shortcuts import render
 from django.http import HttpResponse, Http404
 from django.template import RequestContext
+from django.contrib import messages
 
 from southernchanges_app.models import Issue, Article, ArticlePid, Topic, TopicArticle
 from southernchanges_app.forms import SearchForm
 from eulexistdb.exceptions import DoesNotExist 
+from eulexistdb.db import ExistDBException
 
 logger = logging.getLogger(__name__)
 
@@ -25,6 +27,7 @@ def acknowledgments(request):
   return render(request, 'acknowledgments.html')
 
 def searchform(request):
+    query_error = False
     "Search by keyword/author/title/article_date"
     form = SearchForm(request.GET)
     response_code = None
@@ -46,49 +49,60 @@ def searchform(request):
         if 'article_date' in form.cleaned_data and form.cleaned_data['article_date']:
             search_opts['date__contains'] = '%s' % form.cleaned_data['article_date'] 
             url_params['date'] = '%s' % form.cleaned_data['article_date']
-                       
-        articles = Article.objects.only("id", "head", "author", "date", "issue_id", "pages").also('fulltext_score') \
-                                  .filter(**search_opts).order_by('-fulltext_score')                                  
-        searchform_paginator = Paginator(articles, number_of_results)
         
-        try:
-            page = int(request.GET.get('page', '1'))
-        except ValueError:
-            page = 1
+        try:               
+            articles = Article.objects.only("id", "head", "author", "date", "issue_id", "pages").also('fulltext_score') \
+                                      .filter(**search_opts).order_by('-fulltext_score')                                  
+            searchform_paginator = Paginator(articles, number_of_results)
+        
+            try:
+                page = int(request.GET.get('page', '1'))
+            except ValueError:
+                page = 1
 
-        # If page request (9999) is out of range, deliver last page of results.
-        try:
-            searchform_page = searchform_paginator.page(page)
-        except (EmptyPage, InvalidPage):
-            searchform_page = searchform_paginator.page(paginator.num_pages)
-        range_dict = {}
+            # If page request (9999) is out of range, deliver last page of results.
+            try:
+                searchform_page = searchform_paginator.page(page)
+            except (EmptyPage, InvalidPage):
+                searchform_page = searchform_paginator.page(paginator.num_pages)
+            range_dict = {}
 
-        for page in searchform_page.paginator.page_range:
-            range_dict[page] = str(searchform_paginator.page(page).start_index()) + ' - ' +  \
-                               str(searchform_paginator.page(page).end_index())
+            for page in searchform_page.paginator.page_range:
+                range_dict[page] = str(searchform_paginator.page(page).start_index()) + ' - ' +  \
+                                   str(searchform_paginator.page(page).end_index())
 
-        param_list = []                      
-        for k in url_params.iterkeys():
-            param_list.append(k + '=' + url_params[k])
-        url_params = '&'.join(param_list)
+            param_list = []                      
+            for k in url_params.iterkeys():
+                param_list.append(k + '=' + url_params[k])
+            url_params = '&'.join(param_list)
                                
         
-        context['articles'] = searchform_page.object_list
-        context['items'] = searchform_page
-        context['range_lookup'] = range_dict
-        context['keyword'] = form.cleaned_data['keyword']
-        context['author'] = form.cleaned_data['author']
-        context['title'] = form.cleaned_data['title']
-        context['article_date'] = form.cleaned_data['article_date']
-        context['url_params'] = url_params        
+            context['articles'] = searchform_page.object_list
+            context['items'] = searchform_page
+            context['range_lookup'] = range_dict
+            context['keyword'] = form.cleaned_data['keyword']
+            context['author'] = form.cleaned_data['author']
+            context['title'] = form.cleaned_data['title']
+            context['article_date'] = form.cleaned_data['article_date']
+            context['url_params'] = url_params        
 
-        response = render(request, 'search_results.html', context)                 
-
+            response = render(request, 'search_results.html', context)                 
+        except ExistDBException as e:
+            query_error = True
+            if 'Cannot parse' in e.message():
+                messages.error(request, 'Your search query could not be parsed.  ' + 'Please revise your search and try again.')
+            else:
+                # generic error message for any other exception
+                messages.error(request, 'There was an error processing your search.')
+            response = render(request, 'search.html',{'searchform': form, 'request': request})
+        
     else:
         response = render(request, 'search.html', {"searchform": form})
 
     if response_code is not None:
         response.status_code = response_code
+    if query_error:
+        response.status_code = 400
 
     return response
   
